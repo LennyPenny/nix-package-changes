@@ -1,0 +1,56 @@
+name: "Hourly"
+
+on:
+  push:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron: '0 */1 * * *'
+
+permissions: {}
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required for pushing changes
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Lix GHA Installer Action
+        uses: samueldr/lix-gha-installer-action@v2026-02-22
+
+      - name: Fetch Nixpkgs package list
+        run: |
+          nix search --json nixpkgs ^ | jq > packages.json
+
+      - name: Check for changes
+        id: check-changes
+        run: |
+          git add packages.json
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected."
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit changes
+        if: steps.check-changes.outputs.changed == 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add packages.json
+          git commit -m "nixpkgs: $(nix-instantiate --eval -E 'with import <nixpkgs> {}; pkgs.path' | tr -d '"')"
+
+      - name: Push changes
+        if: steps.check-changes.outputs.changed == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
