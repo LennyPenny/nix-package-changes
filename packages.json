@@ -7,7 +7,7 @@
   "legacyPackages.x86_64-linux.ArchiSteamFarm": {
     "description": "Application with primary purpose of idling Steam cards from multiple accounts simultaneously",
     "pname": "archisteamfarm",
-    "version": "6.3.10.6"
+    "version": "6.3.11.7"
   },
   "legacyPackages.x86_64-linux.CuboCore.coreaction": {
     "description": "Side bar for showing widgets from the C Suite",
@@ -3842,7 +3842,7 @@
   "legacyPackages.x86_64-linux.alacritty-theme": {
     "description": "Collection of Alacritty color schemes",
     "pname": "alacritty-theme",
-    "version": "0-unstable-2026-09-11"
+    "version": "0-unstable-2026-10-29"
   },
   "legacyPackages.x86_64-linux.alan": {
     "description": "Alan interactive fiction language",
@@ -4067,7 +4067,7 @@
   "legacyPackages.x86_64-linux.algol68g": {
     "description": "Algol 68 Genie compiler-interpreter",
     "pname": "algol68g",
-    "version": "3.12.3"
+    "version": "3.13.4"
   },
   "legacyPackages.x86_64-linux.algolia-cli": {
     "description": "Algolia’s official CLI devtool",
@@ -4187,7 +4187,7 @@
   "legacyPackages.x86_64-linux.all-the-package-names": {
     "description": "List of all the public package names on npm",
     "pname": "all-the-package-names",
-    "version": "2.0.2601"
+    "version": "2.0.2613"
   },
   "legacyPackages.x86_64-linux.allegro": {
     "description": "Game programming library",
@@ -9647,7 +9647,7 @@
   "legacyPackages.x86_64-linux.archisteamfarm": {
     "description": "Application with primary purpose of idling Steam cards from multiple accounts simultaneously",
     "pname": "archisteamfarm",
-    "version": "6.3.10.6"
+    "version": "6.3.11.7"
   },
   "legacyPackages.x86_64-linux.archivemount": {
     "description": "Gateway between FUSE and libarchive: allows mounting of cpio, .tar.gz, .tar.bz2 archives",
@@ -10182,7 +10182,7 @@
   "legacyPackages.x86_64-linux.arrow-adbc": {
     "description": "Database connectivity API standard and libraries for Apache Arrow",
     "pname": "arrow-adbc",
-    "version": "24"
+    "version": "25"
   },
   "legacyPackages.x86_64-linux.arrow-cpp": {
     "description": "Cross-language development platform for in-memory data",
@@ -10352,7 +10352,7 @@
   "legacyPackages.x86_64-linux.ascii": {
     "description": "Interactive ASCII name and synonym chart",
     "pname": "ascii",
-    "version": "3.32"
+    "version": "3.33"
   },
   "legacyPackages.x86_64-linux.ascii-draw": {
     "description": "Draw diagrams or anything using only ASCII",
@@ -12062,7 +12062,7 @@
   "legacyPackages.x86_64-linux.avbroot": {
     "description": "Sign (and root) Android A/B OTAs with custom keys while preserving Android Verified Boot",
     "pname": "avbroot",
-    "version": "3.37.0"
+    "version": "3.37.1"
   },
   "legacyPackages.x86_64-linux.avd-fw": {
     "description": "Firmware for the Apple Video Decoder, found on M-Series Apple Silicon Devices",
@@ -12407,7 +12407,7 @@
   "legacyPackages.x86_64-linux.aws-vault": {
     "description": "Vault for securely storing and accessing AWS credentials in development environments",
     "pname": "aws-vault",
-    "version": "7.16.2"
+    "version": "7.17.5"
   },
   "legacyPackages.x86_64-linux.aws-workspaces": {
     "description": "Client for Amazon WorkSpaces, a managed, secure Desktop-as-a-Service (DaaS) solution",
@@ -14057,7 +14057,7 @@
   "legacyPackages.x86_64-linux.balena-cli": {
     "description": "Command line interface for balenaCloud or openBalena",
     "pname": "balena-cli",
-    "version": "25.2.7"
+    "version": "25.2.9"
   },
   "legacyPackages.x86_64-linux.balena-compose-parser": {
     "description": "compose-go wrapper for parsing balena-compatible docker-compose.yml files ",
@@ -16434,6 +16434,11 @@
     "pname": "bink-player",
     "version": "2025.05"
   },
+  "legacyPackages.x86_64-linux.binmerge": {
+    "description": "Tool to merge multiple bin/cue tracks into one",
+    "pname": "binmerge",
+    "version": "1.0.3"
+  },
   "legacyPackages.x86_64-linux.bino3d": {
     "description": "Video player with a focus on 3D and Virtual Reality",
     "pname": "bino3d",
@@ -17997,7 +18002,7 @@
   "legacyPackages.x86_64-linux.boxflat": {
     "description": "Control your Moza gear settings",
     "pname": "python3.14-boxflat",
-    "version": "1.35.5"
+    "version": "1.37.1"
   },
   "legacyPackages.x86_64-linux.boxfort": {
     "description": "Convenient & cross-platform sandboxing C library",
@@ -18138,16 +18143,6 @@
     "description": "Gnome CD/DVD Burner",
     "pname": "brasero",
     "version": "3.12.3"
-  },
-  "legacyPackages.x86_64-linux.brave": {
-    "description": "Privacy-oriented browser for Desktop and Laptop computers",
-    "pname": "brave",
-    "version": "1.98.63"
-  },
-  "legacyPackages.x86_64-linux.brave-origin": {
-    "description": "Privacy-oriented browser for Desktop and Laptop computers (Origin variant)",
-    "pname": "brave-origin",
-    "version": "1.98.63"
   },
   "legacyPackages.x86_64-linux.brave-search-cli": {
     "description": "CLI for the Brave Search API with support for web, news, images, and AI answer endpoints",
@@ -21252,7 +21247,7 @@
   "legacyPackages.x86_64-linux.catgirldownloader": {
     "description": "A GTK4 application that downloads images of catgirl and waifus from multiple sources",
     "pname": "catgirldownloader",
-    "version": "0.5"
+    "version": "0.6.1"
   },
   "legacyPackages.x86_64-linux.catimg": {
     "description": "Insanely fast image printing in your terminal",
@@ -21832,7 +21827,7 @@
   "legacyPackages.x86_64-linux.cedar": {
     "description": "Implementation of the Cedar Policy Language",
     "pname": "cedar",
-    "version": "4.14.0"
+    "version": "4.14.1"
   },
   "legacyPackages.x86_64-linux.ceedling": {
     "description": "Build system for C projects that is something of an extension around Ruby's Rake",
@@ -22407,7 +22402,7 @@
   "legacyPackages.x86_64-linux.charles": {
     "description": "Web Debugging Proxy",
     "pname": "charles",
-    "version": "5.2.1"
+    "version": "5.2.2"
   },
   "legacyPackages.x86_64-linux.charles3": {
     "description": "Web Debugging Proxy",
@@ -22422,7 +22417,7 @@
   "legacyPackages.x86_64-linux.charles5": {
     "description": "Web Debugging Proxy",
     "pname": "charles",
-    "version": "5.2.1"
+    "version": "5.2.2"
   },
   "legacyPackages.x86_64-linux.charliecloud": {
     "description": "User-defined software stacks (UDSS) for high-performance computing (HPC) centers",
@@ -22472,7 +22467,7 @@
   "legacyPackages.x86_64-linux.chatgpt": {
     "description": "Desktop application for ChatGPT",
     "pname": "chatgpt",
-    "version": "26.1027.30824"
+    "version": "26.1029.61003"
   },
   "legacyPackages.x86_64-linux.chatgpt-classic": {
     "description": "Desktop application for ChatGPT Classic",
@@ -27782,7 +27777,7 @@
   "legacyPackages.x86_64-linux.chroncal": {
     "description": "Terminal-first calendar, todo, and journal manager with iCalendar support and CalDAV sync",
     "pname": "chroncal",
-    "version": "0.15.1"
+    "version": "0.17.4"
   },
   "legacyPackages.x86_64-linux.chrony": {
     "description": "Sets your computer's clock from time servers on the Net",
@@ -28942,7 +28937,7 @@
   "legacyPackages.x86_64-linux.clouddrive2": {
     "description": "Multi-cloud drives management tool supporting mounting cloud drives locally",
     "pname": "clouddrive2",
-    "version": "1.1.2"
+    "version": "1.1.3"
   },
   "legacyPackages.x86_64-linux.cloudflare-cli": {
     "description": "CLI for interacting with Cloudflare",
@@ -29392,7 +29387,7 @@
   "legacyPackages.x86_64-linux.coc-clangd": {
     "description": "clangd extension for coc.nvim",
     "pname": "coc-clangd",
-    "version": "0-unstable-2026-10-01"
+    "version": "0-unstable-2026-11-01"
   },
   "legacyPackages.x86_64-linux.coc-css": {
     "description": "Css language server extension for coc.nvim",
@@ -29492,7 +29487,7 @@
   "legacyPackages.x86_64-linux.coc-pyright": {
     "description": "Pyright extension for coc.nvim",
     "pname": "coc-pyright",
-    "version": "0-unstable-2026-10-01"
+    "version": "0-unstable-2026-11-01"
   },
   "legacyPackages.x86_64-linux.coc-r-lsp": {
     "description": "R LSP client for coc.nvim",
@@ -29852,7 +29847,7 @@
   "legacyPackages.x86_64-linux.codex-relay": {
     "description": "Responses API ↔  Chat Completions translation bridge for Codex CLI",
     "pname": "codex-relay",
-    "version": "0.5.8"
+    "version": "0.6.0"
   },
   "legacyPackages.x86_64-linux.codex-security": {
     "description": "CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities in your code",
@@ -30435,9 +30430,9 @@
     "version": "1.3.5"
   },
   "legacyPackages.x86_64-linux.comodoro": {
-    "description": "CLI to manage your time",
+    "description": "CLI to manage timers",
     "pname": "comodoro",
-    "version": "0.1.2"
+    "version": "2.0.0"
   },
   "legacyPackages.x86_64-linux.compactor": {
     "description": "Tools to capture DNS traffic and record it in C-DNS files",
@@ -31667,7 +31662,7 @@
   "legacyPackages.x86_64-linux.cotp": {
     "description": "Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality",
     "pname": "cotp",
-    "version": "1.11.0"
+    "version": "1.11.1"
   },
   "legacyPackages.x86_64-linux.coturn": {
     "description": "TURN server",
@@ -33037,7 +33032,7 @@
   "legacyPackages.x86_64-linux.cudaPackages.cuda_compat": {
     "description": "Provides minor version forward compatibility for the CUDA runtime",
     "pname": "cuda13.4-cuda_compat",
-    "version": "0-unsupported"
+    "version": "615.71.10"
   },
   "legacyPackages.x86_64-linux.cudaPackages.cuda_crt": {
     "description": "",
@@ -35232,7 +35227,7 @@
   "legacyPackages.x86_64-linux.databricks-cli": {
     "description": "Databricks CLI",
     "pname": "databricks-cli",
-    "version": "1.20.0"
+    "version": "1.22.1"
   },
   "legacyPackages.x86_64-linux.databricks-sql-cli": {
     "description": "CLI for querying Databricks SQL",
@@ -35487,7 +35482,7 @@
   "legacyPackages.x86_64-linux.dbeaver-bin": {
     "description": "Universal SQL Client for developers, DBA and analysts. Supports MySQL, PostgreSQL, MariaDB, SQLite, and more",
     "pname": "dbeaver-bin",
-    "version": "26.2.3"
+    "version": "26.2.4"
   },
   "legacyPackages.x86_64-linux.dbgate": {
     "description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others",
@@ -37997,7 +37992,7 @@
   "legacyPackages.x86_64-linux.dness": {
     "description": "Dynamic DNS updating tool supporting a variety of providers",
     "pname": "dness",
-    "version": "0.6.0"
+    "version": "0.6.1"
   },
   "legacyPackages.x86_64-linux.dnf-plugins-core": {
     "description": "Core plugins to use with DNF package manager",
@@ -44447,12 +44442,12 @@
   "legacyPackages.x86_64-linux.everest": {
     "description": "Celeste mod loader (don't install; use celestegame instead)",
     "pname": "everest",
-    "version": "6642"
+    "version": "6662"
   },
   "legacyPackages.x86_64-linux.everest-bin": {
     "description": "Celeste mod loader (don't install; use celestegame instead)",
     "pname": "everest",
-    "version": "6642"
+    "version": "6662"
   },
   "legacyPackages.x86_64-linux.everest-mons": {
     "description": "Commandline Everest installer and mod manager for Celeste",
@@ -45062,7 +45057,7 @@
   "legacyPackages.x86_64-linux.fable": {
     "description": "F# to JavaScript compiler",
     "pname": "fable",
-    "version": "5.23.0"
+    "version": "5.26.0"
   },
   "legacyPackages.x86_64-linux.fabric": {
     "description": "Pythonic remote execution",
@@ -47777,7 +47772,7 @@
   "legacyPackages.x86_64-linux.fittrackee": {
     "description": "Self-hosted outdoor activity tracker",
     "pname": "fittrackee",
-    "version": "1.3.6"
+    "version": "1.3.8"
   },
   "legacyPackages.x86_64-linux.fityk": {
     "description": "Curve fitting and peak fitting software",
@@ -49682,7 +49677,7 @@
   "legacyPackages.x86_64-linux.fosrl-gerbil": {
     "description": "Simple WireGuard interface management server",
     "pname": "gerbil",
-    "version": "1.5.2"
+    "version": "1.6.0"
   },
   "legacyPackages.x86_64-linux.fosrl-newt": {
     "description": "Tunneling client for Pangolin",
@@ -52005,9 +52000,9 @@
     "version": "0.74.5"
   },
   "legacyPackages.x86_64-linux.fzf-git-sh": {
-    "description": "Bash, zsh and fish key bindings for Git objects, powered by fzf",
+    "description": "Bash, zsh, fish and tmux key bindings for Git objects, powered by fzf",
     "pname": "fzf-git-sh",
-    "version": "0-unstable-2026-08-06"
+    "version": "0-unstable-2026-10-17"
   },
   "legacyPackages.x86_64-linux.fzf-make": {
     "description": "Fuzzy finder for Makefile",
@@ -52112,7 +52107,7 @@
   "legacyPackages.x86_64-linux.gajim": {
     "description": "XMPP chat client",
     "pname": "gajim",
-    "version": "2.6.0"
+    "version": "2.7.0"
   },
   "legacyPackages.x86_64-linux.galah": {
     "description": "LLM-powered web honeypot using the OpenAI API",
@@ -54667,7 +54662,7 @@
   "legacyPackages.x86_64-linux.ghr": {
     "description": "Upload multiple artifacts to GitHub Release in parallel",
     "pname": "ghr",
-    "version": "0.18.5"
+    "version": "0.18.6"
   },
   "legacyPackages.x86_64-linux.ghr-cli": {
     "description": "Fast terminal workspace for staying on top of GitHub",
@@ -55122,7 +55117,7 @@
   "legacyPackages.x86_64-linux.git-credential-manager": {
     "description": "Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services",
     "pname": "git-credential-manager",
-    "version": "2.7.3"
+    "version": "3.0.2"
   },
   "legacyPackages.x86_64-linux.git-credential-oauth": {
     "description": "Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth",
@@ -57877,7 +57872,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.activity-app-launcher": {
     "description": "Integrates a category-based application launcher in the activities window. IMPORTANT: it needs the 'gnome-menus' and 'libgnome-menu-3-dev'; they must be installed in the system before installing this extension.",
     "pname": "gnome-shell-extension-activity-app-launcher",
-    "version": "57"
+    "version": "58"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.adaptive-brightness": {
     "description": "This extension is a customizable alternative of 'Automatic Screen Brightness' found in GNOME settings. ",
@@ -57900,14 +57895,19 @@
     "version": "4"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.add-username-to-top-panel": {
-    "description": "Simply add your display name to the top panel Quick Settings menu in GNOME Shell.",
+    "description": "Simply add your display name and avatar picture to the top panel Quick Settings menu in GNOME Shell.",
     "pname": "gnome-shell-extension-add-username-to-top-panel",
-    "version": "23"
+    "version": "24"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.addpowerbutton": {
     "description": "Adds a power menu icon to the top panel with options to suspend, log out, restart or shutdown the system.",
     "pname": "gnome-shell-extension-addpowerbutton",
     "version": "2"
+  },
+  "legacyPackages.x86_64-linux.gnomeExtensions.adjust-display-brightness-2": {
+    "description": "Control external monitor brightness via DDC/CI. Requires ddcutil and user access to I2C devices. You can copy logs and setup instructions to the clipboard.",
+    "pname": "gnome-shell-extension-adjust-display-brightness",
+    "version": "2-8"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.advanced-alttab-window-switcher": {
     "description": "A highly customizable replacement for Alt/Super+Tab window/app switchers that offers a 'type to search' mode, various filtering and sorting options, workspace and monitor navigation, configurable hotkeys for navigation and window/app control, and an app launcher.",
@@ -57917,7 +57917,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.advanced-media-controller": {
     "description": "Media controls for the GNOME Shell panel. Works with any MPRIS player (Spotify, VLC, Rhythmbox, browsers) and lets you switch between several players from tabs in the popup.",
     "pname": "gnome-shell-extension-advanced-media-controller",
-    "version": "31"
+    "version": "44"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.advanced-network-gui": {
     "description": "A drop-down menu for managing NetworkManager (Wi-Fi, Hotspot) directly from the top bar.",
@@ -57932,12 +57932,12 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.adw-gtk3-colorizer": {
     "description": "Colorize adw-gtk3 straight from your system color accents.",
     "pname": "gnome-shell-extension-adw-gtk3-colorizer",
-    "version": "4"
+    "version": "5"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.ai-autocorrect": {
     "description": "Plyph turns selected text into customizable AI actions anywhere in GNOME. Use local Ollama, OpenAI-compatible servers, cloud providers with your own API key, or sign in with your ChatGPT account.",
     "pname": "gnome-shell-extension-ai-autocorrect",
-    "version": "10"
+    "version": "12"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.alacritty-focus-or-launch": {
     "description": "Super+T will open only one Alacritty window. If one is open, change focus instead of creating a new one",
@@ -58057,7 +58057,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.app-grid-icon-size": {
     "description": "Customize App Grid icon size, rows/columns and spacing to fit more apps per page",
     "pname": "gnome-shell-extension-app-grid-icon-size",
-    "version": "9"
+    "version": "10"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.app-grid-page-rearrange": {
     "description": "Reorder Gnome App Grid pages (move left/right, set first/last) using the context menu that appears when right-clicking the page indicators.",
@@ -58067,7 +58067,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.app-grid-tuner": {
     "description": "Tune and customize the GNOME application grid (rows, columns, icon size, padding, labels).",
     "pname": "gnome-shell-extension-app-grid-tuner",
-    "version": "9"
+    "version": "10"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.app-grid-uninstall": {
     "description": "Right-click any app in the GNOME App Grid to uninstall it directly, without opening GNOME Software or a terminal.",
@@ -58098,6 +58098,16 @@
     "description": "Shows the active app's name and icon on the left side of the top panel.",
     "pname": "gnome-shell-extension-app-name-indicator",
     "version": "6"
+  },
+  "legacyPackages.x86_64-linux.gnomeExtensions.app-volume-control": {
+    "description": "Control individual application volume",
+    "pname": "gnome-shell-extension-app-volume-control",
+    "version": "1"
+  },
+  "legacyPackages.x86_64-linux.gnomeExtensions.app-volumes": {
+    "description": "Volume sliders for every running application, including apps that are silent right now, like the Windows volume mixer. Open them with the arrow next to the volume slider in Quick Settings. A volume set for a silent app applies to its next sound, such as the next notification. Requires PipeWire with WirePlumber.",
+    "pname": "gnome-shell-extension-app-volumes",
+    "version": "1"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.appimage-manager": {
     "description": "Automatically integrates AppImage applications into the GNOME application launcher.",
@@ -58207,7 +58217,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.audio-switch-shortcuts": {
     "description": "This extension allows you to switch speakers and microphones with global keyboard shortcuts, instead of using the mouse to open the Gnome Panel or navigate menus. It allows you to set specific audio devices to cycle through, and set your own hotkeys.",
     "pname": "gnome-shell-extension-audio-switch-shortcuts",
-    "version": "12"
+    "version": "13"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.audiorec": {
     "description": "One-click microphone recording from Quick Settings. Each recording gets a name and always stays on disk; you choose whether it also goes into the store (voice reminders) for quick access. Per-item play / rename / pin / delete. While recording, a red indicator with a timer appears in the panel and doubles as the stop button. Records with ffmpeg (Opus), plays back with ffplay.",
@@ -58223,6 +58233,11 @@
     "description": "A customizable GNOME Shell extension that enhances the user experience with various modules and features. Clipboard History reads and stores clipboard content locally so it can be browsed and restored. Capture Tools writes captured images and locally recognized text to the clipboard when requested. No clipboard or OCR data is shared with third parties, and the Clipboard History shortcut is unset by default.",
     "pname": "gnome-shell-extension-aurora-shell",
     "version": "35"
+  },
+  "legacyPackages.x86_64-linux.gnomeExtensions.authenticator-companion": {
+    "description": "Companion extension for GNOME Authenticator: it only works while Authenticator is installed and unlocked. It shows the accounts already configured in the app in the top panel and copies the current OTP code to the system clipboard with one click. It touches the clipboard only for that explicit action, and re-checks availability before every reveal and copy. Authenticator stays the only source of accounts: the extension reads them through its D-Bus Search Provider and never imports, stores or reads secrets itself.",
+    "pname": "gnome-shell-extension-authenticator-companion",
+    "version": "2"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.auto-accent-colour": {
     "description": "Automatically set GNOME's accent colour based on the wallpaper.",
@@ -58317,7 +58332,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.avatar-quick-settings": {
     "description": "Add user avatar to quick settings menu",
     "pname": "gnome-shell-extension-avatar-quick-settings",
-    "version": "2"
+    "version": "3"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.aviationweather": {
     "description": "Show METAR and TAF for your favourite airports.",
@@ -58412,7 +58427,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.battery-usage-wattmeter": {
     "description": " Shows charging/discharging consumption (+/-) in Watt next to battery percentage level.",
     "pname": "gnome-shell-extension-battery-usage-wattmeter",
-    "version": "24"
+    "version": "26"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.better-bluetooth-panel": {
     "description": "Make bluetooth panel show connected devices more visibly",
@@ -58432,7 +58447,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.better-tray-icons": {
     "description": "Brings tray icons back to the GNOME panel. Supports the StatusNotifierItem (SNI) and KStatusNotifierItem specs, so apps like Discord, Steam, Telegram, Signal and Nextcloud show up in the panel like they used to.",
     "pname": "gnome-shell-extension-better-tray-icons",
-    "version": "15"
+    "version": "16"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.bifocals": {
     "description": "Simple window anchoring / resizing / moving / screen placement manager that works.",
@@ -58442,7 +58457,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.bilingual-app-search": {
     "description": "Make GNOME Search look up applications in both English and your system's locale.",
     "pname": "gnome-shell-extension-bilingual-app-search",
-    "version": "6"
+    "version": "7"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.binary-clock": {
     "description": "Displays the time in Binary or Binary-coded Decimal(BCD) format",
@@ -58455,9 +58470,9 @@
     "version": "53"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.bitaxe-monitor": {
-    "description": "Monitor Bitaxe, NerdQaxe, Octaxe and other AxeOS-compatible devices. View live hashrate, temperatures, power, efficiency, shares, uptime and sparkline trends. Manage multiple devices with customizable farm views and optional performance and availability alerts.",
+    "description": "Monitor your Bitaxe mining stats on your panel. Includes a Copy Stats button that writes the currently displayed stats to the clipboard when clicked.",
     "pname": "gnome-shell-extension-bitaxe-monitor",
-    "version": "12"
+    "version": "14"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.bitcoin-price-checker": {
     "description": "Displays the current price of Bitcoin, using the Binance API, and updates every minute.",
@@ -58497,12 +58512,12 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.blur-bar": {
     "description": "Lightweight blur for the top bar and the Activities overview.",
     "pname": "gnome-shell-extension-blur-bar",
-    "version": "3"
+    "version": "4"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.blur-my-shell": {
-    "description": "Adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview.",
+    "description": "Adds a blur look to different parts of GNOME Shell, including the top panel, dash and overview.",
     "pname": "gnome-shell-extension-blur-my-shell",
-    "version": "75"
+    "version": "76"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.blur-wallpaper": {
     "description": "Blur wallpaper: desktop, overview, dynamic, blur intensity.",
@@ -58510,9 +58525,9 @@
     "version": "2"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.blur-wallpaper-with-adjustable-intensity": {
-    "description": "Creates a static, blurred copy of your current desktop wallpaper to improve performance and provide artifact-free workspace switching. Set the blur intensity from 0 to 300, then wait a moment for the image to be generated.",
+    "description": "Your wallpaper. Two views. Just the right blur. Soften your desktop and bring your wallpaper into the Activities overview, each with its own blur intensity. Keep Overview sharper than your desktop, or choose any balance from 0 to 300 px. Supports light and dark wallpapers. Uses cached images instead of a live GPU blur effect. Requires ImageMagick (the magick command).",
     "pname": "gnome-shell-extension-blur-wallpaper-with-adjustable-intensity",
-    "version": "8"
+    "version": "10"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.boatman-winboat-monitor": {
     "description": "Simple GNOME extension to monitor and manage WinBoat Docker container.",
@@ -58542,7 +58557,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.bottom-overview": {
     "description": "Overview appears when hovering the bottom of any monitor.",
     "pname": "gnome-shell-extension-bottom-overview",
-    "version": "18"
+    "version": "19"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.bottom-panel": {
     "description": "Add a bottom panel to the shell",
@@ -58552,7 +58567,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.bowser-gnome-extension": {
     "description": "Create rules to open specific websites in specific web browsers for links clicked in any application on your computer. (emails, chat etc)",
     "pname": "gnome-shell-extension-bowser-gnome-extension",
-    "version": "18"
+    "version": "19"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.brightness-control": {
     "description": "Adds a brightness indicator to Quick Settings with scroll wheel support",
@@ -58665,9 +58680,9 @@
     "version": "2"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.chand": {
-    "description": "Live Iranian market rates in your top bar: US dollar and other currencies, gold, coins, Bitcoin and the Tehran Stock Exchange index. Pick several rates to scroll in the top bar, in Persian or English, priced in Toman or Rial.",
+    "description": "Live Iranian market rates in your top bar: US dollar and 27 other currencies, gold, coins, Bitcoin and the Tehran Stock Exchange index. Pick several rates to scroll in the top bar, in Persian or English, priced in Toman or Rial.",
     "pname": "gnome-shell-extension-chand",
-    "version": "9"
+    "version": "10"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.cheat-sheet-overlay": {
     "description": "Toggle a cheat sheet overlay with Super + F2 or by clicking on the indicator. The overlay shows system-wide shortcuts on the left and shortcuts for the focused application on the right. There is no default pinned shortcuts, it's entirely up to the user to add the ones they need, directly from the overlay.",
@@ -58707,7 +58722,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.classic-app-switcher": {
     "description": "Classic App Switcher is a 🖱️ Mouse friendly application switcher for GNOME inspired by the classic Mac OS. The minimal design blends discreetly into the GNOME UI, providing a familiar workflow for users transitioning from macOS while respecting GNOME's design principles.",
     "pname": "gnome-shell-extension-classic-app-switcher",
-    "version": "13"
+    "version": "14"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.claude-code-quota": {
     "description": "Shows your Claude Pro/Max quotas (5h session + weekly) in the GNOME top bar, via the api.anthropic.com/api/oauth/usage OAuth endpoint. Independent project, not affiliated with or endorsed by Anthropic.",
@@ -58722,12 +58737,12 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.claude-code-usage-monitor": {
     "description": "Shows your Claude subscription tier and live usage limits (5-hour and 7-day windows) in the top bar. Reads your existing Claude Code credentials; no extra login required.",
     "pname": "gnome-shell-extension-claude-code-usage-monitor",
-    "version": "16"
+    "version": "17"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.claude-quota": {
     "description": "Track Claude Pro usage from the GNOME top bar: a status icon (optionally with compact per-limit percentages), plus a menu with every active limit (session, weekly, per-model) and reset times.",
     "pname": "gnome-shell-extension-claude-quota",
-    "version": "3"
+    "version": "4"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.claude-status": {
     "description": "Shows Claude Code usage (session and weekly limits) in the GNOME top bar.",
@@ -58842,7 +58857,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.clustercut": {
     "description": "Integration for ClusterCut Clipboard Sync. Adds a Quick Settings toggle and reads/writes the system clipboard to enable clipboard sync on Wayland.",
     "pname": "gnome-shell-extension-clustercut",
-    "version": "7"
+    "version": "9"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.clutter-clock": {
     "description": "Clutter Clock: a digital clock on the desktop",
@@ -58865,9 +58880,9 @@
     "version": "1"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.codex-limit-indicator": {
-    "description": "Codex, Claude and Antigravity quotas via CLI logins.",
+    "description": "Shows the remaining Codex, Claude and Antigravity usage limits in the top bar, using the login of each provider's command-line tool.",
     "pname": "gnome-shell-extension-codex-limit-indicator",
-    "version": "3"
+    "version": "10"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.codex-usage": {
     "description": "Display OpenAI Codex usage in the top panel. Forked from claude-usage-extension by Haletran. This extension is not affiliated, funded, or in any way associated with OpenAI.",
@@ -58977,7 +58992,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.copyous": {
     "description": "Modern Clipboard Manager for GNOME",
     "pname": "gnome-shell-extension-copyous",
-    "version": "11"
+    "version": "12"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.corner-player-for-spotify": {
     "description": "Reveal a compact Spotify player from either lower screen edge. Unofficial and not affiliated with Spotify.",
@@ -59028,6 +59043,11 @@
     "description": "Displays the current workspace name in the panel",
     "pname": "gnome-shell-extension-current-workspace-name",
     "version": "3"
+  },
+  "legacyPackages.x86_64-linux.gnomeExtensions.cursor-ink": {
+    "description": "A pointer highlight ring and click ripples for presentations and screen recordings.",
+    "pname": "gnome-shell-extension-cursor-ink",
+    "version": "2"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.cursor-search-provider": {
     "description": "Search for your Cursor workspaces, fork of VSCode Search Provider by MrMarble. This extension is not affiliated, funded, or in any way associated with Anysphere or Cursor.",
@@ -59140,9 +59160,9 @@
     "version": "19"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.day-progress": {
-    "description": "Displays a (somewhat) customisable progress bar of your day in the top panel to help you track your time.",
+    "description": "Displays a customisable progress bar of your day in the top panel to help you keep track of your time.",
     "pname": "gnome-shell-extension-day-progress",
-    "version": "24"
+    "version": "26"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.days-since-update": {
     "description": "Show how many days it's been since pacman -Syu",
@@ -59187,7 +59207,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.deperto-zoom-by-scroll": {
     "description": "Screen zoom focused on the mouse using a modifier key + Scroll. Deperto Project.",
     "pname": "gnome-shell-extension-deperto-zoom-by-scroll",
-    "version": "11"
+    "version": "12"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.desaturated-tray-icons": {
     "description": "Display all tray icons in grayscale",
@@ -59242,7 +59262,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.desktop-icons-ng-ding": {
     "description": "Adds icons to the desktop. Fork of the original Desktop Icons extension, with several enhancements .",
     "pname": "gnome-shell-extension-desktop-icons-ng-ding",
-    "version": "99"
+    "version": "102"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.desktop-in-switcher": {
     "description": "Adds a Desktop entry to GNOME's application and window switchers.",
@@ -59253,6 +59273,11 @@
     "description": "Show the singing lyric on the desktop",
     "pname": "gnome-shell-extension-desktop-lyric",
     "version": "29"
+  },
+  "legacyPackages.x86_64-linux.gnomeExtensions.desktop-picture-frame": {
+    "description": "Display a slideshow of photos on your desktop, below all windows.",
+    "pname": "gnome-shell-extension-desktop-picture-frame",
+    "version": "1"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.desktop-shortcut": {
     "description": "Light gnome extension that adds an item to the gnome shell icons menu leading to the .desktop file.",
@@ -59292,12 +59317,12 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.dhruva": {
     "description": "A clean, highly customizable dock for GNOME Shell.",
     "pname": "gnome-shell-extension-dhruva",
-    "version": "17"
+    "version": "27"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.dim-background-windows": {
     "description": "Dim windows without focus",
     "pname": "gnome-shell-extension-dim-background-windows",
-    "version": "24"
+    "version": "25"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.dim-completed-calendar-events": {
     "description": "Dim completed events in the top panel menu to easily distinguish between upcoming and past events. You can also highlight events that are ongoing.",
@@ -59502,7 +59527,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.draw-on-gnome": {
     "description": "Annotation tool for the GNOME desktop. ",
     "pname": "gnome-shell-extension-draw-on-gnome",
-    "version": "11"
+    "version": "12"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.drive-activity-indicator": {
     "description": "Visualize the activity of storage drives (disk activity LED simulator).",
@@ -59637,7 +59662,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.esp-extensions-search-provider": {
     "description": "Search, access settings and data and control installed extensions from Activities overview.",
     "pname": "gnome-shell-extension-esp-extensions-search-provider",
-    "version": "28"
+    "version": "29"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.essential-tweaks": {
     "description": "Tweak annoying defaults and enable quality of life features",
@@ -59667,7 +59692,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.executor": {
     "description": "Execute multiple shell commands periodically with separate intervals and display the output in gnome top bar.",
     "pname": "gnome-shell-extension-executor",
-    "version": "31"
+    "version": "32"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.extension-list": {
     "description": "Manage extensions from the top panel",
@@ -59695,7 +59720,7 @@
     "version": "1"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.ez-launcher": {
-    "description": "A vertical app grid with category grouping functione",
+    "description": "一个竖向滚动的应用网格，支持分类分组，可通过汉语拼音搜索应用。",
     "pname": "gnome-shell-extension-ez-launcher",
     "version": "2"
   },
@@ -59847,7 +59872,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.focused-window-d-bus": {
     "description": "Exposes a D-Bus method to get active window title and class",
     "pname": "gnome-shell-extension-focused-window-d-bus",
-    "version": "11"
+    "version": "12"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.folder-search-provider": {
     "description": "Add to GNOME system search a quick way to run any of your projects in specific IDE",
@@ -59932,7 +59957,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.fullscreen-hot-corner": {
     "description": "Enables hot corner in fullscreen mode",
     "pname": "gnome-shell-extension-fullscreen-hot-corner",
-    "version": "18"
+    "version": "19"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.fullscreen-max-brightness": {
     "description": "Automatically sets brightness to maximum when watching fullscreen videos and restores the previous setting when exiting.",
@@ -59957,7 +59982,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.fuzzy-app-search": {
     "description": "Fuzzy application search results for Gnome Search",
     "pname": "gnome-shell-extension-gnome-fuzzy-app-search",
-    "version": "30"
+    "version": "31"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.fuzzy-application-search": {
     "description": "Use fuzzy matching to search for applications",
@@ -59974,10 +59999,20 @@
     "pname": "gnome-shell-extension-fuzzy-clock",
     "version": "8"
   },
+  "legacyPackages.x86_64-linux.gnomeExtensions.g-time": {
+    "description": "A quick and precise Timer, Stopwatch, and Reminder suite for GNOME Shell.",
+    "pname": "gnome-shell-extension-g-time",
+    "version": "2"
+  },
   "legacyPackages.x86_64-linux.gnomeExtensions.gamebar-overlay": {
     "description": "A fullscreen overlay widget for GNOME that displays useful information, audio controls and more. The default key to open is Super + G, and it is configurable in the settings.",
     "pname": "gnome-shell-extension-gamebar-overlay",
     "version": "16"
+  },
+  "legacyPackages.x86_64-linux.gnomeExtensions.gamemode-indicator": {
+    "description": "Adds a GameMode indicator to the quick settings",
+    "pname": "gnome-shell-extension-gamemode-indicator",
+    "version": "3"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.gamemode-shell-extension": {
     "description": "GameMode Status Indicator for GNOME Shell!",
@@ -59993,6 +60028,11 @@
     "description": "Adds a binary clock to the gnome top bar",
     "pname": "gnome-shell-extension-gbinaryclock",
     "version": "9"
+  },
+  "legacyPackages.x86_64-linux.gnomeExtensions.gclip": {
+    "description": "Clipboard manager with popup interface for GNOME Shell (Wayland compatible)",
+    "pname": "gnome-shell-extension-gclip",
+    "version": "4"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.gdeej": {
     "description": "Control your audio with a DIY volume mixer",
@@ -60018,6 +60058,11 @@
     "description": "App menu",
     "pname": "gnome-shell-extension-gfinder",
     "version": "12"
+  },
+  "legacyPackages.x86_64-linux.gnomeExtensions.github-contribution-grid": {
+    "description": "Shows a GitHub-style contribution grid on the top bar and dropdown menu.",
+    "pname": "gnome-shell-extension-github-contribution-grid",
+    "version": "4"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.github-grid": {
     "description": "Shows a GitHub-style contribution grid for a configured account.",
@@ -60052,7 +60097,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.glass-widgets": {
     "description": "Frosted glass desktop widgets for GNOME Shell: a live clock with weather (condition icon, temperature, Celsius/Fahrenheit choice), and system stats with RAM/CPU doughnut gauges (change color based on accent color). Adjustable position, opacity, and blur effect.",
     "pname": "gnome-shell-extension-glass-widgets",
-    "version": "8"
+    "version": "11"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.global-menu-for-gnome": {
     "description": "Brings a macOS-style global menu bar to GNOME. Adds contextual File, Edit, View, Go, Window, and Help menus for the focused app, plus a configurable System Menu with quick access to Settings, Terminal, Software Center, Force Quit, and power options. Create your own custom menus with shell commands or keyboard shortcuts, and personalize the System Menu icon from bundled distro logos, an Apple-style icon, or your own image.",
@@ -60097,7 +60142,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.gnome-clipboard": {
     "description": "[Accesses Clipboard] A gnome shell extension to manage and keep track of your clipboard history. This extension monitors the system clipboard to provide history management and pinning features.",
     "pname": "gnome-shell-extension-gnome-clipboard",
-    "version": "24"
+    "version": "27"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.gnome-cricket-score": {
     "description": "Live cricket scores in the GNOME top panel.",
@@ -60110,9 +60155,9 @@
     "version": "16"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.gnome-hdate": {
-    "description": "Show Hebrew Date in the Panel",
+    "description": "Show Hebrew Date in the Panel.",
     "pname": "gnome-shell-extension-gnome-hdate",
-    "version": "36"
+    "version": "37"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.gnome-muzei-wallpaper": {
     "description": "GNOME Shell extension that uses Muzei Featured Art as the desktop wallpaper, with optional blur and accent color.",
@@ -60135,9 +60180,9 @@
     "version": "13"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.gnome-wallpaper-engine": {
-    "description": "Transform your static workspace into a dynamic experience. A simple, resource-friendly solution for running live wallpapers natively on GNOME with full GPU acceleration and a modern, user-friendly UI.",
+    "description": "A high-performance bridge bringing animated and interactive wallpaper capabilities to the GNOME ecosystem. Designed to provide a native-feeling experience for running live wallpapers on Linux.",
     "pname": "gnome-shell-extension-gnome-wallpaper-engine",
-    "version": "8"
+    "version": "9"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.gnome-web-search": {
     "description": "Search the web from the top bar",
@@ -60267,7 +60312,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.gtk4-desktop-icons-ng-ding": {
     "description": "Adw. Desktop Icons",
     "pname": "gnome-shell-extension-gtk4-desktop-icons-ng-ding",
-    "version": "145"
+    "version": "147"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.guillotine": {
     "description": "Gnome extension designed for efficiently carrying out executions of commands from a customizable menu",
@@ -60322,7 +60367,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.headsetcontrol": {
     "description": "Gnome Shell Extension to visualize headset status from HeadsetControl (https://github.com/Sapd/HeadsetControl) command line tool.",
     "pname": "gnome-shell-extension-headsetcontrol",
-    "version": "97"
+    "version": "101"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.herkul": {
     "description": "Prayer times based on Diyanet.gov.tr's schedule and Herkul Radio https://herkul.org/ streaming from RadioKing. Features include prayer time notifications, radio streaming, and multi-city support.",
@@ -60372,7 +60417,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.hide-system-icons": {
     "description": "Hide system icons in the Quick Settings panel for GNOME.",
     "pname": "gnome-shell-extension-hide-system-icons",
-    "version": "22"
+    "version": "23"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.hide-top-bar": {
     "description": "Hides the top bar, except in overview. However, there is an option to show the panel whenever the mouse pointer approaches the edge of the screen. And if \"intellihide\" is enabled, the panel only hides when a window takes the space.",
@@ -60407,7 +60452,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.hijri-date": {
     "description": "Add Hijri date to top panel",
     "pname": "gnome-shell-extension-hijri-date",
-    "version": "20"
+    "version": "24"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.hijri-date-extension": {
     "description": "The original Hijri date extension. Display the current Hijri (Islamic) date in the top panel. You can adjust date according to moonsighting in your area, customize color, and get sunset-based transitions. Also known as the Islamic calendar, Arabic date, or Muslim lunar calendar, this extension shows the traditional Islamic dating system with customization options.",
@@ -60422,7 +60467,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.home-assistant-extension": {
     "description": "A simple gnome shell extension for Home Assistant. Check the README on github for additional help!",
     "pname": "gnome-shell-extension-home-assistant-extension",
-    "version": "29"
+    "version": "30"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.hostname-on-panel": {
     "description": "Displays the Hostname on the Gnome Panel. Helpful when working with multiport KVM switches or accessing remote hosts where it is easy to loose track of which machine you are working on.",
@@ -60437,7 +60482,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.hotspot-toggle": {
     "description": "A GNOME Shell extension to toggle mobile hotspot on an Android device over Bluetooth.",
     "pname": "gnome-shell-extension-hotspot-toggle",
-    "version": "19"
+    "version": "21"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.hover-swipe-select": {
     "description": "In the Activities Overview, hover a window thumbnail with the touchpad and do a 3-finger swipe down to select and focus that window — like macOS Mission Control — instead of clicking it. When the swipe does not start over a window, GNOME's normal overview gestures are left untouched.",
@@ -60497,7 +60542,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.ideapad": {
     "description": "Lenovo IdeaPad goodies for Gnome Shell",
     "pname": "gnome-shell-extension-ideapad",
-    "version": "22"
+    "version": "23"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.ideapad-controls": {
     "description": "Control Lenovo IdeaPad laptops options: Conservation Mode, Camera Lock, Fn Lock, Touchpad Lock, USB charging",
@@ -60512,7 +60557,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.idle-hamster": {
     "description": "Stop tracking hamster activity's when idle",
     "pname": "gnome-shell-extension-idle-hamster",
-    "version": "6"
+    "version": "7"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.idle-run": {
     "description": "Small extension to start an application after idle and stop it once the user becomes active again. Used to run screensaver apps.",
@@ -60597,7 +60642,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.invert-screen-colors": {
     "description": "This simple GNOME extension lets you invert either the entire screen or only the active window colors. Use CTRL+ALT+I for entire screen and SUPER+I for window effect only.",
     "pname": "gnome-shell-extension-invert-screen-colors",
-    "version": "4"
+    "version": "6"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.ip-address-indicator": {
     "description": "Shows your active WiFi and LAN IP addresses in the top bar, each labelled (WiFi/LAN), updated live on network changes.",
@@ -60654,6 +60699,11 @@
     "pname": "gnome-shell-extension-jbr-clipboard-fix",
     "version": "3"
   },
+  "legacyPackages.x86_64-linux.gnomeExtensions.jiggle-gnome-45": {
+    "description": "Highlights the cursor position when the mouse is moved rapidly. A fork of Jiggle ported to GNOME Shell 45-51.",
+    "pname": "gnome-shell-extension-jiggle-gnome",
+    "version": "45-3"
+  },
   "legacyPackages.x86_64-linux.gnomeExtensions.jira-checker": {
     "description": "Check for assigned Jira tasks with system tray notification",
     "pname": "gnome-shell-extension-jira-checker",
@@ -60662,7 +60712,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.junk-notification-cleaner": {
     "description": "Delete notifications for an application when its window is focused or closed.",
     "pname": "gnome-shell-extension-junk-notification-cleaner",
-    "version": "13"
+    "version": "16"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.just-another-search-bar": {
     "description": "Simple GNOME Shell extension for performing search queries",
@@ -60697,7 +60747,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.keep-awake": {
     "description": "Keep your computer awake! Prevents that your computer activates sceensaver, turns off screen(s) or goes to hibernate when not actively used for a while. Click the indicator icon once to keep your computer awake for the current session. Click again to keep it awake also between restarts (indicated by a small lock icon on the indicator). Clicking again to not keep awake.",
     "pname": "gnome-shell-extension-keep-awake",
-    "version": "21"
+    "version": "22"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.keep-pinned-apps-in-appgrid": {
     "description": "Display your pinned/favorite applications in the AppGrid while preserving your existing Dash-to-Dock layout and arrangement.",
@@ -60774,6 +60824,11 @@
     "pname": "gnome-shell-extension-keylightd-control",
     "version": "6"
   },
+  "legacyPackages.x86_64-linux.gnomeExtensions.keymapper": {
+    "description": "Informs keymapper about the currently focused window.",
+    "pname": "gnome-shell-extension-keymapper",
+    "version": "3"
+  },
   "legacyPackages.x86_64-linux.gnomeExtensions.keyring-autolock": {
     "description": "Show the keyring's locked state, and automatically lock it after a certain amount of time.",
     "pname": "gnome-shell-extension-keyring-autolock",
@@ -60797,12 +60852,12 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.kiwi-is-not-apple": {
     "description": "Kiwi is free open source project that brings macOS-inspired features for GNOME.",
     "pname": "gnome-shell-extension-kiwi-is-not-apple",
-    "version": "60"
+    "version": "61"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.kiwi-menu": {
     "description": "macOS-inspired quick menu for GNOME",
     "pname": "gnome-shell-extension-kiwi-menu",
-    "version": "34"
+    "version": "35"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.klipper-status": {
     "description": "Show your klipper 3D printer's status on the status bar.",
@@ -60828,11 +60883,6 @@
     "description": "Kubernetes node health in the GNOME top bar, on the kubectl and kubeconfig you already have.",
     "pname": "gnome-shell-extension-kube-node-monitor",
     "version": "3"
-  },
-  "legacyPackages.x86_64-linux.gnomeExtensions.lamplight": {
-    "description": "RGB keyboard lighting for laptops and devices with Windows Dynamic Lighting (HID LampArray), such as ASUS Vivobook S models: effects, colors, brightness and speed, in sync with the Fn backlight keys.",
-    "pname": "gnome-shell-extension-lamplight",
-    "version": "1"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.lan-ip-address": {
     "description": "Show LAN IP address on GNOME panel. Do not show loopback addresses (127.0.0.0/8) or Docker networks.",
@@ -60877,7 +60927,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.layout-hotkeys": {
     "description": "Add hotkeys to switch keyboard layout directly via Shift + Alt + [1-9].",
     "pname": "gnome-shell-extension-layout-hotkeys",
-    "version": "6"
+    "version": "7"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.legacy-gtk3-theme-scheme-auto-switcher": {
     "description": "Change the GTK3 theme to light/dark variant based on the system color scheme",
@@ -60955,14 +61005,14 @@
     "version": "8"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.live-lock-screen": {
-    "description": "A GNOME Shell extension that lets you use any video/gif as your lock screen background.",
+    "description": "Play videos and GIFs on your GNOME lock screen.",
     "pname": "gnome-shell-extension-live-lock-screen",
-    "version": "14"
+    "version": "15"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.live-radio": {
     "description": "Listen to live radio stations directly from the GNOME Shell panel",
     "pname": "gnome-shell-extension-live-radio",
-    "version": "5"
+    "version": "7"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.live-tennis-monitor": {
     "description": "A Gnome extension that helps you show live tennis scores. Service provider: atptour.com and wtatennis.com",
@@ -60982,7 +61032,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.lock-guard": {
     "description": "Enhanced lock screen security.",
     "pname": "gnome-shell-extension-lock-guard",
-    "version": "7"
+    "version": "8"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.lock-keys-2": {
     "description": "Numlock & Capslock status on the panel.",
@@ -61007,7 +61057,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.logi-battery-indicator": {
     "description": "Shows battery percentage and charging status in the top bar for input devices such as the Logitech MX Master and MX Keys.",
     "pname": "gnome-shell-extension-logi-battery-indicator",
-    "version": "4"
+    "version": "5"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.logo-activities": {
     "description": "Show icon and label for panel Activities.",
@@ -61080,9 +61130,9 @@
     "version": "3"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.macos-dock": {
-    "description": "A MacOS-style dock for GNOME Shell with magnification and animations",
+    "description": "A macOS-style dock for GNOME Shell with magnification and animations",
     "pname": "gnome-shell-extension-macos-dock",
-    "version": "11"
+    "version": "15"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.macos-like-maximize-to-empty-workspace": {
     "description": "macOS-like workspace management: maximized/fullscreen windows automatically move to a separate workspace, and return to the home workspace when unmaximized.",
@@ -61155,9 +61205,9 @@
     "version": "11"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.media-controller": {
-    "description": "Show the currently playing media in the top panel with playback controls and an iOS-inspired now-playing card. Works with any MPRIS-compatible player, including Spotify, Firefox, Chrome, VLC, mpv, Rhythmbox, and more.",
+    "description": "Show the currently playing media in the top panel with playback controls and an iOS-inspired now-playing card. See the lyrics of the current song in the card, following along as it plays. Works with any MPRIS-compatible player, including Spotify, Firefox, Chrome, VLC, mpv, Rhythmbox, and more.",
     "pname": "gnome-shell-extension-media-controller",
-    "version": "9"
+    "version": "19"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.media-controls": {
     "description": "Show controls and information of the currently playing media in the panel.",
@@ -61242,7 +61292,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.mirror": {
     "description": "Mirror Android devices with wireless debugging effortlessly.",
     "pname": "gnome-shell-extension-mirror",
-    "version": "19"
+    "version": "21"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.mission-ws": {
     "description": "Reorder GNOME workspaces by drag & drop, with Mac-Mission-Control-style hover circles on the overview thumbnails: a drag handle (top-left) to reorder and a close button (top-right) to remove a workspace.",
@@ -61268,6 +61318,11 @@
     "description": "A desktop clock widget for GNOME, inspired by 'Modern Clock for KDE' by Prayag2, and sharing its fonts and default look.",
     "pname": "gnome-shell-extension-modern-clock",
     "version": "4"
+  },
+  "legacyPackages.x86_64-linux.gnomeExtensions.monitor-for-gitlab": {
+    "description": "A lightweight GNOME Shell extension to monitor your GitLab projects, branches, commits, and CI/CD activity directly from your top bar.",
+    "pname": "gnome-shell-extension-monitor-for-gitlab",
+    "version": "1"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.monitor-input-switch": {
     "description": "Switch an external monitor's input source (HDMI/DP/USB-C) via ddcutil. Requires ddcutil to be installed and working.",
@@ -61307,7 +61362,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.mosaic": {
     "description": "Window tiler extension for GNOME desktops.",
     "pname": "gnome-shell-extension-mosaic",
-    "version": "19"
+    "version": "21"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.motivational-quotes": {
     "description": "Shows motivational quotes periodically as notifications using zenquotes.io",
@@ -61330,14 +61385,14 @@
     "version": "2"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.move-all-windows-to-primary-screen": {
-    "description": "Moves all windows from secondary monitors to the primary screen in one click, for the current workspace.",
+    "description": "Moves all windows from secondary monitors to the primary screen in one click on the top bar icon, or with a configurable keyboard shortcut (Super+Shift+P by default). ",
     "pname": "gnome-shell-extension-move-all-windows-to-primary-screen",
-    "version": "13"
+    "version": "18"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.move-already-open-app": {
     "description": "Move an open application instance to the workspace where you drop its icon from the dash.",
     "pname": "gnome-shell-extension-move-already-open-app",
-    "version": "7"
+    "version": "8"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.move-clock": {
     "description": "Move clock to left of status menu button",
@@ -61527,7 +61582,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.net-speed-simplified": {
     "description": "A Net Speed extension With Loads of Customization. Fork of simplenetspeed",
     "pname": "gnome-shell-extension-net-speed-simplified",
-    "version": "48"
+    "version": "49"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.net-totals-simplified": {
     "description": "A Net totals extension that only displays totals.",
@@ -61672,7 +61727,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.no-time-for-caution": {
     "description": "Display a Countdown from a specific date in top panel of gnome. Set a goal in settings and it would remind you how much time is left for that goal. You can customize the unit of time like days hours weeks or months.",
     "pname": "gnome-shell-extension-no-time-for-caution",
-    "version": "13"
+    "version": "15"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.no-titlebar-when-maximized": {
     "description": "Hides the classic title bar of maximized X.Org windows",
@@ -61685,9 +61740,9 @@
     "version": "8"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.nonlinear-animation-is-all-you-need": {
-    "description": "Make every GNOME animation smooth and nonlinear! Custom curves, interruptions that keep flowing, and jank fixes, all in one extension. GNOME's default animations are linear, counter-intuitive, and plain: they never speed up, never slow down; some snap back to the start when interrupted, and some stutter the first time they play. If you feel that too, this extension is exactly what you need.",
+    "description": "Make every GNOME animation smooth and nonlinear! ",
     "pname": "gnome-shell-extension-nonlinear-animation-is-all-you-need",
-    "version": "4"
+    "version": "6"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.nordgnome": {
     "description": "Toggle NordVPN in quick settings.",
@@ -61732,7 +61787,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.notification-banner": {
     "description": "Repositions the GNOME Shell notification banner to any corner or edge of the primary monitor's work area, with configurable padding, and customizes the banner content and appearance (hide a duplicated title, keep newlines in the body, expand immediately, hide the timestamp or icons, override width, corner radius, font scale). All settings default to GNOME's stock look, so the extension changes nothing until configured. The horizontal position is enforced against GNOME's own panel logic, which otherwise resets it.",
     "pname": "gnome-shell-extension-notification-banner",
-    "version": "4"
+    "version": "5"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.notification-banner-position": {
     "description": "Changes the notification banner position with a quick menu in the top panel.",
@@ -61780,9 +61835,9 @@
     "version": "3"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.now-play": {
-    "description": "Popup media player with controls for Spotify and other MPRIS players",
+    "description": "Popup media player widget with controls for Spotify and other MPRIS players",
     "pname": "gnome-shell-extension-now-play",
-    "version": "5"
+    "version": "7"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.now-playing": {
     "description": "See and control the media playback on your desktop",
@@ -61790,12 +61845,12 @@
     "version": "5"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.now-playing-card": {
-    "description": "Beautiful music controls for the top bar: a minimal animated indicator and a compact card with cover art, a seek bar and playback controls, for any MPRIS player.",
+    "description": "Animated Now Playing indicator with a compact media card: cover art, a seekable progress bar and transport controls for any MPRIS player.",
     "pname": "gnome-shell-extension-now-playing-card",
-    "version": "14"
+    "version": "15"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.o-tiling": {
-    "description": "O-Tiling is a powerful auto-tiling extension for GNOME Shell that automatically arranges your windows into clean, efficient layouts, no manual dragging or resizing required. Built for a fast, efficient workflow, intelligently adapts your layout as windows open, close, and change, while giving you the customization and control you need. Make multitasking on GNOME faster, cleaner, and more productive.",
+    "description": "Auto-tiling extension for arranges your windows, no manual dragging or resizing required. Think of it as a modern Pop Shell alternative for GNOME.",
     "pname": "gnome-shell-extension-o-tiling",
     "version": "31"
   },
@@ -61835,7 +61890,7 @@
     "version": "1"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.ollama-cloud-indicator": {
-    "description": "Display Ollama Cloud subscription usage with a circular indicator in the top panel.",
+    "description": "Monitor Ollama Cloud usage for multiple accounts, including monthly credits and legacy subscriptions.",
     "pname": "gnome-shell-extension-ollama-cloud-indicator",
     "version": "8"
   },
@@ -61857,7 +61912,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.omp-send-context": {
     "description": "Send focused Ptyxis PRIMARY clipboard selections to OMP",
     "pname": "gnome-shell-extension-omp-send-context",
-    "version": "6"
+    "version": "8"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.one-click-bios": {
     "description": "Restart into BIOS / UEFI firmware settings directly from OS",
@@ -61887,7 +61942,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.openf1-dashboard": {
     "description": "GNOME Shell extension showing the next F1 event via OpenF1 and championship standings via Jolpica.",
     "pname": "gnome-shell-extension-openf1-dashboard",
-    "version": "4"
+    "version": "5"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.openrgb-accent-color-sync": {
     "description": "Synchronize GNOME accent colors with OpenRGB devices",
@@ -61997,7 +62052,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.panel-corners": {
     "description": "A GNOME shell extension to keep the old topbar corners, which were removed for GNOME 42. It also allows you to customize the rounded corners, even if you use GNOME 40 or 41.",
     "pname": "gnome-shell-extension-panel-corners",
-    "version": "15"
+    "version": "16"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.panel-date-format": {
     "description": "Allows to customize the date format on the panel.",
@@ -62037,7 +62092,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.panel-workspace-scroll-2": {
     "description": "Switch between workspaces by scrolling the mouse wheel on the top panel.",
     "pname": "gnome-shell-extension-panel-workspace-scroll",
-    "version": "1"
+    "version": "2"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.panel-world-clock-lite": {
     "description": "A world clock for the panel. Time zones/Cities/UTC/AoE.",
@@ -62084,6 +62139,11 @@
     "pname": "gnome-shell-extension-peek-top-bar-on-fullscreen",
     "version": "23"
   },
+  "legacyPackages.x86_64-linux.gnomeExtensions.peekme-helper": {
+    "description": "Helper for peekme (peekme.dev), a terminal tool that explains text you select. On Wayland a program in a terminal cannot see the selection or where it is on screen, so peekme asks this extension when you press its shortcut.",
+    "pname": "gnome-shell-extension-peekme-helper",
+    "version": "3"
+  },
   "legacyPackages.x86_64-linux.gnomeExtensions.penguin-ai-chatbot": {
     "description": "A GNOME Shell extension that provides a chatbot interface using various LLM providers, including Anthropic, OpenAI, Gemini, and OpenRouter. Features include multiple provider support, customizable models, chat history, customizable appearance, a keyboard shortcut, web search, location (by using the extension, you consent to sharing your location with OpenRouter for AI Tools) and copy-to-clipboard functionality.",
     "pname": "gnome-shell-extension-penguin-ai-chatbot",
@@ -62107,12 +62167,12 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.perfect-fit": {
     "description": "Perfect Fit is a lightweight GNOME Shell extension that improves your workflow by automatically centering windows and resizing them to a customizable portion of the screen.",
     "pname": "gnome-shell-extension-perfect-fit",
-    "version": "6"
+    "version": "7"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.persian-calendar": {
     "description": "🗓️ Displays Persian (Iranian/Jalali) calendar in the top panel",
     "pname": "gnome-shell-extension-persian-calendar",
-    "version": "130"
+    "version": "131"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.persian-calendar-2": {
     "description": "Fork of Gnome Calendar extension with Persian taste",
@@ -62224,6 +62284,11 @@
     "pname": "gnome-shell-extension-pomodoro-timer",
     "version": "10"
   },
+  "legacyPackages.x86_64-linux.gnomeExtensions.pop-launcher-super-key-standalone": {
+    "description": "A standalone Pop Launcher-style application launcher bound to the Super key. No Pop Shell required.",
+    "pname": "gnome-shell-extension-pop-launcher-super-key-standalone",
+    "version": "1"
+  },
   "legacyPackages.x86_64-linux.gnomeExtensions.pop-shell": {
     "description": "Keyboard-driven layer for GNOME Shell",
     "pname": "gnome-shell-extension-pop-shell",
@@ -62235,9 +62300,9 @@
     "version": "11"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.ports-monitor": {
-    "description": "Simple extension that lets the user see which ports are being used",
+    "description": "Simple extension that lets the user see which ports are being used.",
     "pname": "gnome-shell-extension-ports-monitor",
-    "version": "3"
+    "version": "5"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.power-dial": {
     "description": "Quick power menu with suspend, restart, power off, and logout options.",
@@ -62252,7 +62317,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.power-menu-2": {
     "description": "Adds a power button to the top panel. Clicking it opens a beautiful full-screen menu with a blurred background and buttons for Power Off, Restart, Suspend, Lock and Log Out. Click anywhere outside the buttons (or press Escape) to dismiss.",
     "pname": "gnome-shell-extension-power-menu",
-    "version": "5"
+    "version": "6"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.power-menu-avatar": {
     "description": "Add avatar to power off menu",
@@ -62322,7 +62387,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.preserve-battery-quicktoggle": {
     "description": "The extension provides an easy and user-friendly way to toggle battery preservation mode available on certain laptops and visually get its current state.",
     "pname": "gnome-shell-extension-preserve-battery-quicktoggle",
-    "version": "3"
+    "version": "4"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.presize": {
     "description": "Resize the focused window to a preset size and place it on screen with a keyboard shortcut. Any number of presets, each with its own size, position and shortcut.",
@@ -62409,6 +62474,11 @@
     "pname": "gnome-shell-extension-px13-monitor",
     "version": "4"
   },
+  "legacyPackages.x86_64-linux.gnomeExtensions.qr-code-generator": {
+    "description": "Enter or paste your text then display a QR code, copied to the clipboard.",
+    "pname": "gnome-shell-extension-qr-code-generator",
+    "version": "2"
+  },
   "legacyPackages.x86_64-linux.gnomeExtensions.qr-drop": {
     "description": "Generate QR code from clipboard",
     "pname": "gnome-shell-extension-qr-drop",
@@ -62422,7 +62492,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.quake-terminal": {
     "description": "Quickly launch a terminal in Quake mode using a keyboard shortcut",
     "pname": "gnome-shell-extension-quake-terminal",
-    "version": "41"
+    "version": "43"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.quarter-windows": {
     "description": "Add additional window management shortcuts",
@@ -62602,7 +62672,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.rectangle": {
     "description": "Magnet/Rectangle like manual tiling",
     "pname": "gnome-shell-extension-rectangle",
-    "version": "32"
+    "version": "35"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.refresh-rate-governor": {
     "description": "Automatically switch the screen refresh rate depending on the power supply status",
@@ -62612,7 +62682,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.reloj-retro-lcd": {
     "description": "Vintage digital display with a high-fidelity 7-segment look. 10 color themes, custom colors, ghost segments, CRT scanlines, desktop widget mode, a quick color-switch menu, a date tooltip on hover, and integrated alarms with an on-screen dialog so they're never missed. Draws its digits from SVG path data embedded in the extension's code (no system font installation needed) and plays alarms through GNOME Shell's native sound theme; no bundled audio, font or image files.",
     "pname": "gnome-shell-extension-reloj-retro-lcd",
-    "version": "84"
+    "version": "85"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.remmina-search-provider": {
     "description": "Search for Remmina Remote Desktop Connections",
@@ -62705,9 +62775,9 @@
     "version": "25"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.rss-feed": {
-    "description": "A modern GNOME Shell RSS reader for the top bar. Follow news from your favorite RSS, Atom, and RDF feeds directly from the panel. Featuring two layout modes, desktop notifications, an unread badge, and a fully editable feed list.",
+    "description": "A modern GNOME Shell RSS reader for the top bar. Follow news from your favorite RSS, Atom, and RDF feeds directly from the panel. Featuring two layout modes, starred articles, configurable article actions, desktop notifications, an unread badge, and a fully editable feed list.",
     "pname": "gnome-shell-extension-rss-feed",
-    "version": "10"
+    "version": "11"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.rudra": {
     "description": "A powerful, keyboard-driven productivity launcher for GNOME.",
@@ -62759,6 +62829,11 @@
     "pname": "gnome-shell-extension-sanad",
     "version": "11"
   },
+  "legacyPackages.x86_64-linux.gnomeExtensions.sanket": {
+    "description": "A floating notification island below Quick Settings with pinned notifications, Quick Settings toggles that morph into circles, and a cleaner calendar with world clocks and animated weather.",
+    "pname": "gnome-shell-extension-sanket",
+    "version": "4"
+  },
   "legacyPackages.x86_64-linux.gnomeExtensions.saturation-extension": {
     "description": "Adjust the saturation or hue of the screen.",
     "pname": "gnome-shell-extension-saturation-extension",
@@ -62770,9 +62845,9 @@
     "version": "6"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.saved-desks": {
-    "description": "Save, organize, and restore workspace window layouts. Supports session autostart on login, multi-monitor targeting, and custom desk ordering.",
+    "description": "Save, organize, and restore workspace window layouts. Supports session autostart on login, multi-monitor targeting, custom ordering, and quick number keys (1–9).",
     "pname": "gnome-shell-extension-saved-desks",
-    "version": "21"
+    "version": "23"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.scale-by-display": {
     "description": "Extension which tweaks your font scaling and other settings based on display configuration",
@@ -62783,6 +62858,11 @@
     "description": "Automatically switch the screen brightness depending on the power supply status",
     "pname": "gnome-shell-extension-screen-brightness-governor",
     "version": "5"
+  },
+  "legacyPackages.x86_64-linux.gnomeExtensions.screen-dimmer": {
+    "description": "Dimming tool for external monitors via a Quick Settings slider. Not meant for laptop screens, which already have a brightness slider.",
+    "pname": "gnome-shell-extension-screen-dimmer",
+    "version": "1"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.screen-rotate": {
     "description": "Enable screen rotation regardless of touch mode. Fork of Screen Autorotate by Kosmospredanie.",
@@ -62797,7 +62877,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.screen-time": {
     "description": "See how long you spend in each app, macOS Screen Time style.",
     "pname": "gnome-shell-extension-screen-time",
-    "version": "4"
+    "version": "6"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.screen-word-translate": {
     "description": "Translate word on the screen.",
@@ -62899,6 +62979,11 @@
     "pname": "gnome-shell-extension-shade-inactive-windows-reborn",
     "version": "7"
   },
+  "legacyPackages.x86_64-linux.gnomeExtensions.shader-effects": {
+    "description": "Apply customizable GPU-powered shader effects to your GNOME desktop, including CRT scanlines, VHS distortion, RGB shifts, and more.",
+    "pname": "gnome-shell-extension-shader-effects",
+    "version": "8"
+  },
   "legacyPackages.x86_64-linux.gnomeExtensions.shaderpaper-gnome": {
     "description": "Simple Shader Wallpaper for Gnome Shell",
     "pname": "gnome-shell-extension-shaderpaper-gnome",
@@ -62912,12 +62997,17 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.shell-easy-uninstaller": {
     "description": "Add an uninstall option to the right-click menu of applications in the App Grid and Dash.",
     "pname": "gnome-shell-extension-shell-easy-uninstaller",
-    "version": "8"
+    "version": "10"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.shell-fast-organizer": {
     "description": "Add a right-click menu to the App Grid and Dash to automatically organize applications into category folders.",
     "pname": "gnome-shell-extension-shell-fast-organizer",
     "version": "4"
+  },
+  "legacyPackages.x86_64-linux.gnomeExtensions.shell-recent-opened": {
+    "description": "Show recently opened applications and documents from the top bar.",
+    "pname": "gnome-shell-extension-shell-recent-opened",
+    "version": "2"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.shelly-cover-controller": {
     "description": "Control your Shelly 2PM cover directly from the top panel.",
@@ -62977,7 +63067,12 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.show-desktop-button": {
     "description": "Minimize/unminimize all open windows with a single click.",
     "pname": "gnome-shell-extension-show-desktop-button",
-    "version": "61"
+    "version": "62"
+  },
+  "legacyPackages.x86_64-linux.gnomeExtensions.show-desktop-from-overview": {
+    "description": "Show the desktop from the Activities Overview, with configurable per-monitor or all-monitor window minimization.",
+    "pname": "gnome-shell-extension-show-desktop-from-overview",
+    "version": "3"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.show-desktop-hot-corner": {
     "description": "Minimise all windows by moving your mouse to a configurable screen corner. Trigger again to restore them.",
@@ -63082,7 +63177,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.simple-taskbar": {
     "description": "A configurable taskbar and Dock for GNOME Shell.",
     "pname": "gnome-shell-extension-simple-taskbar",
-    "version": "70"
+    "version": "72"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.simple-tiling": {
     "description": "A Simple Tiling Extension for Gnome Shell.",
@@ -63092,7 +63187,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.simple-timer": {
     "description": "Simple Timer is a Gnome Shell Extension that adds a Timer to the Panel.",
     "pname": "gnome-shell-extension-simple-timer",
-    "version": "22"
+    "version": "23"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.simple-workspaces-bar": {
     "description": "Replace 'Activities' button by all current workspaces buttons. Switch workspace or toggle overview by clicking on these buttons.",
@@ -63117,7 +63212,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.smart-auto-move-ng": {
     "description": "Smart Auto Move NG learns the position, size, and workspace of your application windows and restores them on subsequent launches. Supports Wayland.",
     "pname": "gnome-shell-extension-smart-auto-move-ng",
-    "version": "75"
+    "version": "76"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.smart-dnd": {
     "description": "Automatically enable Do Not Disturb on a schedule or during matching calendar events.",
@@ -63159,10 +63254,15 @@
     "pname": "gnome-shell-extension-snap-text-extractor",
     "version": "11"
   },
+  "legacyPackages.x86_64-linux.gnomeExtensions.snapfloat": {
+    "description": "Keeps SnapFloat's screenshot thumbnails in the screen corner and on top without stealing focus, and keeps screenshots floated on screen above other windows. Wayland doesn't let apps do this themselves.",
+    "pname": "gnome-shell-extension-snapfloat",
+    "version": "2"
+  },
   "legacyPackages.x86_64-linux.gnomeExtensions.snowy": {
     "description": "Let it snow!",
     "pname": "gnome-shell-extension-snowy",
-    "version": "30"
+    "version": "31"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.soft-brightness-plus": {
     "description": "Add or override the brightness slider to change the brightness via an alpha layer (and optionally stop using or cooperate with the exising backlight, if present).",
@@ -63297,7 +63397,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.status-tray": {
     "description": "Automatic system tray for applications using the StatusNotifierItem/DBusMenu protocol. Displays tray icons for apps like Discord, Slack, Dropbox, Nextcloud, Steam, and more. Supports symbolic (monochrome) and original icon modes, per-app icon customization, drag-and-drop reordering, overflow icons, and individual icon effect tuning.",
     "pname": "gnome-shell-extension-status-tray",
-    "version": "31"
+    "version": "33"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.steal-my-focus-window": {
     "description": "Remove the 'window is ready' message and focus the window instead. This is a fork of the 'Steal My Focus' extension to add GNOME 45+ support.",
@@ -63307,7 +63407,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.stocks-extension": {
     "description": "Stocks Extension brings stock quotes to your GNOME Shell Panel",
     "pname": "gnome-shell-extension-stocks-extension",
-    "version": "38"
+    "version": "39"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.stop-notifications-focus-stealing": {
     "description": "Prevents notification banners from stealing keyboard focus when the mouse pointer hovers over them. GNOME Shell normally grabs keyboard focus onto a notification banner on hover, so keystrokes are redirected away from the window you are typing in. This extension disables only that focus grab, leaving notifications otherwise unchanged.",
@@ -63382,7 +63482,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.switch-two-layouts": {
     "description": "This extension makes XKB shortcuts to switch keyboard layouts (such as Caps Lock, Ctrl+Shift, etc.) cycle between the two first layouts. The other ones still can be selected via the menu or using GNOME's shortcuts (Super+Space, Shift+Super+Space). It's useful when you have two primary layouts and more additional, which are used more rarely.",
     "pname": "gnome-shell-extension-switch-two-layouts",
-    "version": "13"
+    "version": "14"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.switch-workspace": {
     "description": "Switch workspace like using ALT+TAB key to switch windows ",
@@ -63415,9 +63515,9 @@
     "version": "21"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.system-hud": {
-    "description": "Clean UI system monitor for CPU, GPU, memory, storage, network, power",
+    "description": "Clean UI system monitor for CPU, GPU, memory, storage, network, power.",
     "pname": "gnome-shell-extension-system-hud",
-    "version": "24"
+    "version": "32"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.system-monitor": {
     "description": "Monitor system from the top bar",
@@ -63437,12 +63537,12 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.system-monitor-next": {
     "description": "Display system information in GNOME Shell status bar, such as memory, CPU, disk and battery usages, network rates…",
     "pname": "gnome-shell-extension-system-monitor-next",
-    "version": "89"
+    "version": "91"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.system-monitor-panel": {
     "description": "Monitor CPU, memory, disk, network, and temperature directly from the top panel. Open the dropdown dashboard for per-core CPU usage, memory and swap details, per-filesystem disk usage, live network speeds, and hardware sensor readings. Customize which metrics are shown and the order they appear in, refresh interval, temperature unit (°C/°F), network units (bytes/bits), and panel position.",
     "pname": "gnome-shell-extension-system-monitor-panel",
-    "version": "6"
+    "version": "8"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.system-monitor-panel-2": {
     "description": "Real-time system monitoring widget for GNOME Shell panel. Displays CPU usage, RAM usage, Network speed and Disk activity with color indicators.",
@@ -63472,7 +63572,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.systemd-manager-neo": {
     "description": "Powerful manager for systemd services, timers, and sockets with deep monitoring, service grouping, and native GNOME integration.",
     "pname": "gnome-shell-extension-systemd-manager-neo",
-    "version": "9"
+    "version": "11"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.systemd-offline-update-indicator": {
     "description": "Show an indicator for pending systemd offline updates.",
@@ -63552,7 +63652,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.tasks-in-panel": {
     "description": "Lag-free taskbar that respects the GNOME Shell style.",
     "pname": "gnome-shell-extension-tasks-in-panel",
-    "version": "74"
+    "version": "75"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.teatimer": {
     "description": "A tea steeping timer",
@@ -63874,6 +63974,11 @@
     "pname": "gnome-shell-extension-translate-clipboard",
     "version": "37"
   },
+  "legacyPackages.x86_64-linux.gnomeExtensions.translateplace": {
+    "description": "Translates selected text through a configured API and optionally replaces the selection. Reads and writes the clipboard when a user-configured translation shortcut is used; sends selected text to the configured server and saves originals and translations in local history.",
+    "pname": "gnome-shell-extension-translateplace",
+    "version": "6"
+  },
   "legacyPackages.x86_64-linux.gnomeExtensions.translit-search": {
     "description": "Transliterates Russian keyboard layout input in GNOME search",
     "pname": "gnome-shell-extension-translit-search",
@@ -63982,7 +64087,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.unblank": {
     "description": "Unblank lock screen.",
     "pname": "gnome-shell-extension-unblank",
-    "version": "40"
+    "version": "41"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.undecorate": {
     "description": "Add undecorate item in window menu. Use ALT+Space to show window menu.",
@@ -64150,7 +64255,7 @@
     "version": "1"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.valyuta": {
-    "description": "🇦🇿",
+    "description": "🇦🇿 AMB tərəfindən dərc olunan rəsmi məzənnələr əsasında Azərbaycan manatının digər valyutalara nisbətini panel menyusunda göstərir. Mənbə: Azərbaycan Respublikası Mərkəzi Bankı (cbar.az).",
     "pname": "gnome-shell-extension-valyuta",
     "version": "2"
   },
@@ -64160,14 +64265,14 @@
     "version": "11"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.vertical": {
-    "description": "Adds keybindings to allow tiling windows to the top or bottom of a screen. Similar to the built-in left and right. Particually useful for portrait monitors",
+    "description": "Adds keybindings to allow tiling windows to the top or bottom of a screen. Similar to the built-in left and right. Particularly useful for portrait monitors",
     "pname": "gnome-shell-extension-vertical",
-    "version": "1"
+    "version": "2"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.vertical-app-grid": {
     "description": "Turns the default horizontal app grid into a vertical one",
     "pname": "gnome-shell-extension-vertical-app-grid",
-    "version": "7"
+    "version": "8"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.vertical-window-list": {
     "description": "Displays opened windows in vertical panel with productivity perks:",
@@ -64177,10 +64282,10 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.vertical-workspaces": {
     "description": "Customize your GNOME Shell UX to suit your workflow, whether you like horizontally or vertically stacked workspaces. V-Shell lets you experiment with different Overview and App Grid layouts, add new window and workspace management features and fixes multiple GNOME Shell issues and bugs.",
     "pname": "gnome-shell-extension-vertical-workspaces",
-    "version": "120"
+    "version": "123"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.vesperal": {
-    "description": "Tell time by the Sun: how long until the next sunrise or sunset, or since the last one, next to the clock.",
+    "description": "Tell time by the Sun: how long until the next sunrise or sunset, since the last one, or both, next to the clock.",
     "pname": "gnome-shell-extension-vesperal",
     "version": "2"
   },
@@ -64197,7 +64302,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.vicinae": {
     "description": "Gnome extension for vicinae launcher to expose clipboard and window managment APIs.",
     "pname": "gnome-shell-extension-vicinae",
-    "version": "12"
+    "version": "14"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.victron-live-state": {
     "description": "Shows live Victron battery and solar values in the top bar, read from Victron Instant Readout BLE advertisements via the victron-ble command line tool.",
@@ -64267,7 +64372,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.volume-scroller-2": {
     "description": "Scroll up or down in the Top Bar to adjust volume. Middle-click to toggle mute. Supports configuring granularity (default step of 5%) and optionally requiring a modifier key (Ctrl/Alt/Shift/Super) to be held while scrolling",
     "pname": "gnome-shell-extension-volume-scroller",
-    "version": "16"
+    "version": "17"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.vpn-indicator": {
     "description": "Display current VPN name in panel.",
@@ -64377,7 +64482,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.weather-oclock": {
     "description": "Display the current weather inside the pill next to the clock. GNOME Weather is required for this extension to work.",
     "pname": "gnome-shell-extension-weather-oclock",
-    "version": "25"
+    "version": "26"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.weather-or-not": {
     "description": "Display the current weather in the panel and click the indicator to open GNOME Weather. The indicator position can be adjusted in preferences (on GNOME 45+).",
@@ -64392,12 +64497,12 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.weatherglass": {
     "description": "Weather that lives in your top bar.",
     "pname": "gnome-shell-extension-weatherglass",
-    "version": "13"
+    "version": "19"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.weatherpanel": {
     "description": "A modern GNOME Shell weather extension with detailed current conditions, hourly and multi-day forecasts, and offline awareness.",
     "pname": "gnome-shell-extension-weatherpanel",
-    "version": "9"
+    "version": "11"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.webling": {
     "description": "A small easy-access utility type web browser for a single monitor setup.",
@@ -64442,7 +64547,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.wetter": {
     "description": "Current weather and forecasts in the top bar, for as many locations as you like.",
     "pname": "gnome-shell-extension-wetter",
-    "version": "3"
+    "version": "4"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.what-watch": {
     "description": "Shows a customizable analog desktop clock.",
@@ -64452,7 +64557,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.where-my-ip": {
     "description": "Shows the country flag of your current public IP address in the top panel. Click for details (IP, country, city, ISP). Refreshes on network change.",
     "pname": "gnome-shell-extension-where-my-ip",
-    "version": "1"
+    "version": "2"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.whoami-in-top-bar": {
     "description": "Show the effective user ID in the top bar samely as returned by whoami command.",
@@ -64475,9 +64580,9 @@
     "version": "8"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.widgets": {
-    "description": "Desktop widgets: clock, calendar, weather, photos, and battery.",
+    "description": "Desktop widgets: clock, calendar, weather, photos, and more.",
     "pname": "gnome-shell-extension-widgets",
-    "version": "5"
+    "version": "10"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.wifi-qrcode": {
     "description": "This extension add a switch to the WiFi menu, in the GNOME system menu, that show a QR Code of the active connection.",
@@ -64535,7 +64640,7 @@
     "version": "11"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.window-control": {
-    "description": "Control windows from a script, a rules file or the keyboard, on Wayland and X11.",
+    "description": "List, move and tile windows from a script, a rules file or the keyboard. It works on Wayland, where wmctrl and xdotool reach only XWayland windows, and on X11.",
     "pname": "gnome-shell-extension-window-control",
     "version": "4"
   },
@@ -64579,6 +64684,11 @@
     "pname": "gnome-shell-extension-window-on-top-float",
     "version": "3"
   },
+  "legacyPackages.x86_64-linux.gnomeExtensions.window-padding": {
+    "description": "Omarchy-style padding around windows: shrinks the usable screen area by a configurable top/right/bottom/left padding, so maximized, snapped and tiled windows keep a gap from the screen edges. Fullscreen windows are not affected.",
+    "pname": "gnome-shell-extension-window-padding",
+    "version": "2"
+  },
   "legacyPackages.x86_64-linux.gnomeExtensions.window-query-tool": {
     "description": "Exposes focused window title, fullscreen status, and fullscreen window title via D-Bus for external applications.",
     "pname": "gnome-shell-extension-window-query-tool",
@@ -64612,7 +64722,7 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.window-title-pro": {
     "description": "Focused window icon + app name + title in the top bar. Panel position control, keyboard shortcuts, per-app title colors, workspace indicator, window count badge, and fade animations.",
     "pname": "gnome-shell-extension-window-title-pro",
-    "version": "14"
+    "version": "15"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.window-tricks": {
     "description": "Focus, snap, switch and resize windows with keybinds, clipboard history indicator and app tray indicator.",
@@ -64662,12 +64772,12 @@
   "legacyPackages.x86_64-linux.gnomeExtensions.worksets": {
     "description": "Customised Workspaces enables creating isolated and customised workspaces.",
     "pname": "gnome-shell-extension-worksets",
-    "version": "78"
+    "version": "80"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.workspace-bar": {
     "description": "Move windows across workspaces, reorder workspaces, and create new ones by drag-and-drop, directly from the top panel.",
     "pname": "gnome-shell-extension-workspace-bar",
-    "version": "15"
+    "version": "16"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.workspace-buttons-with-app-icons": {
     "description": "Replaces the original workspaces (activities) indicator with buttons. Each button contains the icons of the windows opened in that workspace.",
@@ -64688,6 +64798,11 @@
     "description": "Shows the current workspace number in the top panel, as just the number (2) or current / total (2 / 4). Click or right-click it to toggle the Overview.",
     "pname": "gnome-shell-extension-workspace-number-indicator",
     "version": "4"
+  },
+  "legacyPackages.x86_64-linux.gnomeExtensions.workspace-peacock": {
+    "description": "Gives the top bar a different color on each workspace, so you can tell at a glance which one you are on. The workspace dots of the Activities button and of the workspace switcher popup, and the workspace thumbnails of the overview, show the colors too.",
+    "pname": "gnome-shell-extension-workspace-peacock",
+    "version": "2"
   },
   "legacyPackages.x86_64-linux.gnomeExtensions.workspace-wallpapers": {
     "description": "Assign a different wallpaper to each workspace. The correct background is visible on every workspace panel during the slide animation and in the overview — not just after the transition completes.",
@@ -66547,7 +66662,7 @@
   "legacyPackages.x86_64-linux.google-chrome": {
     "description": "Freeware web browser developed by Google",
     "pname": "google-chrome",
-    "version": "156.0.8078.79"
+    "version": "157.0.8103.38"
   },
   "legacyPackages.x86_64-linux.google-clasp": {
     "description": "Develop Apps Script Projects locally",
@@ -68414,6 +68529,11 @@
     "pname": "grimblast",
     "version": "0.1-unstable-2026-10-22"
   },
+  "legacyPackages.x86_64-linux.grimmory": {
+    "description": "Grimmory is a self-hosted library for your ebooks, comics and audiobooks.",
+    "pname": "grimmory",
+    "version": "3.5.0"
+  },
   "legacyPackages.x86_64-linux.grimoire": {
     "description": "Tool to generate datasets of cloud audit logs for common attacks",
     "pname": "grimoire",
@@ -68817,7 +68937,7 @@
   "legacyPackages.x86_64-linux.gsoap": {
     "description": "C/C++ toolkit for SOAP web services and XML-based applications",
     "pname": "gsoap",
-    "version": "2.8.145"
+    "version": "2.8.146"
   },
   "legacyPackages.x86_64-linux.gsocket": {
     "description": "Connect like there is no firewall, securely",
@@ -168037,7 +168157,7 @@
   "legacyPackages.x86_64-linux.hayabusa-sec": {
     "description": "Sigma-based threat hunting and fast forensics timeline generator for Windows event logs",
     "pname": "hayabusa-sec",
-    "version": "4.2.0"
+    "version": "4.3.1"
   },
   "legacyPackages.x86_64-linux.hayagriva": {
     "description": "Work with references: Literature database management, storage, and citation formatting",
@@ -174942,7 +175062,7 @@
   "legacyPackages.x86_64-linux.incus-spawn": {
     "description": "CLI tool for managing isolated Incus development environments",
     "pname": "incus-spawn",
-    "version": "0.2.15"
+    "version": "0.3.12"
   },
   "legacyPackages.x86_64-linux.incus-ui-canonical": {
     "description": "Web user interface for Incus",
@@ -175457,7 +175577,7 @@
   "legacyPackages.x86_64-linux.inkcut": {
     "description": "Control 2D plotters, cutters, engravers, and CNC machines",
     "pname": "inkcut",
-    "version": "2.1.7"
+    "version": "2.1.8"
   },
   "legacyPackages.x86_64-linux.inklecate": {
     "description": "Compiler for ink, inkle's scripting language",
@@ -175602,7 +175722,7 @@
   "legacyPackages.x86_64-linux.inputplumber": {
     "description": "Open source input router and remapper daemon for Linux",
     "pname": "inputplumber",
-    "version": "0.81.0"
+    "version": "0.83.1"
   },
   "legacyPackages.x86_64-linux.inql": {
     "description": "Security testing tool for GraphQL",
@@ -175687,7 +175807,7 @@
   "legacyPackages.x86_64-linux.instawow": {
     "description": "World of Warcraft add-on manager CLI and GUI",
     "pname": "instawow",
-    "version": "7.2.4"
+    "version": "7.3.0"
   },
   "legacyPackages.x86_64-linux.instead": {
     "description": "Simple text adventure interpreter for Unix and Windows",
@@ -176807,7 +176927,7 @@
   "legacyPackages.x86_64-linux.ispc": {
     "description": "Intel 'Single Program, Multiple Data' Compiler, a vectorised language",
     "pname": "ispc",
-    "version": "1.31.0"
+    "version": "1.32.0"
   },
   "legacyPackages.x86_64-linux.ispell": {
     "description": "Interactive spell-checking program for Unix",
@@ -180152,7 +180272,7 @@
   "legacyPackages.x86_64-linux.kazumi": {
     "description": "Watch Animes online with danmaku support",
     "pname": "kazumi",
-    "version": "2.3.9"
+    "version": "2.4.2"
   },
   "legacyPackages.x86_64-linux.kazv": {
     "description": "Convergent matrix client and instant messaging app",
@@ -183567,32 +183687,32 @@
   "legacyPackages.x86_64-linux.kicad": {
     "description": "Open Source Electronics Design Automation suite",
     "pname": "kicad",
-    "version": "10.0.7"
+    "version": "10.0.8"
   },
   "legacyPackages.x86_64-linux.kicad-small": {
     "description": "Open Source Electronics Design Automation suite, without 3D models",
     "pname": "kicad-small",
-    "version": "10.0.7"
+    "version": "10.0.8"
   },
   "legacyPackages.x86_64-linux.kicad-testing": {
     "description": "Open Source Electronics Design Automation suite",
     "pname": "kicad-testing",
-    "version": "10.0-2026-11-01"
+    "version": "10.0-2026-11-02"
   },
   "legacyPackages.x86_64-linux.kicad-testing-small": {
     "description": "Open Source Electronics Design Automation suite, without 3D models",
     "pname": "kicad-testing-small",
-    "version": "10.0-2026-11-01"
+    "version": "10.0-2026-11-02"
   },
   "legacyPackages.x86_64-linux.kicad-unstable": {
     "description": "Open Source EDA suite, latest on master branch",
     "pname": "kicad-unstable",
-    "version": "7aaaae9a36"
+    "version": "4e769b0965"
   },
   "legacyPackages.x86_64-linux.kicad-unstable-small": {
     "description": "Open Source EDA suite, latest on master branch, without 3D models",
     "pname": "kicad-unstable-small",
-    "version": "7aaaae9a36"
+    "version": "4e769b0965"
   },
   "legacyPackages.x86_64-linux.kicadAddons.kikit": {
     "description": "KiCad plugin and a CLI tool to automate several tasks in a standard KiCad workflow",
@@ -183847,7 +183967,7 @@
   "legacyPackages.x86_64-linux.kitty": {
     "description": "Fast, feature-rich, GPU based terminal emulator",
     "pname": "kitty",
-    "version": "0.49.2"
+    "version": "0.50.0"
   },
   "legacyPackages.x86_64-linux.kitty-bin": {
     "description": "Fast, feature-rich, GPU based terminal emulator (prebuilt signed macOS app)",
@@ -185077,7 +185197,7 @@
   "legacyPackages.x86_64-linux.krankerl": {
     "description": "CLI helper to manage, package and publish Nextcloud apps",
     "pname": "krankerl",
-    "version": "0.14.0"
+    "version": "0.14.1"
   },
   "legacyPackages.x86_64-linux.krapslog": {
     "description": "Visualize a log file with sparklines",
@@ -185702,7 +185822,7 @@
   "legacyPackages.x86_64-linux.kubernetes-polaris": {
     "description": "Validate and remediate Kubernetes resources to ensure configuration best practices are followed",
     "pname": "kubernetes-polaris",
-    "version": "10.2.5"
+    "version": "10.2.6"
   },
   "legacyPackages.x86_64-linux.kubernetes-validate": {
     "description": "Module to validate Kubernetes resource definitions against the declared Kubernetes schemas",
@@ -191802,7 +191922,7 @@
   "legacyPackages.x86_64-linux.libretro.dolphin": {
     "description": "Port of Dolphin to libretro",
     "pname": "libretro-dolphin",
-    "version": "0-unstable-2026-10-23"
+    "version": "0-unstable-2026-10-29"
   },
   "legacyPackages.x86_64-linux.libretro.dosbox": {
     "description": "Port of DOSBox to libretro",
@@ -191982,7 +192102,7 @@
   "legacyPackages.x86_64-linux.libretro.mupen64plus": {
     "description": "Libretro port of Mupen64 Plus",
     "pname": "libretro-mupen64plus-next",
-    "version": "0-unstable-2026-10-01"
+    "version": "0-unstable-2026-10-22"
   },
   "legacyPackages.x86_64-linux.libretro.neocd": {
     "description": "NeoCD libretro port",
@@ -191992,7 +192112,7 @@
   "legacyPackages.x86_64-linux.libretro.nestopia": {
     "description": "Nestopia libretro port",
     "pname": "libretro-nestopia",
-    "version": "0-unstable-2026-10-14"
+    "version": "0-unstable-2026-10-31"
   },
   "legacyPackages.x86_64-linux.libretro.np2kai": {
     "description": "Neko Project II kai libretro port",
@@ -208837,7 +208957,7 @@
   "legacyPackages.x86_64-linux.litestream": {
     "description": "Streaming replication for SQLite",
     "pname": "litestream",
-    "version": "0.5.17"
+    "version": "0.5.18"
   },
   "legacyPackages.x86_64-linux.litmus": {
     "description": "WebDAV server protocol compliance test suite",
@@ -212212,7 +212332,7 @@
   "legacyPackages.x86_64-linux.lprobe": {
     "description": "Command-line tool to perform Local Health Check Probes inside Container Images (ECS, Docker)",
     "pname": "lprobe",
-    "version": "0.2.1"
+    "version": "0.2.2"
   },
   "legacyPackages.x86_64-linux.lr": {
     "description": "List files recursively",
@@ -213147,7 +213267,7 @@
   "legacyPackages.x86_64-linux.lua51Packages.lux-lua": {
     "description": "Lua API for the Lux package manager",
     "pname": "lux-lua",
-    "version": "0.48.0"
+    "version": "0.53.1"
   },
   "legacyPackages.x86_64-linux.lua51Packages.luxio": {
     "description": "Lightweight UNIX I/O and POSIX binding for Lua",
@@ -214197,7 +214317,7 @@
   "legacyPackages.x86_64-linux.lua52Packages.lux-lua": {
     "description": "Lua API for the Lux package manager",
     "pname": "lux-lua",
-    "version": "0.48.0"
+    "version": "0.53.1"
   },
   "legacyPackages.x86_64-linux.lua52Packages.luxio": {
     "description": "Lightweight UNIX I/O and POSIX binding for Lua",
@@ -215247,7 +215367,7 @@
   "legacyPackages.x86_64-linux.lua53Packages.lux-lua": {
     "description": "Lua API for the Lux package manager",
     "pname": "lux-lua",
-    "version": "0.48.0"
+    "version": "0.53.1"
   },
   "legacyPackages.x86_64-linux.lua53Packages.luxio": {
     "description": "Lightweight UNIX I/O and POSIX binding for Lua",
@@ -216297,7 +216417,7 @@
   "legacyPackages.x86_64-linux.lua54Packages.lux-lua": {
     "description": "Lua API for the Lux package manager",
     "pname": "lux-lua",
-    "version": "0.48.0"
+    "version": "0.53.1"
   },
   "legacyPackages.x86_64-linux.lua54Packages.luxio": {
     "description": "Lightweight UNIX I/O and POSIX binding for Lua",
@@ -217347,7 +217467,7 @@
   "legacyPackages.x86_64-linux.lua55Packages.lux-lua": {
     "description": "Lua API for the Lux package manager",
     "pname": "lux-lua",
-    "version": "0.48.0"
+    "version": "0.53.1"
   },
   "legacyPackages.x86_64-linux.lua55Packages.luxio": {
     "description": "Lightweight UNIX I/O and POSIX binding for Lua",
@@ -218467,7 +218587,7 @@
   "legacyPackages.x86_64-linux.luajitPackages.lux-lua": {
     "description": "Lua API for the Lux package manager",
     "pname": "lux-lua",
-    "version": "0.48.0"
+    "version": "0.53.1"
   },
   "legacyPackages.x86_64-linux.luajitPackages.luxio": {
     "description": "Lightweight UNIX I/O and POSIX binding for Lua",
@@ -219142,7 +219262,7 @@
   "legacyPackages.x86_64-linux.lux-cli": {
     "description": "Luxurious package manager for Lua",
     "pname": "lux-cli",
-    "version": "0.48.0"
+    "version": "0.53.1"
   },
   "legacyPackages.x86_64-linux.lv": {
     "description": "Powerful multi-lingual file viewer / grep",
@@ -219247,7 +219367,7 @@
   "legacyPackages.x86_64-linux.lxgw-neoxihei": {
     "description": "Simplified Chinese sans-serif font derived from IPAex Gothic",
     "pname": "lxgw-neoxihei",
-    "version": "1.306"
+    "version": "1.308"
   },
   "legacyPackages.x86_64-linux.lxgw-wenkai": {
     "description": "Open-source Chinese font derived from Fontworks' Klee One",
@@ -221742,7 +221862,7 @@
   "legacyPackages.x86_64-linux.matrix-synapse": {
     "description": "Matrix reference homeserver",
     "pname": "matrix-synapse",
-    "version": "1.163.2"
+    "version": "1.164.2"
   },
   "legacyPackages.x86_64-linux.matrix-synapse-plugins.matrix-http-rendezvous-synapse": {
     "description": "Implementation of MSC3886: Simple rendezvous capability",
@@ -221782,7 +221902,7 @@
   "legacyPackages.x86_64-linux.matrix-synapse-unwrapped": {
     "description": "Matrix reference homeserver",
     "pname": "matrix-synapse",
-    "version": "1.163.2"
+    "version": "1.164.2"
   },
   "legacyPackages.x86_64-linux.matrix-tuwunel": {
     "description": "Matrix homeserver written in Rust, official successor to conduwuit",
@@ -223328,11 +223448,6 @@
     "description": "Python GTK application to view and clean metadata in files, using mat2",
     "pname": "metadata-cleaner",
     "version": "4.0.1"
-  },
-  "legacyPackages.x86_64-linux.metal-cli": {
-    "description": "Official Equinix Metal CLI",
-    "pname": "metal-cli",
-    "version": "0.26.1"
   },
   "legacyPackages.x86_64-linux.metals": {
     "description": "Language server for Scala",
@@ -225532,7 +225647,7 @@
   "legacyPackages.x86_64-linux.mmdbctl": {
     "description": "MMDB file management CLI supporting various operations on MMDB database files",
     "pname": "mmdbctl",
-    "version": "1.5.1"
+    "version": "1.5.2"
   },
   "legacyPackages.x86_64-linux.mmdbinspect": {
     "description": "Look up records for one or more IPs/networks in one or more .mmdb databases",
@@ -225867,7 +225982,7 @@
   "legacyPackages.x86_64-linux.mokutil": {
     "description": "Utility to manipulate machines owner keys",
     "pname": "mokutil",
-    "version": "0.7.2"
+    "version": "0.7.3"
   },
   "legacyPackages.x86_64-linux.molbar": {
     "description": "Unique molecular identifiers for molecular barcoding",
@@ -226247,7 +226362,7 @@
   "legacyPackages.x86_64-linux.moonlight": {
     "description": "Discord client modification, focused on enhancing user and developer experience",
     "pname": "moonlight",
-    "version": "2026.10.0"
+    "version": "2026.10.1"
   },
   "legacyPackages.x86_64-linux.moonlight-embedded": {
     "description": "Open source implementation of NVIDIA's GameStream",
@@ -226642,7 +226757,7 @@
   "legacyPackages.x86_64-linux.mosdepth": {
     "description": "Fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing",
     "pname": "mosdepth",
-    "version": "0.3.14"
+    "version": "0.3.15"
   },
   "legacyPackages.x86_64-linux.mosdns": {
     "description": "Modular, pluggable DNS forwarder",
@@ -226787,7 +226902,7 @@
   "legacyPackages.x86_64-linux.movim": {
     "description": "Federated blogging & chat platform that acts as a web front end for the XMPP protocol",
     "pname": "movim",
-    "version": "0.35.2"
+    "version": "0.35.4"
   },
   "legacyPackages.x86_64-linux.movine": {
     "description": "Migration manager written in Rust, that attempts to be smart yet minimal",
@@ -228307,7 +228422,7 @@
   "legacyPackages.x86_64-linux.murex": {
     "description": "Bash-like shell and scripting environment with advanced features designed for safety and productivity",
     "pname": "murex",
-    "version": "7.3.1231"
+    "version": "7.3.1232"
   },
   "legacyPackages.x86_64-linux.murmur": {
     "description": "Low-latency, high quality voice chat software",
@@ -228362,7 +228477,7 @@
   "legacyPackages.x86_64-linux.museum": {
     "description": "API server for ente.io",
     "pname": "museum",
-    "version": "1.3.66"
+    "version": "1.3.68"
   },
   "legacyPackages.x86_64-linux.musializer": {
     "description": "Music Visualizer",
@@ -228647,7 +228762,7 @@
   "legacyPackages.x86_64-linux.mympd": {
     "description": "Standalone and mobile friendly web mpd client with a tiny footprint and advanced features",
     "pname": "mympd",
-    "version": "26.1.1"
+    "version": "26.1.2"
   },
   "legacyPackages.x86_64-linux.mynewt-newt": {
     "description": "Build and package management tool for embedded development",
@@ -228748,6 +228863,11 @@
     "description": "Morphological analysis of Russian text",
     "pname": "mystem",
     "version": "3.1"
+  },
+  "legacyPackages.x86_64-linux.mystery-house": {
+    "description": "Text adventure with Apple II graphics, the first Sierra On-Line game",
+    "pname": "mystery-house",
+    "version": "1.0"
   },
   "legacyPackages.x86_64-linux.mystmd": {
     "description": "Command line tools for working with MyST Markdown",
@@ -231747,7 +231867,7 @@
   "legacyPackages.x86_64-linux.nginxModules.vod": {
     "description": "VOD packager",
     "pname": "nginx-mod-vod",
-    "version": "1.10.1"
+    "version": "1.11.2"
   },
   "legacyPackages.x86_64-linux.nginxModules.vts": {
     "description": "Virtual host traffic status module",
@@ -232059,6 +232179,11 @@
     "pname": "nipap-www",
     "version": "0.32.7"
   },
+  "legacyPackages.x86_64-linux.nippon-safes-inc": {
+    "description": "Comedy point-and-click adventure game set in a futuristic Japan",
+    "pname": "nippon-safes-inc",
+    "version": "1.0"
+  },
   "legacyPackages.x86_64-linux.niri": {
     "description": "Scrollable-tiling Wayland compositor",
     "pname": "niri",
@@ -232318,6 +232443,11 @@
     "description": "Basic test framework for projects using the Nixpkgs module system",
     "pname": "nix-lib-nmt",
     "version": "0.5.1"
+  },
+  "legacyPackages.x86_64-linux.nix-manipulator": {
+    "description": "Python library for parsing, manipulating, and reconstructing Nix source code",
+    "pname": "nix-manipulator",
+    "version": "0.2.0"
   },
   "legacyPackages.x86_64-linux.nix-melt": {
     "description": "Ranger-like flake.lock viewer",
@@ -236012,7 +236142,7 @@
   "legacyPackages.x86_64-linux.obs-studio-plugins.obs-pipewire-audio-capture": {
     "description": "Audio device and application capture for OBS Studio using PipeWire",
     "pname": "obs-pipewire-audio-capture",
-    "version": "1.2.1"
+    "version": "1.2.2"
   },
   "legacyPackages.x86_64-linux.obs-studio-plugins.obs-plugin-countdown": {
     "description": "OBS plugin that creates countdown timers",
@@ -236052,7 +236182,7 @@
   "legacyPackages.x86_64-linux.obs-studio-plugins.obs-shaderfilter": {
     "description": "OBS Studio filter for applying an arbitrary shader to a source",
     "pname": "obs-shaderfilter",
-    "version": "2.6.0"
+    "version": "2.6.1"
   },
   "legacyPackages.x86_64-linux.obs-studio-plugins.obs-source-clone": {
     "description": "Plugin for OBS Studio to clone sources",
@@ -236102,7 +236232,7 @@
   "legacyPackages.x86_64-linux.obs-studio-plugins.obs-vertical-canvas": {
     "description": "Plugin for OBS Studio to add vertical canvas",
     "pname": "obs-vertical-canvas",
-    "version": "1.6.6"
+    "version": "1.6.7"
   },
   "legacyPackages.x86_64-linux.obs-studio-plugins.obs-vintage-filter": {
     "description": "OBS Studio filter where the source can be set to be black & white or sepia",
@@ -237437,72 +237567,72 @@
   "legacyPackages.x86_64-linux.ocamlPackages.dns": {
     "description": "Domain Name System (DNS) library",
     "pname": "ocaml5.5.1-dns",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-certify": {
     "description": "MirageOS let's encrypt certificate retrieval",
     "pname": "ocaml5.5.1-dns-certify",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-cli": {
     "description": "Unix command line utilities using uDNS",
     "pname": "ocaml5.5.1-dns-cli",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-client": {
     "description": "Pure DNS resolver API",
     "pname": "ocaml5.5.1-dns-client",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-client-lwt": {
     "description": "Pure DNS resolver API",
     "pname": "ocaml5.5.1-dns-client-lwt",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-client-miou-unix": {
     "description": "DNS client API for Miou",
     "pname": "ocaml5.5.1-dns-client-miou-unix",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-client-mirage": {
     "description": "Pure DNS resolver API",
     "pname": "ocaml5.5.1-dns-client-mirage",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-mirage": {
     "description": "Opinionated Domain Name System (DNS) library",
     "pname": "ocaml5.5.1-dns-mirage",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-resolver": {
     "description": "DNS resolver business logic",
     "pname": "ocaml5.5.1-dns-resolver",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-server": {
     "description": "DNS server, primary and secondary",
     "pname": "ocaml5.5.1-dns-server",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-stub": {
     "description": "DNS stub resolver",
     "pname": "ocaml5.5.1-dns-stub",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-tsig": {
     "description": "TSIG support for DNS",
     "pname": "ocaml5.5.1-dns-tsig",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dnssec": {
     "description": "DNSSec support for OCaml-DNS",
     "pname": "ocaml5.5.1-dnssec",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dockerfile": {
     "description": "Interface for creating Dockerfiles",
     "pname": "ocaml5.5.1-dockerfile",
-    "version": "8.4.4"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dolmen": {
     "description": "OCaml library providing clean and flexible parsers for input languages",
@@ -238327,7 +238457,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.grenier": {
     "description": "A collection of various algorithms in OCaml",
     "pname": "ocaml5.5.1-grenier",
-    "version": "0.16"
+    "version": "0.17"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.gsl": {
     "description": "OCaml bindings to the GNU Scientific Library",
@@ -240477,7 +240607,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.mlx": {
     "description": "OCaml syntax dialect which adds JSX syntax expressions",
     "pname": "ocaml5.5.1-mlx",
-    "version": "0.11"
+    "version": "0.12"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.mm": {
     "description": "High-level library to create and manipulate multimedia streams",
@@ -240932,7 +241062,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.ocamlmerlin-mlx": {
     "description": "Merlin support for MLX OCaml dialect",
     "pname": "ocaml5.5.1-ocamlmerlin-mlx",
-    "version": "0.11"
+    "version": "0.12"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.ocamlmod": {
     "description": "Generate OCaml modules from source files",
@@ -242582,7 +242712,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.ssl": {
     "description": "OCaml bindings for libssl",
     "pname": "ocaml5.5.1-ssl",
-    "version": "0.8.0"
+    "version": "0.8.1"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.stdcompat": {
     "description": "",
@@ -243097,7 +243227,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.vdom": {
     "description": "Elm architecture and (V)DOM for OCaml",
     "pname": "ocaml5.5.1-vdom",
-    "version": "0.3"
+    "version": "0.4"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.vector": {
     "description": "Resizable arrays for OCaml",
@@ -244572,72 +244702,72 @@
   "legacyPackages.x86_64-linux.ocamlPackages_latest.dns": {
     "description": "Domain Name System (DNS) library",
     "pname": "ocaml5.5.1-dns",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.dns-certify": {
     "description": "MirageOS let's encrypt certificate retrieval",
     "pname": "ocaml5.5.1-dns-certify",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.dns-cli": {
     "description": "Unix command line utilities using uDNS",
     "pname": "ocaml5.5.1-dns-cli",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.dns-client": {
     "description": "Pure DNS resolver API",
     "pname": "ocaml5.5.1-dns-client",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.dns-client-lwt": {
     "description": "Pure DNS resolver API",
     "pname": "ocaml5.5.1-dns-client-lwt",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.dns-client-miou-unix": {
     "description": "DNS client API for Miou",
     "pname": "ocaml5.5.1-dns-client-miou-unix",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.dns-client-mirage": {
     "description": "Pure DNS resolver API",
     "pname": "ocaml5.5.1-dns-client-mirage",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.dns-mirage": {
     "description": "Opinionated Domain Name System (DNS) library",
     "pname": "ocaml5.5.1-dns-mirage",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.dns-resolver": {
     "description": "DNS resolver business logic",
     "pname": "ocaml5.5.1-dns-resolver",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.dns-server": {
     "description": "DNS server, primary and secondary",
     "pname": "ocaml5.5.1-dns-server",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.dns-stub": {
     "description": "DNS stub resolver",
     "pname": "ocaml5.5.1-dns-stub",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.dns-tsig": {
     "description": "TSIG support for DNS",
     "pname": "ocaml5.5.1-dns-tsig",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.dnssec": {
     "description": "DNSSec support for OCaml-DNS",
     "pname": "ocaml5.5.1-dnssec",
-    "version": "10.2.6"
+    "version": "10.2.7"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.dockerfile": {
     "description": "Interface for creating Dockerfiles",
     "pname": "ocaml5.5.1-dockerfile",
-    "version": "8.4.4"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.dolmen": {
     "description": "OCaml library providing clean and flexible parsers for input languages",
@@ -245462,7 +245592,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages_latest.grenier": {
     "description": "A collection of various algorithms in OCaml",
     "pname": "ocaml5.5.1-grenier",
-    "version": "0.16"
+    "version": "0.17"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.gsl": {
     "description": "OCaml bindings to the GNU Scientific Library",
@@ -247612,7 +247742,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages_latest.mlx": {
     "description": "OCaml syntax dialect which adds JSX syntax expressions",
     "pname": "ocaml5.5.1-mlx",
-    "version": "0.11"
+    "version": "0.12"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.mm": {
     "description": "High-level library to create and manipulate multimedia streams",
@@ -248067,7 +248197,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages_latest.ocamlmerlin-mlx": {
     "description": "Merlin support for MLX OCaml dialect",
     "pname": "ocaml5.5.1-ocamlmerlin-mlx",
-    "version": "0.11"
+    "version": "0.12"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.ocamlmod": {
     "description": "Generate OCaml modules from source files",
@@ -249717,7 +249847,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages_latest.ssl": {
     "description": "OCaml bindings for libssl",
     "pname": "ocaml5.5.1-ssl",
-    "version": "0.8.0"
+    "version": "0.8.1"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.stdcompat": {
     "description": "",
@@ -250232,7 +250362,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages_latest.vdom": {
     "description": "Elm architecture and (V)DOM for OCaml",
     "pname": "ocaml5.5.1-vdom",
-    "version": "0.3"
+    "version": "0.4"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.vector": {
     "description": "Resizable arrays for OCaml",
@@ -251597,7 +251727,7 @@
   "legacyPackages.x86_64-linux.omp": {
     "description": "Terminal-based coding agent with multi-model support",
     "pname": "omp",
-    "version": "18.15.0"
+    "version": "18.16.0"
   },
   "legacyPackages.x86_64-linux.onagre": {
     "description": "General purpose application launcher for X and wayland inspired by rofi/wofi and alfred",
@@ -255367,7 +255497,7 @@
   "legacyPackages.x86_64-linux.oterm": {
     "description": "Text-based terminal client for Ollama",
     "pname": "oterm",
-    "version": "0.14.7"
+    "version": "0.26.0"
   },
   "legacyPackages.x86_64-linux.otf2": {
     "description": "Open Trace Format 2 library",
@@ -258192,7 +258322,7 @@
   "legacyPackages.x86_64-linux.pdns-recursor": {
     "description": "Recursive DNS server",
     "pname": "pdns-recursor",
-    "version": "5.4.6"
+    "version": "5.4.9"
   },
   "legacyPackages.x86_64-linux.pdnsd": {
     "description": "Permanent DNS caching",
@@ -278359,6 +278489,11 @@
     "pname": "pgf",
     "version": "3.1.12"
   },
+  "legacyPackages.x86_64-linux.pgfmt": {
+    "description": "PostgreSQL SQL formatter",
+    "pname": "pgfmt",
+    "version": "2.3.1"
+  },
   "legacyPackages.x86_64-linux.pgformatter": {
     "description": "PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI",
     "pname": "perl5.42.3-pgformatter",
@@ -282737,7 +282872,7 @@
   "legacyPackages.x86_64-linux.pixinsight": {
     "description": "Scientific image processing program for astrophotography",
     "pname": "pixinsight",
-    "version": "1.9.5-20260927"
+    "version": "1.9.6-20261029"
   },
   "legacyPackages.x86_64-linux.pixman": {
     "description": "Low-level library for pixel manipulation",
@@ -284277,7 +284412,7 @@
   "legacyPackages.x86_64-linux.positron-bin": {
     "description": "Positron, a next-generation data science IDE",
     "pname": "positron-bin",
-    "version": "2026.08.2-4"
+    "version": "2026.09.1-2"
   },
   "legacyPackages.x86_64-linux.postcss": {
     "description": "Transforming styles with JS plugins",
@@ -289227,7 +289362,7 @@
   "legacyPackages.x86_64-linux.pspg": {
     "description": "Postgres Pager",
     "pname": "pspg",
-    "version": "5.9.0"
+    "version": "5.9.1"
   },
   "legacyPackages.x86_64-linux.pspp": {
     "description": "Free replacement for SPSS, a program for statistical analysis of sampled data",
@@ -289422,7 +289557,7 @@
   "legacyPackages.x86_64-linux.pulldown-cmark": {
     "description": "Pull parser for CommonMark written in Rust",
     "pname": "pulldown-cmark",
-    "version": "0.13.5"
+    "version": "0.13.6"
   },
   "legacyPackages.x86_64-linux.pullomatic": {
     "description": "Automates Git repository syncing through pure configuration",
@@ -290167,7 +290302,7 @@
   "legacyPackages.x86_64-linux.pyroscope": {
     "description": "Continuous profiling platform; debug performance issues down to a single line of code",
     "pname": "pyroscope",
-    "version": "2.4.1"
+    "version": "2.4.2"
   },
   "legacyPackages.x86_64-linux.pyrosimple": {
     "description": "RTorrent client",
@@ -290402,22 +290537,22 @@
   "legacyPackages.x86_64-linux.python313Packages.adbc-driver-flightsql": {
     "description": "ADBC driver for working with Apache Arrow Flight SQL",
     "pname": "python3.13-adbc-driver-flightsql",
-    "version": "1.12.0"
+    "version": "1.13.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.adbc-driver-manager": {
     "description": "A generic entrypoint for ADBC drivers",
     "pname": "python3.13-adbc-driver-manager",
-    "version": "1.12.0"
+    "version": "1.13.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.adbc-driver-postgresql": {
     "description": "libpq-based ADBC driver for working with PostgreSQL",
     "pname": "python3.13-adbc-driver-postgresql",
-    "version": "1.12.0"
+    "version": "1.13.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.adbc-driver-sqlite": {
     "description": "ADBC driver for working with SQLite",
     "pname": "python3.13-adbc-driver-sqlite",
-    "version": "1.12.0"
+    "version": "1.13.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.adblock": {
     "description": "Python wrapper for Brave's adblocking library",
@@ -290652,7 +290787,7 @@
   "legacyPackages.x86_64-linux.python313Packages.aio-pika": {
     "description": "AMQP 0.9 client designed for asyncio and humans",
     "pname": "python3.13-aio-pika",
-    "version": "10.1.1"
+    "version": "10.2.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.aio-wattwaechter": {
     "description": "Async Python client for the WattWächter smart meter API",
@@ -297342,7 +297477,7 @@
   "legacyPackages.x86_64-linux.python313Packages.bytecode": {
     "description": "Python module to generate and modify bytecode",
     "pname": "python3.13-bytecode",
-    "version": "0.19.0"
+    "version": "0.19.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.bytesize": {
     "description": "Tiny library providing a C 'class' for working with arbitrary big sizes in bytes",
@@ -299262,7 +299397,7 @@
   "legacyPackages.x86_64-linux.python313Packages.confight": {
     "description": "Python context manager for managing pid files",
     "pname": "python3.13-confight",
-    "version": "2.0"
+    "version": "2.0.0-2"
   },
   "legacyPackages.x86_64-linux.python313Packages.configobj": {
     "description": "Config file reading, writing and validation",
@@ -299598,6 +299733,11 @@
     "description": "Parse C++ header files using ply.lex to generate navigable class tree representing the class structure",
     "pname": "python3.13-cppheaderparser",
     "version": "2.7.4"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.cppimport": {
+    "description": "Import C or C++ files directly from Python",
+    "pname": "python3.13-cppimport",
+    "version": "26.04.17"
   },
   "legacyPackages.x86_64-linux.python313Packages.cppy": {
     "description": "C++ headers for C extension development",
@@ -302502,7 +302642,7 @@
   "legacyPackages.x86_64-linux.python313Packages.django-tree-queries": {
     "description": "Adjacency-list trees for Django using recursive common table expressions. Supports PostgreSQL, sqlite, MySQL and MariaDB",
     "pname": "python3.13-django-tree-queries",
-    "version": "0.27"
+    "version": "0.28"
   },
   "legacyPackages.x86_64-linux.python313Packages.django-treebeard": {
     "description": "Efficient tree implementations for Django",
@@ -302602,12 +302742,12 @@
   "legacyPackages.x86_64-linux.python313Packages.django_6": {
     "description": "High-level Python Web framework that encourages rapid development and clean, pragmatic design",
     "pname": "python3.13-django",
-    "version": "6.1.2"
+    "version": "6.1.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.django_6_0": {
     "description": "High-level Python Web framework that encourages rapid development and clean, pragmatic design",
     "pname": "python3.13-django",
-    "version": "6.0.9"
+    "version": "6.0.10"
   },
   "legacyPackages.x86_64-linux.python313Packages.djangocms-admin-style": {
     "description": "Django Theme tailored to the needs of django CMS",
@@ -311107,7 +311247,7 @@
   "legacyPackages.x86_64-linux.python313Packages.imgsize": {
     "description": "Pure Python image size library",
     "pname": "python3.13-imgsize",
-    "version": "4.0.2"
+    "version": "4.1.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.imgw-pib": {
     "description": "Python async wrapper for IMGW-PIB API",
@@ -313232,7 +313372,7 @@
   "legacyPackages.x86_64-linux.python313Packages.kicad": {
     "description": "Just the built source without the libraries",
     "pname": "kicad-base",
-    "version": "10.0.7"
+    "version": "10.0.8"
   },
   "legacyPackages.x86_64-linux.python313Packages.kicad-python": {
     "description": "KiCad API Python Bindings",
@@ -315427,7 +315567,7 @@
   "legacyPackages.x86_64-linux.python313Packages.loro": {
     "description": "Data collaborative and version-controlled JSON with CRDTs",
     "pname": "python3.13-loro",
-    "version": "1.16.2"
+    "version": "1.17.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.losant-rest": {
     "description": "Python module for consuming the Losant IoT Platform API",
@@ -317677,7 +317817,7 @@
   "legacyPackages.x86_64-linux.python313Packages.moyopy": {
     "description": "Python interface of moyo, a fast and robust crystal symmetry finder",
     "pname": "python3.13-moyopy",
-    "version": "0.21.0"
+    "version": "0.22.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.mozart-api": {
     "description": "REST API for the Bang & Olufsen Mozart platform",
@@ -320257,7 +320397,7 @@
   "legacyPackages.x86_64-linux.python313Packages.nbxmpp": {
     "description": "Non-blocking Jabber/XMPP module",
     "pname": "python3.13-nbxmpp",
-    "version": "7.4.0"
+    "version": "7.5.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.nc-dnsapi": {
     "description": "API wrapper for the netcup DNS api",
@@ -320743,6 +320883,11 @@
     "description": "Simple jupyter kernel for nix-repl",
     "pname": "python3.13-nix-kernel-unstable",
     "version": "2020-04-26"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.nix-manipulator": {
+    "description": "Python library for parsing, manipulating, and reconstructing Nix source code",
+    "pname": "python3.13-nix-manipulator",
+    "version": "0.2.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.nix-prefetch-github": {
     "description": "Prefetch sources from github",
@@ -321274,6 +321419,11 @@
     "pname": "python3.13-nvidia-ml-py",
     "version": "13.615.71"
   },
+  "legacyPackages.x86_64-linux.python313Packages.nvidia-modelopt": {
+    "description": "Library of model optimization techniques such as quantization, pruning, distillation and speculative decoding",
+    "pname": "python3.13-nvidia-modelopt",
+    "version": "0.47.0"
+  },
   "legacyPackages.x86_64-linux.python313Packages.nvidia-resiliency-ext": {
     "description": "Python package for framework developers and users to implement fault-tolerant features",
     "pname": "python3.13-nvidia-resiliency-ext",
@@ -321708,6 +321858,11 @@
     "description": "Lightweight Automatic Speech Recognition using ONNX models",
     "pname": "python3.13-onnx-asr",
     "version": "0.12.0"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.onnx-graphsurgeon": {
+    "description": "Generate, modify and transform ONNX graphs",
+    "pname": "python3.13-onnx-graphsurgeon",
+    "version": "0.6.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.onnx-ir": {
     "description": "Efficient in-memory representation for ONNX, in Python",
@@ -324674,6 +324829,11 @@
     "pname": "python3.13-polygon3",
     "version": "3.0.9"
   },
+  "legacyPackages.x86_64-linux.python313Packages.polygraphy": {
+    "description": "Deep learning inference prototyping and debugging toolkit",
+    "pname": "python3.13-polygraphy",
+    "version": "0.53.6"
+  },
   "legacyPackages.x86_64-linux.python313Packages.polyline": {
     "description": "Python implementation of Google's Encoded Polyline Algorithm Format",
     "pname": "python3.13-polyline",
@@ -325412,7 +325572,7 @@
   "legacyPackages.x86_64-linux.python313Packages.publicsuffixlist": {
     "description": "Public Suffix List parser implementation",
     "pname": "python3.13-publicsuffixlist",
-    "version": "1.1.2.20261029"
+    "version": "1.1.2.20261101"
   },
   "legacyPackages.x86_64-linux.python313Packages.pubnub": {
     "description": "Python-based APIs for PubNub",
@@ -327422,7 +327582,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyfirefly": {
     "description": "Asynchronous Python client for the Firefly III API",
     "pname": "python3.13-pyfirefly",
-    "version": "0.1.16"
+    "version": "0.1.17"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyfireservicerota": {
     "description": "Python 3 API wrapper for FireServiceRota/BrandweerRooster",
@@ -329047,7 +329207,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pynndescent": {
     "description": "Nearest Neighbor Descent",
     "pname": "python3.13-pynndescent",
-    "version": "0.6.0"
+    "version": "0.7.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pynng": {
     "description": "Python bindings for Nanomsg Next Generation",
@@ -332727,7 +332887,7 @@
   "legacyPackages.x86_64-linux.python313Packages.python-rapidjson": {
     "description": "Python wrapper around rapidjson",
     "pname": "python3.13-python-rapidjson",
-    "version": "1.25"
+    "version": "1.26"
   },
   "legacyPackages.x86_64-linux.python313Packages.python-redis-lock": {
     "description": "Lock context manager implemented via redis SETNX/BLPOP",
@@ -333177,7 +333337,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pythonqwt": {
     "description": "Qt plotting widgets for Python (pure Python reimplementation of Qwt C++ library)",
     "pname": "python3.13-pythonqwt",
-    "version": "0.16.3"
+    "version": "0.17.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.pythran": {
     "description": "Ahead of Time compiler for numeric kernels",
@@ -337917,7 +338077,7 @@
   "legacyPackages.x86_64-linux.python313Packages.snakemake-logger-plugin-rich": {
     "description": "Snakemake logger plugin using Rich",
     "pname": "python3.13-snakemake-logger-plugin-rich",
-    "version": "0.5.0"
+    "version": "0.5.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.snakemake-storage-plugin-fs": {
     "description": "Snakemake storage plugin that reads and writes from a locally mounted filesystem using rsync",
@@ -339267,7 +339427,7 @@
   "legacyPackages.x86_64-linux.python313Packages.sslpsk-pmd3": {
     "description": "Adds TLS-PSK support to the Python ssl package",
     "pname": "python3.13-sslpsk-pmd3",
-    "version": "1.0.3"
+    "version": "1.2.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.ssort": {
     "description": "Automatically sorting python statements within a module",
@@ -341062,7 +341222,7 @@
   "legacyPackages.x86_64-linux.python313Packages.theben-conexa-smgw": {
     "description": "API for Theben Conexa 3.0 Smart Meter Gateway",
     "pname": "python3.13-theben-conexa-smgw",
-    "version": "0.4.2"
+    "version": "0.4.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.thefuzz": {
     "description": "Fuzzy string matching for Python",
@@ -342028,6 +342188,11 @@
     "description": "Python API for Travis CI",
     "pname": "python3.13-travispy",
     "version": "0.3.5"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.trayer": {
+    "description": "Tray library for python",
+    "pname": "python3.13-trayer",
+    "version": "0.1.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.trectools": {
     "description": "Library for assisting Information Retrieval (IR) practitioners with TREC-like campaigns",
@@ -347189,10 +347354,30 @@
     "pname": "python3.13-vacuum-map-parser-base",
     "version": "0.1.5"
   },
+  "legacyPackages.x86_64-linux.python313Packages.vacuum-map-parser-dreame": {
+    "description": "Functionalities for Dreame vacuum map parsing",
+    "pname": "python3.13-vacuum-map-parser-dreame",
+    "version": "0.1.3"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.vacuum-map-parser-ijai": {
+    "description": "Functionalities for Ijai vacuum map parsing",
+    "pname": "python3.13-vacuum-map-parser-ijai",
+    "version": "0.1.1"
+  },
   "legacyPackages.x86_64-linux.python313Packages.vacuum-map-parser-roborock": {
     "description": "Functionalities for Roborock vacuum map parsing",
     "pname": "python3.13-vacuum-map-parser-roborock",
     "version": "0.1.5"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.vacuum-map-parser-roidmi": {
+    "description": "Functionalities for Roidmi vacuum map parsing",
+    "pname": "python3.13-vacuum-map-parser-roidmi",
+    "version": "0.1.3"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.vacuum-map-parser-viomi": {
+    "description": "Functionalities for Viomi vacuum map parsing",
+    "pname": "python3.13-vacuum-map-parser-viomi",
+    "version": "0.1.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.vacuum-map-parser-xiaomi": {
     "description": "Functionalities for Xiaomi vacuum map parsing",
@@ -349902,22 +350087,22 @@
   "legacyPackages.x86_64-linux.python314Packages.adbc-driver-flightsql": {
     "description": "ADBC driver for working with Apache Arrow Flight SQL",
     "pname": "python3.14-adbc-driver-flightsql",
-    "version": "1.12.0"
+    "version": "1.13.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.adbc-driver-manager": {
     "description": "A generic entrypoint for ADBC drivers",
     "pname": "python3.14-adbc-driver-manager",
-    "version": "1.12.0"
+    "version": "1.13.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.adbc-driver-postgresql": {
     "description": "libpq-based ADBC driver for working with PostgreSQL",
     "pname": "python3.14-adbc-driver-postgresql",
-    "version": "1.12.0"
+    "version": "1.13.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.adbc-driver-sqlite": {
     "description": "ADBC driver for working with SQLite",
     "pname": "python3.14-adbc-driver-sqlite",
-    "version": "1.12.0"
+    "version": "1.13.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.adblock": {
     "description": "Python wrapper for Brave's adblocking library",
@@ -350152,7 +350337,7 @@
   "legacyPackages.x86_64-linux.python314Packages.aio-pika": {
     "description": "AMQP 0.9 client designed for asyncio and humans",
     "pname": "python3.14-aio-pika",
-    "version": "10.1.1"
+    "version": "10.2.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.aio-wattwaechter": {
     "description": "Async Python client for the WattWächter smart meter API",
@@ -356837,7 +357022,7 @@
   "legacyPackages.x86_64-linux.python314Packages.bytecode": {
     "description": "Python module to generate and modify bytecode",
     "pname": "python3.14-bytecode",
-    "version": "0.19.0"
+    "version": "0.19.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.bytesize": {
     "description": "Tiny library providing a C 'class' for working with arbitrary big sizes in bytes",
@@ -358757,7 +358942,7 @@
   "legacyPackages.x86_64-linux.python314Packages.confight": {
     "description": "Python context manager for managing pid files",
     "pname": "python3.14-confight",
-    "version": "2.0"
+    "version": "2.0.0-2"
   },
   "legacyPackages.x86_64-linux.python314Packages.configobj": {
     "description": "Config file reading, writing and validation",
@@ -359093,6 +359278,11 @@
     "description": "Parse C++ header files using ply.lex to generate navigable class tree representing the class structure",
     "pname": "python3.14-cppheaderparser",
     "version": "2.7.4"
+  },
+  "legacyPackages.x86_64-linux.python314Packages.cppimport": {
+    "description": "Import C or C++ files directly from Python",
+    "pname": "python3.14-cppimport",
+    "version": "26.04.17"
   },
   "legacyPackages.x86_64-linux.python314Packages.cppy": {
     "description": "C++ headers for C extension development",
@@ -361997,7 +362187,7 @@
   "legacyPackages.x86_64-linux.python314Packages.django-tree-queries": {
     "description": "Adjacency-list trees for Django using recursive common table expressions. Supports PostgreSQL, sqlite, MySQL and MariaDB",
     "pname": "python3.14-django-tree-queries",
-    "version": "0.27"
+    "version": "0.28"
   },
   "legacyPackages.x86_64-linux.python314Packages.django-treebeard": {
     "description": "Efficient tree implementations for Django",
@@ -362097,12 +362287,12 @@
   "legacyPackages.x86_64-linux.python314Packages.django_6": {
     "description": "High-level Python Web framework that encourages rapid development and clean, pragmatic design",
     "pname": "python3.14-django",
-    "version": "6.1.2"
+    "version": "6.1.3"
   },
   "legacyPackages.x86_64-linux.python314Packages.django_6_0": {
     "description": "High-level Python Web framework that encourages rapid development and clean, pragmatic design",
     "pname": "python3.14-django",
-    "version": "6.0.9"
+    "version": "6.0.10"
   },
   "legacyPackages.x86_64-linux.python314Packages.djangocms-admin-style": {
     "description": "Django Theme tailored to the needs of django CMS",
@@ -370602,7 +370792,7 @@
   "legacyPackages.x86_64-linux.python314Packages.imgsize": {
     "description": "Pure Python image size library",
     "pname": "python3.14-imgsize",
-    "version": "4.0.2"
+    "version": "4.1.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.imgw-pib": {
     "description": "Python async wrapper for IMGW-PIB API",
@@ -372727,7 +372917,7 @@
   "legacyPackages.x86_64-linux.python314Packages.kicad": {
     "description": "Just the built source without the libraries",
     "pname": "kicad-base",
-    "version": "10.0.7"
+    "version": "10.0.8"
   },
   "legacyPackages.x86_64-linux.python314Packages.kicad-python": {
     "description": "KiCad API Python Bindings",
@@ -374922,7 +375112,7 @@
   "legacyPackages.x86_64-linux.python314Packages.loro": {
     "description": "Data collaborative and version-controlled JSON with CRDTs",
     "pname": "python3.14-loro",
-    "version": "1.16.2"
+    "version": "1.17.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.losant-rest": {
     "description": "Python module for consuming the Losant IoT Platform API",
@@ -377172,7 +377362,7 @@
   "legacyPackages.x86_64-linux.python314Packages.moyopy": {
     "description": "Python interface of moyo, a fast and robust crystal symmetry finder",
     "pname": "python3.14-moyopy",
-    "version": "0.21.0"
+    "version": "0.22.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.mozart-api": {
     "description": "REST API for the Bang & Olufsen Mozart platform",
@@ -379752,7 +379942,7 @@
   "legacyPackages.x86_64-linux.python314Packages.nbxmpp": {
     "description": "Non-blocking Jabber/XMPP module",
     "pname": "python3.14-nbxmpp",
-    "version": "7.4.0"
+    "version": "7.5.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.nc-dnsapi": {
     "description": "API wrapper for the netcup DNS api",
@@ -380238,6 +380428,11 @@
     "description": "Simple jupyter kernel for nix-repl",
     "pname": "python3.14-nix-kernel-unstable",
     "version": "2020-04-26"
+  },
+  "legacyPackages.x86_64-linux.python314Packages.nix-manipulator": {
+    "description": "Python library for parsing, manipulating, and reconstructing Nix source code",
+    "pname": "python3.14-nix-manipulator",
+    "version": "0.2.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.nix-prefetch-github": {
     "description": "Prefetch sources from github",
@@ -380769,6 +380964,11 @@
     "pname": "python3.14-nvidia-ml-py",
     "version": "13.615.71"
   },
+  "legacyPackages.x86_64-linux.python314Packages.nvidia-modelopt": {
+    "description": "Library of model optimization techniques such as quantization, pruning, distillation and speculative decoding",
+    "pname": "python3.14-nvidia-modelopt",
+    "version": "0.47.0"
+  },
   "legacyPackages.x86_64-linux.python314Packages.nvidia-resiliency-ext": {
     "description": "Python package for framework developers and users to implement fault-tolerant features",
     "pname": "python3.14-nvidia-resiliency-ext",
@@ -381203,6 +381403,11 @@
     "description": "Lightweight Automatic Speech Recognition using ONNX models",
     "pname": "python3.14-onnx-asr",
     "version": "0.12.0"
+  },
+  "legacyPackages.x86_64-linux.python314Packages.onnx-graphsurgeon": {
+    "description": "Generate, modify and transform ONNX graphs",
+    "pname": "python3.14-onnx-graphsurgeon",
+    "version": "0.6.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.onnx-ir": {
     "description": "Efficient in-memory representation for ONNX, in Python",
@@ -384169,6 +384374,11 @@
     "pname": "python3.14-polygon3",
     "version": "3.0.9"
   },
+  "legacyPackages.x86_64-linux.python314Packages.polygraphy": {
+    "description": "Deep learning inference prototyping and debugging toolkit",
+    "pname": "python3.14-polygraphy",
+    "version": "0.53.6"
+  },
   "legacyPackages.x86_64-linux.python314Packages.polyline": {
     "description": "Python implementation of Google's Encoded Polyline Algorithm Format",
     "pname": "python3.14-polyline",
@@ -384907,7 +385117,7 @@
   "legacyPackages.x86_64-linux.python314Packages.publicsuffixlist": {
     "description": "Public Suffix List parser implementation",
     "pname": "python3.14-publicsuffixlist",
-    "version": "1.1.2.20261029"
+    "version": "1.1.2.20261101"
   },
   "legacyPackages.x86_64-linux.python314Packages.pubnub": {
     "description": "Python-based APIs for PubNub",
@@ -386917,7 +387127,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pyfirefly": {
     "description": "Asynchronous Python client for the Firefly III API",
     "pname": "python3.14-pyfirefly",
-    "version": "0.1.16"
+    "version": "0.1.17"
   },
   "legacyPackages.x86_64-linux.python314Packages.pyfireservicerota": {
     "description": "Python 3 API wrapper for FireServiceRota/BrandweerRooster",
@@ -388542,7 +388752,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pynndescent": {
     "description": "Nearest Neighbor Descent",
     "pname": "python3.14-pynndescent",
-    "version": "0.6.0"
+    "version": "0.7.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.pynng": {
     "description": "Python bindings for Nanomsg Next Generation",
@@ -392222,7 +392432,7 @@
   "legacyPackages.x86_64-linux.python314Packages.python-rapidjson": {
     "description": "Python wrapper around rapidjson",
     "pname": "python3.14-python-rapidjson",
-    "version": "1.25"
+    "version": "1.26"
   },
   "legacyPackages.x86_64-linux.python314Packages.python-redis-lock": {
     "description": "Lock context manager implemented via redis SETNX/BLPOP",
@@ -392672,7 +392882,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pythonqwt": {
     "description": "Qt plotting widgets for Python (pure Python reimplementation of Qwt C++ library)",
     "pname": "python3.14-pythonqwt",
-    "version": "0.16.3"
+    "version": "0.17.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.pythran": {
     "description": "Ahead of Time compiler for numeric kernels",
@@ -397412,7 +397622,7 @@
   "legacyPackages.x86_64-linux.python314Packages.snakemake-logger-plugin-rich": {
     "description": "Snakemake logger plugin using Rich",
     "pname": "python3.14-snakemake-logger-plugin-rich",
-    "version": "0.5.0"
+    "version": "0.5.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.snakemake-storage-plugin-fs": {
     "description": "Snakemake storage plugin that reads and writes from a locally mounted filesystem using rsync",
@@ -398762,7 +398972,7 @@
   "legacyPackages.x86_64-linux.python314Packages.sslpsk-pmd3": {
     "description": "Adds TLS-PSK support to the Python ssl package",
     "pname": "python3.14-sslpsk-pmd3",
-    "version": "1.0.3"
+    "version": "1.2.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.ssort": {
     "description": "Automatically sorting python statements within a module",
@@ -400557,7 +400767,7 @@
   "legacyPackages.x86_64-linux.python314Packages.theben-conexa-smgw": {
     "description": "API for Theben Conexa 3.0 Smart Meter Gateway",
     "pname": "python3.14-theben-conexa-smgw",
-    "version": "0.4.2"
+    "version": "0.4.3"
   },
   "legacyPackages.x86_64-linux.python314Packages.thefuzz": {
     "description": "Fuzzy string matching for Python",
@@ -401523,6 +401733,11 @@
     "description": "Python API for Travis CI",
     "pname": "python3.14-travispy",
     "version": "0.3.5"
+  },
+  "legacyPackages.x86_64-linux.python314Packages.trayer": {
+    "description": "Tray library for python",
+    "pname": "python3.14-trayer",
+    "version": "0.1.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.trectools": {
     "description": "Library for assisting Information Retrieval (IR) practitioners with TREC-like campaigns",
@@ -406684,10 +406899,30 @@
     "pname": "python3.14-vacuum-map-parser-base",
     "version": "0.1.5"
   },
+  "legacyPackages.x86_64-linux.python314Packages.vacuum-map-parser-dreame": {
+    "description": "Functionalities for Dreame vacuum map parsing",
+    "pname": "python3.14-vacuum-map-parser-dreame",
+    "version": "0.1.3"
+  },
+  "legacyPackages.x86_64-linux.python314Packages.vacuum-map-parser-ijai": {
+    "description": "Functionalities for Ijai vacuum map parsing",
+    "pname": "python3.14-vacuum-map-parser-ijai",
+    "version": "0.1.1"
+  },
   "legacyPackages.x86_64-linux.python314Packages.vacuum-map-parser-roborock": {
     "description": "Functionalities for Roborock vacuum map parsing",
     "pname": "python3.14-vacuum-map-parser-roborock",
     "version": "0.1.5"
+  },
+  "legacyPackages.x86_64-linux.python314Packages.vacuum-map-parser-roidmi": {
+    "description": "Functionalities for Roidmi vacuum map parsing",
+    "pname": "python3.14-vacuum-map-parser-roidmi",
+    "version": "0.1.3"
+  },
+  "legacyPackages.x86_64-linux.python314Packages.vacuum-map-parser-viomi": {
+    "description": "Functionalities for Viomi vacuum map parsing",
+    "pname": "python3.14-vacuum-map-parser-viomi",
+    "version": "0.1.3"
   },
   "legacyPackages.x86_64-linux.python314Packages.vacuum-map-parser-xiaomi": {
     "description": "Functionalities for Xiaomi vacuum map parsing",
@@ -410084,11 +410319,6 @@
     "pname": "qstopmotion",
     "version": "2.5.2"
   },
-  "legacyPackages.x86_64-linux.qsudo": {
-    "description": "Graphical sudo utility from Project Trident",
-    "pname": "qsudo",
-    "version": "2020.03.27"
-  },
   "legacyPackages.x86_64-linux.qsv": {
     "description": "CSVs sliced, diced & analyzed",
     "pname": "qsv",
@@ -412132,7 +412362,7 @@
   "legacyPackages.x86_64-linux.rasm": {
     "description": "Z80 assembler",
     "pname": "rasm",
-    "version": "3.3.1"
+    "version": "3.3.2"
   },
   "legacyPackages.x86_64-linux.raspa": {
     "description": "General purpose classical molecular simulation package",
@@ -412152,7 +412382,7 @@
   "legacyPackages.x86_64-linux.raspberrypi-eeprom": {
     "description": "Installation scripts and binaries for the closed sourced Raspberry Pi 4 and 5 bootloader EEPROMs",
     "pname": "raspberrypi-eeprom",
-    "version": "2026.09.25-2712"
+    "version": "2026.10.30-2712"
   },
   "legacyPackages.x86_64-linux.raspberrypiWirelessFirmware": {
     "description": "Firmware for builtin Wifi/Bluetooth devices in the Raspberry Pi 3+ and Zero W",
@@ -412242,7 +412472,7 @@
   "legacyPackages.x86_64-linux.ratspeak": {
     "description": "Reticulum and LXMF client with messaging, file sharing, voice calls and LoRa support",
     "pname": "ratspeak",
-    "version": "1.0.34"
+    "version": "1.0.40"
   },
   "legacyPackages.x86_64-linux.ratt": {
     "description": "Tool for converting websites to rss/atom feeds",
@@ -412407,7 +412637,7 @@
   "legacyPackages.x86_64-linux.rclip": {
     "description": "AI-Powered Command-Line Photo Search Tool",
     "pname": "rclip",
-    "version": "4.0.8"
+    "version": "4.1.1"
   },
   "legacyPackages.x86_64-linux.rclone": {
     "description": "Command line program to sync files and directories to and from major cloud storage",
@@ -413139,6 +413369,11 @@
     "pname": "reflection-cpp",
     "version": "0.4.0"
   },
+  "legacyPackages.x86_64-linux.reflectionhle": {
+    "description": "Source port of Keen Dreams, the Catacomb 3-D series, Wolfenstein 3D and BioMenace",
+    "pname": "reflectionhle",
+    "version": "20260606"
+  },
   "legacyPackages.x86_64-linux.reflex": {
     "description": "Small tool to watch a directory and rerun a command when certain files change",
     "pname": "reflex",
@@ -413757,7 +413992,7 @@
   "legacyPackages.x86_64-linux.resterm": {
     "description": "Terminal-based REST client",
     "pname": "resterm",
-    "version": "1.16.1"
+    "version": "1.17.2"
   },
   "legacyPackages.x86_64-linux.restic": {
     "description": "Backup program that is fast, efficient and secure",
@@ -413867,7 +414102,7 @@
   "legacyPackages.x86_64-linux.reticulum-group-chat": {
     "description": "Pure-Go LXMF group-chat hub for the Reticulum network — a single static binary that relays many-to-many encrypted text chat over LoRa, TCP/IP, and mixed meshes. No Python, no third-party RNS library",
     "pname": "reticulum-group-chat",
-    "version": "1.17.3"
+    "version": "1.18.1"
   },
   "legacyPackages.x86_64-linux.retool": {
     "description": "Better filter tool for Redump and No-Intro dats",
@@ -424282,7 +424517,7 @@
   "legacyPackages.x86_64-linux.s7": {
     "description": "Scheme interpreter intended as an extension language for other applications",
     "pname": "s7",
-    "version": "11.9-unstable-2026-08-19"
+    "version": "11.9-unstable-2026-10-23"
   },
   "legacyPackages.x86_64-linux.s9fes": {
     "description": "Scheme 9 From Empty Space, an interpreter for R4RS Scheme",
@@ -424647,7 +424882,7 @@
   "legacyPackages.x86_64-linux.sandhole": {
     "description": "Expose HTTP/SSH/TCP services through SSH port forwarding",
     "pname": "sandhole",
-    "version": "0.10.4"
+    "version": "0.10.5"
   },
   "legacyPackages.x86_64-linux.sane-airscan": {
     "description": "Scanner Access Now Easy - Apple AirScan (eSCL) driver",
@@ -449212,7 +449447,7 @@
   "legacyPackages.x86_64-linux.scummvm": {
     "description": "Program to run certain classic graphical point-and-click adventure games (such as Monkey Island)",
     "pname": "scummvm",
-    "version": "2026.3.0"
+    "version": "2026.4.0"
   },
   "legacyPackages.x86_64-linux.scx-loader": {
     "description": "",
@@ -449362,7 +449597,7 @@
   "legacyPackages.x86_64-linux.sdl_gamecontrollerdb": {
     "description": "Community sourced database of game controller mappings to be used with SDL2 and SDL3 Game Controller functionality",
     "pname": "sdl_gamecontrollerdb",
-    "version": "0-unstable-2026-10-19"
+    "version": "0-unstable-2026-11-02"
   },
   "legacyPackages.x86_64-linux.sdlookup": {
     "description": "IP lookups for open ports and vulnerabilities from internetdb.shodan.io",
@@ -450268,6 +450503,11 @@
     "description": "RSS and Atom parser (and some format programs)",
     "pname": "sfeed",
     "version": "2.4"
+  },
+  "legacyPackages.x86_64-linux.sfinx": {
+    "description": "Polish 2D point-and-click adventure game set in a fantasy kingdom",
+    "pname": "sfinx",
+    "version": "1.1"
   },
   "legacyPackages.x86_64-linux.sfizz": {
     "description": "SFZ jack client and LV2 plugin",
@@ -451429,11 +451669,6 @@
     "pname": "simple-tpm-pk11",
     "version": "0.07"
   },
-  "legacyPackages.x86_64-linux.simple64": {
-    "description": "Easy to use N64 emulator",
-    "pname": "simple64",
-    "version": "2024.12.1"
-  },
   "legacyPackages.x86_64-linux.simple64-netplay-server": {
     "description": "Dedicated netplay server for gopher64, simple64 and RMG",
     "pname": "gopher64-netplay-server",
@@ -452112,7 +452347,7 @@
   "legacyPackages.x86_64-linux.slade": {
     "description": "Doom editor",
     "pname": "slade",
-    "version": "3.2.12"
+    "version": "3.3.0"
   },
   "legacyPackages.x86_64-linux.slade-unstable": {
     "description": "Doom editor",
@@ -453469,6 +453704,11 @@
     "pname": "soloist",
     "version": "1.3.9"
   },
+  "legacyPackages.x86_64-linux.soltys": {
+    "description": "Polish 2D point-and-click adventure game about a village mayor",
+    "pname": "soltys",
+    "version": "1.0"
+  },
   "legacyPackages.x86_64-linux.solvespace": {
     "description": "Parametric 3d CAD program",
     "pname": "solvespace",
@@ -453927,7 +454167,7 @@
   "legacyPackages.x86_64-linux.space-station-14-launcher": {
     "description": "Launcher for Space Station 14, a multiplayer game about paranoia and disaster",
     "pname": "ss14-launcher",
-    "version": "0.40.3"
+    "version": "0.40.4"
   },
   "legacyPackages.x86_64-linux.spacebar": {
     "description": "Minimal status bar for macOS",
@@ -454062,7 +454302,7 @@
   "legacyPackages.x86_64-linux.sparrow": {
     "description": "Modern desktop Bitcoin wallet application supporting most hardware wallets and built on common standards such as PSBT, with an emphasis on transparency and usability",
     "pname": "sparrow",
-    "version": "2.5.5"
+    "version": "2.5.6"
   },
   "legacyPackages.x86_64-linux.sparrow3d": {
     "description": "Software renderer for different open handhelds like the gp2x, wiz, caanoo and pandora",
@@ -454752,7 +454992,7 @@
   "legacyPackages.x86_64-linux.spruce": {
     "description": "BOSH template merge tool",
     "pname": "spruce",
-    "version": "1.35.23"
+    "version": "1.35.24"
   },
   "legacyPackages.x86_64-linux.sptk": {
     "description": "Suite of speech signal processing tools",
@@ -455202,7 +455442,7 @@
   "legacyPackages.x86_64-linux.ss14-launcher": {
     "description": "Launcher for Space Station 14, a multiplayer game about paranoia and disaster",
     "pname": "ss14-launcher",
-    "version": "0.40.3"
+    "version": "0.40.4"
   },
   "legacyPackages.x86_64-linux.ssb-patchwork": {
     "description": "Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB)",
@@ -457982,7 +458222,7 @@
   "legacyPackages.x86_64-linux.swiftPackages.swift-asn1": {
     "description": "An implementation of ASN.1 for Swift",
     "pname": "swift-asn1",
-    "version": "1.7.3"
+    "version": "1.7.4"
   },
   "legacyPackages.x86_64-linux.swiftPackages.swift-build": {
     "description": "High-level build system based on llbuild",
@@ -458777,7 +459017,7 @@
   "legacyPackages.x86_64-linux.syswatch": {
     "description": "Single-host system diagnostics TUI tool",
     "pname": "syswatch",
-    "version": "0.14.4"
+    "version": "0.14.5"
   },
   "legacyPackages.x86_64-linux.sysz": {
     "description": "Fzf terminal UI for systemctl",
@@ -459037,12 +459277,12 @@
   "legacyPackages.x86_64-linux.tailscale": {
     "description": "Node agent for Tailscale, a mesh VPN built on WireGuard",
     "pname": "tailscale",
-    "version": "1.104.4"
+    "version": "1.104.5"
   },
   "legacyPackages.x86_64-linux.tailscale-gitops-pusher": {
     "description": "Allows users to use a GitOps flow for managing Tailscale ACLs",
     "pname": "tailscale-gitops-pusher",
-    "version": "1.104.4"
+    "version": "1.104.5"
   },
   "legacyPackages.x86_64-linux.tailscale-gui": {
     "description": "Tailscale GUI client for macOS",
@@ -459052,7 +459292,7 @@
   "legacyPackages.x86_64-linux.tailscale-nginx-auth": {
     "description": "Tool that allows users to use Tailscale Whois authentication with NGINX as a reverse proxy",
     "pname": "tailscale-nginx-auth",
-    "version": "1.104.4"
+    "version": "1.104.5"
   },
   "legacyPackages.x86_64-linux.tailscale-systray": {
     "description": "Tailscale systray",
@@ -460422,7 +460662,7 @@
   "legacyPackages.x86_64-linux.telegram-desktop": {
     "description": "Telegram Desktop messaging app",
     "pname": "telegram-desktop",
-    "version": "7.3.2"
+    "version": "7.3.3"
   },
   "legacyPackages.x86_64-linux.telegraph": {
     "description": "Write and decode Morse",
@@ -461047,7 +461287,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.aliyun_alicloud": {
     "description": "",
     "pname": "terraform-provider-alicloud",
-    "version": "2.0.0"
+    "version": "2.1.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.aminueza_minio": {
     "description": "",
@@ -461252,7 +461492,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.fortinetdev_fortios": {
     "description": "",
     "pname": "terraform-provider-fortios",
-    "version": "1.26.1"
+    "version": "1.26.2"
   },
   "legacyPackages.x86_64-linux.terraform-providers.gavinbunney_kubectl": {
     "description": "",
@@ -461522,7 +461762,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.metio_migadu": {
     "description": "",
     "pname": "terraform-provider-migadu",
-    "version": "2026.10.22"
+    "version": "2026.10.29"
   },
   "legacyPackages.x86_64-linux.terraform-providers.mongey_kafka": {
     "description": "",
@@ -461642,7 +461882,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.rootlyhq_rootly": {
     "description": "",
     "pname": "terraform-provider-rootly",
-    "version": "5.23.5"
+    "version": "5.24.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.rundeck_rundeck": {
     "description": "",
@@ -461697,7 +461937,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.spacelift-io_spacelift": {
     "description": "",
     "pname": "terraform-provider-spacelift",
-    "version": "1.57.0"
+    "version": "1.58.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.splunk-terraform_signalfx": {
     "description": "",
@@ -498862,7 +499102,7 @@
   "legacyPackages.x86_64-linux.tinymist": {
     "description": "Integrated language service for Typst",
     "pname": "tinymist",
-    "version": "0.15.10"
+    "version": "0.15.12"
   },
   "legacyPackages.x86_64-linux.tinyobjloader": {
     "description": "Tiny but powerful single file wavefront obj loader",
@@ -500078,6 +500318,11 @@
     "description": "Privacy-focused browser routing traffic through the Tor network",
     "pname": "tor-browser",
     "version": "16.0"
+  },
+  "legacyPackages.x86_64-linux.torch": {
+    "description": "Generic asset processor for games",
+    "pname": "torch",
+    "version": "1.0.0-unstable-2026-10-27"
   },
   "legacyPackages.x86_64-linux.torch-tensorrt": {
     "description": "PyTorch compiler for NVIDIA GPUs using TensorRT",
@@ -503824,11 +504069,6 @@
     "pname": "ty",
     "version": "0.0.95"
   },
-  "legacyPackages.x86_64-linux.tydra": {
-    "description": "Shortcut menu-based task runner, inspired by Emacs Hydra",
-    "pname": "tydra",
-    "version": "1.0.3"
-  },
   "legacyPackages.x86_64-linux.tygo": {
     "description": "Generate Typescript types from Golang source code",
     "pname": "tygo",
@@ -503882,7 +504122,7 @@
   "legacyPackages.x86_64-linux.typesetter": {
     "description": "Minimalist, local-first Typst editor",
     "pname": "typesetter",
-    "version": "0.16.5"
+    "version": "0.16.8"
   },
   "legacyPackages.x86_64-linux.typeshare": {
     "description": "Command Line Tool for generating language files with typeshare",
@@ -537647,7 +537887,7 @@
   "legacyPackages.x86_64-linux.unciv": {
     "description": "Open-source Android/Desktop remake of Civ V",
     "pname": "unciv",
-    "version": "4.22.13"
+    "version": "4.22.17"
   },
   "legacyPackages.x86_64-linux.unclutter": {
     "description": "Hides mouse pointer while not in use",
@@ -539152,7 +539392,7 @@
   "legacyPackages.x86_64-linux.uutils-procps": {
     "description": "Rust reimplementation of the procps project",
     "pname": "uutils-procps",
-    "version": "0.0.1-unstable-2026-10-07"
+    "version": "0.0.1-unstable-2026-10-29"
   },
   "legacyPackages.x86_64-linux.uutils-sed": {
     "description": "Rewrite of sed in Rust",
@@ -539927,7 +540167,7 @@
   "legacyPackages.x86_64-linux.vector": {
     "description": "High-performance observability data pipeline",
     "pname": "vector",
-    "version": "0.60.0"
+    "version": "0.61.0"
   },
   "legacyPackages.x86_64-linux.vector-blf": {
     "description": "Library to access Binary Log File (BLF) files",
@@ -539942,7 +540182,7 @@
   "legacyPackages.x86_64-linux.vectorcraft": {
     "description": "Vector illustration, a native Illustrator-style editor for SVG and PDF",
     "pname": "vectorcraft",
-    "version": "0.17.0"
+    "version": "0.21.0"
   },
   "legacyPackages.x86_64-linux.vectoroids": {
     "description": "Clone of the classic arcade game Asteroids by Atari",
@@ -541877,7 +542117,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.coc-clangd": {
     "description": "clangd extension for coc.nvim",
     "pname": "vimplugin-coc-clangd",
-    "version": "0-unstable-2026-10-01"
+    "version": "0-unstable-2026-11-01"
   },
   "legacyPackages.x86_64-linux.vimPlugins.coc-clap": {
     "description": "",
@@ -542007,7 +542247,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.coc-pyright": {
     "description": "Pyright extension for coc.nvim",
     "pname": "vimplugin-coc-pyright",
-    "version": "0-unstable-2026-10-01"
+    "version": "0-unstable-2026-11-01"
   },
   "legacyPackages.x86_64-linux.vimPlugins.coc-r-lsp": {
     "description": "R LSP client for coc.nvim",
@@ -554507,7 +554747,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.gitlab.gitlab-workflow": {
     "description": "GitLab extension for Visual Studio Code",
     "pname": "vscode-extension-gitlab-gitlab-workflow",
-    "version": "7.2.5"
+    "version": "7.3.5"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.gleam.gleam": {
     "description": "Support for the Gleam programming language",
@@ -555312,7 +555552,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.myriad-dreamin.tinymist": {
     "description": "VSCode extension for providing an integration solution for Typst",
     "pname": "vscode-extension-myriad-dreamin-tinymist",
-    "version": "0.15.10"
+    "version": "0.15.12"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.natqe.reload": {
     "description": "This extension will add reload button to status bar in the right-bottom of your VSCode editor",
@@ -556624,6 +556864,16 @@
     "pname": "wad",
     "version": "0.4.6"
   },
+  "legacyPackages.x86_64-linux.wadgaget": {
+    "description": "Terminal-based WAD editor for Doom-engine games",
+    "pname": "wadgadget",
+    "version": "0.2"
+  },
+  "legacyPackages.x86_64-linux.wadptr": {
+    "description": "Tool for compressing Doom WAD files",
+    "pname": "wadptr",
+    "version": "3.8"
+  },
   "legacyPackages.x86_64-linux.waf": {
     "description": "Meta build system",
     "pname": "waf",
@@ -557342,7 +557592,7 @@
   "legacyPackages.x86_64-linux.wayle": {
     "description": "Wayland Elements - A compositor agnostic shell with extensive customization",
     "pname": "wayle",
-    "version": "0.7.0"
+    "version": "0.7.1"
   },
   "legacyPackages.x86_64-linux.waylevel": {
     "description": "Tool to print wayland toplevels and other compositor info",
@@ -557942,7 +558192,7 @@
   "legacyPackages.x86_64-linux.werf": {
     "description": "GitOps delivery tool",
     "pname": "werf",
-    "version": "3.11.0"
+    "version": "3.12.1"
   },
   "legacyPackages.x86_64-linux.werf-bin": {
     "description": "GitOps delivery tool",
@@ -558577,7 +558827,7 @@
   "legacyPackages.x86_64-linux.windsend-rs": {
     "description": "Quickly and securely sync clipboard, transfer files and directories between devices",
     "pname": "windsend-rs",
-    "version": "1.7.4"
+    "version": "1.7.5"
   },
   "legacyPackages.x86_64-linux.windsurf": {
     "description": "Agentic IDE powered by AI Flow paradigm",
@@ -563242,7 +563492,7 @@
   "legacyPackages.x86_64-linux.xplr": {
     "description": "Hackable, minimal, fast TUI file explorer",
     "pname": "xplr",
-    "version": "1.1.2"
+    "version": "1.2.2"
   },
   "legacyPackages.x86_64-linux.xplugd": {
     "description": "UNIX daemon that executes a script on X input and RandR changes",
@@ -565127,7 +565377,7 @@
   "legacyPackages.x86_64-linux.yubioath-flutter": {
     "description": "Yubico Authenticator for Desktop",
     "pname": "yubioath-flutter",
-    "version": "7.4.2"
+    "version": "7.5.0"
   },
   "legacyPackages.x86_64-linux.yubiswitch": {
     "description": "The macOS status bar application to enable/disable Yubikeys.",
@@ -565587,7 +565837,7 @@
   "legacyPackages.x86_64-linux.zchunk": {
     "description": "File format designed for highly efficient deltas while maintaining good compression",
     "pname": "zchunk",
-    "version": "1.5.4"
+    "version": "1.5.5"
   },
   "legacyPackages.x86_64-linux.zcool-qingke-huangyou": {
     "description": "Futuristic stiff geometric font",
@@ -566112,12 +566362,12 @@
   "legacyPackages.x86_64-linux.zigbee2mqtt": {
     "description": "Zigbee to MQTT bridge using zigbee-shepherd",
     "pname": "zigbee2mqtt",
-    "version": "2.14.2"
+    "version": "2.14.3"
   },
   "legacyPackages.x86_64-linux.zigbee2mqtt_2": {
     "description": "Zigbee to MQTT bridge using zigbee-shepherd",
     "pname": "zigbee2mqtt",
-    "version": "2.14.2"
+    "version": "2.14.3"
   },
   "legacyPackages.x86_64-linux.zigdoc": {
     "description": "CLI tool to view documentation for zig library symbols",
