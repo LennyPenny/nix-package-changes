@@ -1217,7 +1217,7 @@
   "legacyPackages.x86_64-linux.adminneo": {
     "description": "Database management in a single PHP file (fork of Adminer)",
     "pname": "adminneo",
-    "version": "5.8.0"
+    "version": "5.9.1"
   },
   "legacyPackages.x86_64-linux.adms": {
     "description": "Automatic device model synthesizer",
@@ -8687,7 +8687,7 @@
   "legacyPackages.x86_64-linux.antigravity-cli": {
     "description": "Google's Go-based terminal user interface (TUI) agent client",
     "pname": "antigravity-cli",
-    "version": "1.5.12"
+    "version": "1.5.13"
   },
   "legacyPackages.x86_64-linux.antigravity-fhs": {
     "description": "Wrapped variant of antigravity-ide which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications",
@@ -14912,7 +14912,7 @@
   "legacyPackages.x86_64-linux.bbedit": {
     "description": "Powerful and full-featured professional HTML and text editor for macOS",
     "pname": "bbedit",
-    "version": "16.0.3"
+    "version": "16.1"
   },
   "legacyPackages.x86_64-linux.bbin": {
     "description": "Install any Babashka script or project with one command",
@@ -19927,7 +19927,7 @@
   "legacyPackages.x86_64-linux.cachix": {
     "description": "Command-line client for Nix binary cache hosting https://cachix.org",
     "pname": "cachix",
-    "version": "1.12.1"
+    "version": "1.15.0"
   },
   "legacyPackages.x86_64-linux.cadabra2": {
     "description": "Field-theory motivated approach to computer algebra",
@@ -20197,37 +20197,37 @@
   "legacyPackages.x86_64-linux.calico-apiserver": {
     "description": "Cloud native networking and network security",
     "pname": "calico-apiserver",
-    "version": "3.32.3"
+    "version": "3.32.4"
   },
   "legacyPackages.x86_64-linux.calico-app-policy": {
     "description": "Cloud native networking and network security",
     "pname": "calico-app-policy",
-    "version": "3.32.3"
+    "version": "3.32.4"
   },
   "legacyPackages.x86_64-linux.calico-cni-plugin": {
     "description": "Cloud native networking and network security",
     "pname": "calico-cni-plugin",
-    "version": "3.32.3"
+    "version": "3.32.4"
   },
   "legacyPackages.x86_64-linux.calico-kube-controllers": {
     "description": "Cloud native networking and network security",
     "pname": "calico-kube-controllers",
-    "version": "3.32.3"
+    "version": "3.32.4"
   },
   "legacyPackages.x86_64-linux.calico-pod2daemon": {
     "description": "Cloud native networking and network security",
     "pname": "calico-pod2daemon",
-    "version": "3.32.3"
+    "version": "3.32.4"
   },
   "legacyPackages.x86_64-linux.calico-typha": {
     "description": "Cloud native networking and network security",
     "pname": "calico-typha",
-    "version": "3.32.3"
+    "version": "3.32.4"
   },
   "legacyPackages.x86_64-linux.calicoctl": {
     "description": "Cloud native networking and network security",
     "pname": "calicoctl",
-    "version": "3.32.3"
+    "version": "3.32.4"
   },
   "legacyPackages.x86_64-linux.caligula": {
     "description": "User-friendly, lightweight TUI for disk imaging",
@@ -21802,7 +21802,7 @@
   "legacyPackages.x86_64-linux.cc-switch-cli": {
     "description": "Cross-platform CLI management tool for Claude Code, Codex, Gemini, and OpenCode",
     "pname": "cc-switch-cli",
-    "version": "5.10.5"
+    "version": "5.11.3"
   },
   "legacyPackages.x86_64-linux.cc-token": {
     "description": "CLI tool for counting tokens in files using Anthropic's Claude API",
@@ -28827,7 +28827,7 @@
   "legacyPackages.x86_64-linux.claude-code": {
     "description": "Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster",
     "pname": "claude-code",
-    "version": "2.1.328"
+    "version": "2.1.329"
   },
   "legacyPackages.x86_64-linux.claude-code-acp": {
     "description": "ACP-compatible coding agent powered by the Claude Agent SDK",
@@ -28837,7 +28837,7 @@
   "legacyPackages.x86_64-linux.claude-code-bin": {
     "description": "Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster",
     "pname": "claude-code",
-    "version": "2.1.328"
+    "version": "2.1.329"
   },
   "legacyPackages.x86_64-linux.claude-code-router": {
     "description": "Tool to route Claude Code requests to different models and customize any request",
@@ -29362,7 +29362,7 @@
   "legacyPackages.x86_64-linux.cloud-hypervisor": {
     "description": "Open source Virtual Machine Monitor (VMM) that runs on top of KVM",
     "pname": "cloud-hypervisor",
-    "version": "54.1"
+    "version": "55.0"
   },
   "legacyPackages.x86_64-linux.cloud-init": {
     "description": "Provides configuration and customization of cloud instance",
@@ -30192,7 +30192,7 @@
   "legacyPackages.x86_64-linux.codebook": {
     "description": "Unholy spellchecker for code",
     "pname": "codebook",
-    "version": "0.3.43"
+    "version": "0.4.1"
   },
   "legacyPackages.x86_64-linux.codebraid": {
     "description": "Live code in Pandoc Markdown.  Codebraid is a Python program that enables executable code in Pandoc Markdown documents. Using Codebraid can be as simple as adding a class to your code blocks' attributes, and then running codebraid rather than pandoc to convert your document from Markdown to another format. codebraid supports almost all of pandoc's options and passes them to pandoc internally.  Codebraid provides two options for executing code. It includes a built-in code execution system that currently supports Python 3.5+, Julia, Rust, R, Bash, and JavaScript. Code can also be executed using Jupyter kernels, with support for rich output like plots. ",
@@ -30302,7 +30302,7 @@
   "legacyPackages.x86_64-linux.codex": {
     "description": "Lightweight coding agent that runs in your terminal",
     "pname": "codex",
-    "version": "0.170.0"
+    "version": "0.171.0"
   },
   "legacyPackages.x86_64-linux.codex-acp": {
     "description": "ACP adapter for Codex CLI",
@@ -31047,7 +31047,7 @@
   "legacyPackages.x86_64-linux.confd-calico": {
     "description": "Cloud native networking and network security",
     "pname": "confd-calico",
-    "version": "3.32.3"
+    "version": "3.32.4"
   },
   "legacyPackages.x86_64-linux.confetty": {
     "description": "Confetti in your TTY",
@@ -38557,7 +38557,7 @@
   "legacyPackages.x86_64-linux.dnscontrol": {
     "description": "Synchronize your DNS to multiple providers from a simple DSL",
     "pname": "dnscontrol",
-    "version": "5.9.0"
+    "version": "5.10.1"
   },
   "legacyPackages.x86_64-linux.dnscrypt-proxy": {
     "description": "Tool that provides secure DNS resolution",
@@ -44147,7 +44147,7 @@
   "legacyPackages.x86_64-linux.entire": {
     "description": "CLI tool that captures AI agent sessions alongside git commits",
     "pname": "entire",
-    "version": "0.13.3"
+    "version": "0.13.4"
   },
   "legacyPackages.x86_64-linux.entr": {
     "description": "Run arbitrary commands when files change",
@@ -44579,6 +44579,11 @@
     "pname": "es",
     "version": "0.10.0"
   },
+  "legacyPackages.x86_64-linux.es-de": {
+    "description": "Frontend for browsing and launching games from your multi-platform collection.",
+    "pname": "es-de",
+    "version": "3.5.0"
+  },
   "legacyPackages.x86_64-linux.esbuild": {
     "description": "Extremely fast JavaScript bundler",
     "pname": "esbuild",
@@ -44772,7 +44777,7 @@
   "legacyPackages.x86_64-linux.eternity": {
     "description": "New school Doom port by James Haley",
     "pname": "eternity-engine",
-    "version": "4.05.04"
+    "version": "4.06.00"
   },
   "legacyPackages.x86_64-linux.etesync-dav": {
     "description": "Secure, end-to-end encrypted, and privacy respecting sync for contacts, calendars and tasks",
@@ -44807,7 +44812,7 @@
   "legacyPackages.x86_64-linux.etherpad-lite": {
     "description": "Modern really-real-time collaborative document editor",
     "pname": "etherpad-lite",
-    "version": "3.3.19"
+    "version": "3.3.20"
   },
   "legacyPackages.x86_64-linux.ethersync": {
     "description": "Real-time co-editing of local text files",
@@ -47797,7 +47802,7 @@
   "legacyPackages.x86_64-linux.firebase-tools": {
     "description": "Manage, and deploy your Firebase project from the command line",
     "pname": "firebase-tools",
-    "version": "15.34.1"
+    "version": "15.37.0"
   },
   "legacyPackages.x86_64-linux.firebird": {
     "description": "SQL relational database management system",
@@ -47947,7 +47952,7 @@
   "legacyPackages.x86_64-linux.firefox-sync-client": {
     "description": "Commandline-utility to list/view/edit/delete entries in a firefox-sync account",
     "pname": "firefox-sync-client",
-    "version": "1.10.0"
+    "version": "1.11.0"
   },
   "legacyPackages.x86_64-linux.firefox-unwrapped": {
     "description": "Web browser built from Firefox source tree",
@@ -49062,7 +49067,7 @@
   "legacyPackages.x86_64-linux.flutter": {
     "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
     "pname": "flutter-wrapped",
-    "version": "3.47.4-sdk-links"
+    "version": "3.50.1-sdk-links"
   },
   "legacyPackages.x86_64-linux.flutter329": {
     "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
@@ -49099,10 +49104,15 @@
     "pname": "flutter-wrapped",
     "version": "3.47.4-sdk-links"
   },
+  "legacyPackages.x86_64-linux.flutter350": {
+    "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
+    "pname": "flutter-wrapped",
+    "version": "3.50.1-sdk-links"
+  },
   "legacyPackages.x86_64-linux.flutterPackages-bin.stable": {
     "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
     "pname": "flutter-wrapped",
-    "version": "3.47.4-sdk-links"
+    "version": "3.50.1-sdk-links"
   },
   "legacyPackages.x86_64-linux.flutterPackages-bin.v3_29": {
     "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
@@ -49139,10 +49149,15 @@
     "pname": "flutter-wrapped",
     "version": "3.47.4-sdk-links"
   },
+  "legacyPackages.x86_64-linux.flutterPackages-bin.v3_50": {
+    "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
+    "pname": "flutter-wrapped",
+    "version": "3.50.1-sdk-links"
+  },
   "legacyPackages.x86_64-linux.flutterPackages.stable": {
     "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
     "pname": "flutter-wrapped",
-    "version": "3.47.4-sdk-links"
+    "version": "3.50.1-sdk-links"
   },
   "legacyPackages.x86_64-linux.flutterPackages.v3_29": {
     "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
@@ -49178,6 +49193,11 @@
     "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
     "pname": "flutter-wrapped",
     "version": "3.47.4-sdk-links"
+  },
+  "legacyPackages.x86_64-linux.flutterPackages.v3_50": {
+    "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
+    "pname": "flutter-wrapped",
+    "version": "3.50.1-sdk-links"
   },
   "legacyPackages.x86_64-linux.flutter_rust_bridge_codegen": {
     "description": "Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple",
@@ -49322,7 +49342,7 @@
   "legacyPackages.x86_64-linux.fmit": {
     "description": "Free Musical Instrument Tuner",
     "pname": "fmit",
-    "version": "1.4.6"
+    "version": "1.4.7"
   },
   "legacyPackages.x86_64-linux.fmodex": {
     "description": "Programming library and toolkit for the creation and playback of interactive audio",
@@ -52517,7 +52537,7 @@
   "legacyPackages.x86_64-linux.fx": {
     "description": "Terminal JSON viewer",
     "pname": "fx",
-    "version": "40.0.1"
+    "version": "40.0.2"
   },
   "legacyPackages.x86_64-linux.fx-cast-bridge": {
     "description": "Implementation of the Chrome Sender API (Chromecast) within Firefox",
@@ -55382,7 +55402,7 @@
   "legacyPackages.x86_64-linux.gildas": {
     "description": "Radioastronomy data analysis software",
     "pname": "gildas",
-    "version": "20261001_a"
+    "version": "20261101_a"
   },
   "legacyPackages.x86_64-linux.gilt-rs": {
     "description": "Tool for calculating which UK Gilt will give the best return if held to maturity",
@@ -56097,7 +56117,7 @@
   "legacyPackages.x86_64-linux.git-sync": {
     "description": "Script to automatically synchronize a git repository",
     "pname": "git-sync",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-09-10"
   },
   "legacyPackages.x86_64-linux.git-team": {
     "description": "Command line interface for managing and enhancing git commit messages with co-authors",
@@ -56527,7 +56547,7 @@
   "legacyPackages.x86_64-linux.gitlabform": {
     "description": "Specialized configuration as a code tool for GitLab",
     "pname": "gitlabform",
-    "version": "6.3.2"
+    "version": "6.3.3"
   },
   "legacyPackages.x86_64-linux.gitleaks": {
     "description": "Scan git repos (or files) for secrets",
@@ -68807,7 +68827,7 @@
   "legacyPackages.x86_64-linux.gradle": {
     "description": "Enterprise-grade build system",
     "pname": "gradle",
-    "version": "8.14.7"
+    "version": "8.14.8"
   },
   "legacyPackages.x86_64-linux.gradle-completion": {
     "description": "Gradle tab completion for bash and zsh",
@@ -68827,27 +68847,27 @@
   "legacyPackages.x86_64-linux.gradle-unwrapped": {
     "description": "Enterprise-grade build system",
     "pname": "gradle",
-    "version": "8.14.7"
+    "version": "8.14.8"
   },
   "legacyPackages.x86_64-linux.gradle_8": {
     "description": "Enterprise-grade build system",
     "pname": "gradle",
-    "version": "8.14.7"
+    "version": "8.14.8"
   },
   "legacyPackages.x86_64-linux.gradle_8-unwrapped": {
     "description": "Enterprise-grade build system",
     "pname": "gradle",
-    "version": "8.14.7"
+    "version": "8.14.8"
   },
   "legacyPackages.x86_64-linux.gradle_9": {
     "description": "Enterprise-grade build system",
     "pname": "gradle",
-    "version": "9.9.1"
+    "version": "9.9.2"
   },
   "legacyPackages.x86_64-linux.gradle_9-unwrapped": {
     "description": "Enterprise-grade build system",
     "pname": "gradle",
-    "version": "9.9.1"
+    "version": "9.9.2"
   },
   "legacyPackages.x86_64-linux.gradlew-fdroid": {
     "description": "Reimplementation of the Gradle wrapper script",
@@ -69998,11 +70018,6 @@
     "description": "GNU SASL, Simple Authentication and Security Layer library",
     "pname": "gsasl",
     "version": "2.2.3"
-  },
-  "legacyPackages.x86_64-linux.gscan2pdf": {
-    "description": "GUI to produce PDFs or DjVus from scanned documents",
-    "pname": "perl5.42.3-gscan2pdf",
-    "version": "2.13.5"
   },
   "legacyPackages.x86_64-linux.gscreenshot": {
     "description": "Screenshot frontend (CLI and GUI) for a variety of screenshot backends",
@@ -88632,12 +88647,12 @@
   "legacyPackages.x86_64-linux.haskellPackages.cachix": {
     "description": "Command-line client for Nix binary cache hosting https://cachix.org",
     "pname": "cachix",
-    "version": "1.12.1"
+    "version": "1.15.0"
   },
   "legacyPackages.x86_64-linux.haskellPackages.cachix-api": {
     "description": "Servant HTTP API specification for https://cachix.org",
     "pname": "cachix-api",
-    "version": "1.12.1"
+    "version": "1.15.0"
   },
   "legacyPackages.x86_64-linux.haskellPackages.cacophony": {
     "description": "A library implementing the Noise protocol",
@@ -170217,7 +170232,7 @@
   "legacyPackages.x86_64-linux.high-tide": {
     "description": "Libadwaita TIDAL client for Linux",
     "pname": "high-tide",
-    "version": "1.5.0"
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.highfive": {
     "description": "Header-only C++ HDF5 interface",
@@ -171227,7 +171242,7 @@
   "legacyPackages.x86_64-linux.home-assistant-custom-components.xiaomi_miot": {
     "description": "Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices",
     "pname": "python3.14-al-one-xiaomi_miot",
-    "version": "1.1.5"
+    "version": "1.1.6"
   },
   "legacyPackages.x86_64-linux.home-assistant-custom-components.yandex-station": {
     "description": "Controlling Yandex.Station and other smart home devices with Alice from Home Assistant",
@@ -175857,7 +175872,7 @@
   "legacyPackages.x86_64-linux.iloader": {
     "description": "User friendly sideloader",
     "pname": "iloader",
-    "version": "2.4.1"
+    "version": "2.4.2"
   },
   "legacyPackages.x86_64-linux.ilspycmd": {
     "description": "Tool for decompiling .NET assemblies and generating portable PDBs",
@@ -177657,7 +177672,7 @@
   "legacyPackages.x86_64-linux.ipatool": {
     "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store",
     "pname": "ipatool",
-    "version": "2.7.0"
+    "version": "2.8.1"
   },
   "legacyPackages.x86_64-linux.ipbt": {
     "description": "High-tech ttyrec player for Unix",
@@ -181602,7 +181617,7 @@
   "legacyPackages.x86_64-linux.kcl": {
     "description": "Command line interface for KCL programming language",
     "pname": "kcl",
-    "version": "0.13.2"
+    "version": "0.13.3"
   },
   "legacyPackages.x86_64-linux.kcl-kafka": {
     "description": "One stop shop to do anything with Apache Kafka",
@@ -186707,7 +186722,7 @@
   "legacyPackages.x86_64-linux.ktop": {
     "description": "Top-like tool for your Kubernetes clusters",
     "pname": "kubectl-ktop",
-    "version": "0.5.3"
+    "version": "0.7.2"
   },
   "legacyPackages.x86_64-linux.ktor-cli": {
     "description": "Command-line tool for creating Ktor projects",
@@ -186802,7 +186817,7 @@
   "legacyPackages.x86_64-linux.kubecfg": {
     "description": "Tool for managing Kubernetes resources as code",
     "pname": "kubecfg",
-    "version": "0.38.0"
+    "version": "0.43.0"
   },
   "legacyPackages.x86_64-linux.kubeclarity": {
     "description": "Kubernetes runtime scanner",
@@ -186897,7 +186912,7 @@
   "legacyPackages.x86_64-linux.kubectl-ktop": {
     "description": "Top-like tool for your Kubernetes clusters",
     "pname": "kubectl-ktop",
-    "version": "0.5.3"
+    "version": "0.7.2"
   },
   "legacyPackages.x86_64-linux.kubectl-linstor": {
     "description": "Plugin to control a LINSTOR cluster using kubectl",
@@ -193417,7 +193432,7 @@
   "legacyPackages.x86_64-linux.libretro.parallel-n64": {
     "description": "Parallel Mupen64plus rewrite for libretro",
     "pname": "libretro-parallel-n64",
-    "version": "0-unstable-2026-11-11"
+    "version": "0-unstable-2026-11-20"
   },
   "legacyPackages.x86_64-linux.libretro.pcsx-rearmed": {
     "description": "Port of PCSX ReARMed to libretro",
@@ -193647,7 +193662,7 @@
   "legacyPackages.x86_64-linux.libretro.virtualjaguar": {
     "description": "Port of VirtualJaguar to libretro",
     "pname": "libretro-virtualjaguar",
-    "version": "3.12.0"
+    "version": "3.13.1"
   },
   "legacyPackages.x86_64-linux.libretro.x1": {
     "description": "Sharp X1 emulator core for libretro",
@@ -196742,7 +196757,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.drbd": {
     "description": "LINBIT DRBD kernel module",
     "pname": "drbd",
-    "version": "9.3.3"
+    "version": "9.3.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.ebpf-headers": {
     "description": "vmlinux.h (kernel BTF) for BPF programs, from Linux 6.1.192",
@@ -197582,7 +197597,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.drbd": {
     "description": "LINBIT DRBD kernel module",
     "pname": "drbd",
-    "version": "9.3.3"
+    "version": "9.3.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.ebpf-headers": {
     "description": "vmlinux.h (kernel BTF) for BPF programs, from Linux 6.12.118",
@@ -198427,7 +198442,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.drbd": {
     "description": "LINBIT DRBD kernel module",
     "pname": "drbd",
-    "version": "9.3.3"
+    "version": "9.3.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.ebpf-headers": {
     "description": "vmlinux.h (kernel BTF) for BPF programs, from Linux 6.18.64",
@@ -199272,7 +199287,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.drbd": {
     "description": "LINBIT DRBD kernel module",
     "pname": "drbd",
-    "version": "9.3.3"
+    "version": "9.3.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ebpf-headers": {
     "description": "vmlinux.h (kernel BTF) for BPF programs, from Linux 6.6.162",
@@ -200112,7 +200127,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_7_3.drbd": {
     "description": "LINBIT DRBD kernel module",
     "pname": "drbd",
-    "version": "9.3.3"
+    "version": "9.3.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_7_3.ebpf-headers": {
     "description": "vmlinux.h (kernel BTF) for BPF programs, from Linux 7.3.5",
@@ -200957,7 +200972,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.drbd": {
     "description": "LINBIT DRBD kernel module",
     "pname": "drbd",
-    "version": "9.3.3"
+    "version": "9.3.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.ebpf-headers": {
     "description": "vmlinux.h (kernel BTF) for BPF programs, from Linux 6.18.64",
@@ -201802,7 +201817,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.drbd": {
     "description": "LINBIT DRBD kernel module",
     "pname": "drbd",
-    "version": "9.3.3"
+    "version": "9.3.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ebpf-headers": {
     "description": "vmlinux.h (kernel BTF) for BPF programs, from Linux 7.3.5",
@@ -202647,7 +202662,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.drbd": {
     "description": "LINBIT DRBD kernel module",
     "pname": "drbd",
-    "version": "9.3.3"
+    "version": "9.3.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.ebpf-headers": {
     "description": "vmlinux.h (kernel BTF) for BPF programs, from Linux 7.3.5",
@@ -203492,7 +203507,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.drbd": {
     "description": "LINBIT DRBD kernel module",
     "pname": "drbd",
-    "version": "9.3.3"
+    "version": "9.3.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ebpf-headers": {
     "description": "vmlinux.h (kernel BTF) for BPF programs, from Linux 7.3.5",
@@ -204337,7 +204352,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.drbd": {
     "description": "LINBIT DRBD kernel module",
     "pname": "drbd",
-    "version": "9.3.3"
+    "version": "9.3.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages.ebpf-headers": {
     "description": "vmlinux.h (kernel BTF) for BPF programs, from Linux 6.18.64",
@@ -205187,7 +205202,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.drbd": {
     "description": "LINBIT DRBD kernel module",
     "pname": "drbd",
-    "version": "9.3.3"
+    "version": "9.3.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.ebpf-headers": {
     "description": "vmlinux.h (kernel BTF) for BPF programs, from Linux 7.3.5",
@@ -206032,7 +206047,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.drbd": {
     "description": "LINBIT DRBD kernel module",
     "pname": "drbd",
-    "version": "9.3.3"
+    "version": "9.3.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.ebpf-headers": {
     "description": "vmlinux.h (kernel BTF) for BPF programs, from Linux 6.18.64",
@@ -206877,7 +206892,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.drbd": {
     "description": "LINBIT DRBD kernel module",
     "pname": "drbd",
-    "version": "9.3.3"
+    "version": "9.3.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ebpf-headers": {
     "description": "vmlinux.h (kernel BTF) for BPF programs, from Linux 7.3.5",
@@ -207722,7 +207737,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.drbd": {
     "description": "LINBIT DRBD kernel module",
     "pname": "drbd",
-    "version": "9.3.3"
+    "version": "9.3.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ebpf-headers": {
     "description": "vmlinux.h (kernel BTF) for BPF programs, from Linux 7.3.5",
@@ -208567,7 +208582,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.drbd": {
     "description": "LINBIT DRBD kernel module",
     "pname": "drbd",
-    "version": "9.3.3"
+    "version": "9.3.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.ebpf-headers": {
     "description": "vmlinux.h (kernel BTF) for BPF programs, from Linux 7.3.5",
@@ -211892,7 +211907,7 @@
   "legacyPackages.x86_64-linux.lmstudio-bionic": {
     "description": "Bionic is an easy to use desktop app for experimenting with local and open-source Large Language Models (LLMs)",
     "pname": "lmstudio-bionic",
-    "version": "1.2.0-2"
+    "version": "1.2.2-3"
   },
   "legacyPackages.x86_64-linux.lnav": {
     "description": "Logfile Navigator",
@@ -221282,7 +221297,7 @@
   "legacyPackages.x86_64-linux.mapillary_tools": {
     "description": "Command line tool for processing and uploading Mapillary imagery",
     "pname": "mapillary-tools",
-    "version": "0.15.0"
+    "version": "0.15.1"
   },
   "legacyPackages.x86_64-linux.maple-mono.CN": {
     "description": "Open source monospace CN font with round corner and ligatures for IDE and command line ",
@@ -222667,7 +222682,7 @@
   "legacyPackages.x86_64-linux.mautrix-whatsapp": {
     "description": "Matrix-WhatsApp puppeting bridge",
     "pname": "mautrix-whatsapp",
-    "version": "26.10"
+    "version": "26.11"
   },
   "legacyPackages.x86_64-linux.maven": {
     "description": "Build automation tool (used primarily for Java projects)",
@@ -223377,7 +223392,7 @@
   "legacyPackages.x86_64-linux.mdschema": {
     "description": "A declarative schema-based Markdown validator that helps maintain consistent documentation structure across projects",
     "pname": "mdschema",
-    "version": "0.15.7"
+    "version": "0.16.0"
   },
   "legacyPackages.x86_64-linux.mdserve": {
     "description": "Fast markdown preview server with live reload and theme support",
@@ -232044,6 +232059,11 @@
     "pname": "python-neutronclient",
     "version": "14.0.0"
   },
+  "legacyPackages.x86_64-linux.never-idle": {
+    "description": "Periodically waste CPU, memory and network resources to keep servers alive",
+    "pname": "never-idle",
+    "version": "0.2.4"
+  },
   "legacyPackages.x86_64-linux.neverball": {
     "description": "Tilt the floor to roll a ball",
     "pname": "neverball",
@@ -234677,12 +234697,12 @@
   "legacyPackages.x86_64-linux.noctalia": {
     "description": "Sleek, customizable desktop shell crafted for Wayland",
     "pname": "noctalia",
-    "version": "5.5.0"
+    "version": "5.6.0"
   },
   "legacyPackages.x86_64-linux.noctalia-greeter": {
     "description": "`greetd` greeter for Noctalia",
     "pname": "noctalia-greeter",
-    "version": "1.7.0"
+    "version": "1.7.1"
   },
   "legacyPackages.x86_64-linux.nocturne": {
     "description": "Adwaita music player for OpenSubsonic servers like Navidrome",
@@ -242627,7 +242647,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.ppx_import": {
     "description": "Syntax extension for importing declarations from interface files",
     "pname": "ocaml5.5.2-ppx_import",
-    "version": "1.12.0"
+    "version": "1.13.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.ppx_inline_test": {
     "description": "Syntax extension for writing in-line tests in ocaml code",
@@ -249802,7 +249822,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages_latest.ppx_import": {
     "description": "Syntax extension for importing declarations from interface files",
     "pname": "ocaml5.5.2-ppx_import",
-    "version": "1.12.0"
+    "version": "1.13.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.ppx_inline_test": {
     "description": "Syntax extension for writing in-line tests in ocaml code",
@@ -255912,7 +255932,7 @@
   "legacyPackages.x86_64-linux.orangefs": {
     "description": "Scale-out network file system for use on high-end computing systems",
     "pname": "orangefs",
-    "version": "2.9.8"
+    "version": "2.10.1"
   },
   "legacyPackages.x86_64-linux.oras": {
     "description": "Distribute artifacts across OCI registries with ease",
@@ -256287,7 +256307,7 @@
   "legacyPackages.x86_64-linux.ossia-score": {
     "description": "Sequencer for audio-visual artists",
     "pname": "ossia-score",
-    "version": "3.8.2"
+    "version": "3.9.0"
   },
   "legacyPackages.x86_64-linux.ossim": {
     "description": "Open Source Software Image Map library",
@@ -259357,7 +259377,7 @@
   "legacyPackages.x86_64-linux.peergos": {
     "description": "P2P, secure file storage, social network and application protocol",
     "pname": "peergos",
-    "version": "1.41.0"
+    "version": "1.43.0"
   },
   "legacyPackages.x86_64-linux.peering-manager": {
     "description": "BGP sessions management tool",
@@ -259382,7 +259402,7 @@
   "legacyPackages.x86_64-linux.pegasus-frontend": {
     "description": "Cross platform, customizable graphical frontend for launching emulators and managing your game collection",
     "pname": "pegasus-frontend",
-    "version": "0-unstable-2026-10-29"
+    "version": "0-unstable-2026-11-11"
   },
   "legacyPackages.x86_64-linux.pegtl": {
     "description": "Parsing Expression Grammar Template Library",
@@ -279207,7 +279227,7 @@
   "legacyPackages.x86_64-linux.pest": {
     "description": "PHP testing framework",
     "pname": "pest",
-    "version": "3.7.4"
+    "version": "3.8.7"
   },
   "legacyPackages.x86_64-linux.pest-ide-tools": {
     "description": "IDE support for Pest, via the LSP",
@@ -280007,7 +280027,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.opentelemetry": {
     "description": "OpenTelemetry PHP auto-instrumentation extension",
     "pname": "php-opentelemetry",
-    "version": "1.4.2"
+    "version": "1.5.0"
   },
   "legacyPackages.x86_64-linux.php83Extensions.parallel": {
     "description": "Parallel concurrency API",
@@ -280647,7 +280667,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.opentelemetry": {
     "description": "OpenTelemetry PHP auto-instrumentation extension",
     "pname": "php-opentelemetry",
-    "version": "1.4.2"
+    "version": "1.5.0"
   },
   "legacyPackages.x86_64-linux.php84Extensions.parallel": {
     "description": "Parallel concurrency API",
@@ -281282,7 +281302,7 @@
   "legacyPackages.x86_64-linux.php85Extensions.opentelemetry": {
     "description": "OpenTelemetry PHP auto-instrumentation extension",
     "pname": "php-opentelemetry",
-    "version": "1.4.2"
+    "version": "1.5.0"
   },
   "legacyPackages.x86_64-linux.php85Extensions.parallel": {
     "description": "Parallel concurrency API",
@@ -281917,7 +281937,7 @@
   "legacyPackages.x86_64-linux.php86Extensions.opentelemetry": {
     "description": "OpenTelemetry PHP auto-instrumentation extension",
     "pname": "php-opentelemetry",
-    "version": "1.4.2"
+    "version": "1.5.0"
   },
   "legacyPackages.x86_64-linux.php86Extensions.parallel": {
     "description": "Parallel concurrency API",
@@ -282547,7 +282567,7 @@
   "legacyPackages.x86_64-linux.phpExtensions.opentelemetry": {
     "description": "OpenTelemetry PHP auto-instrumentation extension",
     "pname": "php-opentelemetry",
-    "version": "1.4.2"
+    "version": "1.5.0"
   },
   "legacyPackages.x86_64-linux.phpExtensions.parallel": {
     "description": "Parallel concurrency API",
@@ -283012,7 +283032,7 @@
   "legacyPackages.x86_64-linux.pi-coding-agent": {
     "description": "Coding agent CLI with read, bash, edit, write tools and session management",
     "pname": "pi-coding-agent",
-    "version": "1.5.2"
+    "version": "1.6.0"
   },
   "legacyPackages.x86_64-linux.piano-rs": {
     "description": "Multiplayer piano using UDP sockets that can be played using computer keyboard, in the terminal",
@@ -283952,7 +283972,7 @@
   "legacyPackages.x86_64-linux.pkl": {
     "description": "Configuration-as-code language with rich validation and tooling",
     "pname": "pkl",
-    "version": "0.32.1"
+    "version": "0.32.2"
   },
   "legacyPackages.x86_64-linux.pkl-lsp": {
     "description": "The Pkl Language Server",
@@ -288137,7 +288157,7 @@
   "legacyPackages.x86_64-linux.prefect": {
     "description": "Workflow orchestration framework for building resilient data pipelines in Python",
     "pname": "prefect",
-    "version": "3.9.3"
+    "version": "3.9.4"
   },
   "legacyPackages.x86_64-linux.prefetch-npm-deps": {
     "description": "Prefetch dependencies from npm (for use with `fetchNpmDeps`)",
@@ -288232,7 +288252,7 @@
   "legacyPackages.x86_64-linux.pretix": {
     "description": "Ticketing software that cares about your event—all the way",
     "pname": "pretix",
-    "version": "2026.9.2"
+    "version": "2026.9.3"
   },
   "legacyPackages.x86_64-linux.pretix-banktool": {
     "description": "Automatic bank data upload tool for pretix (with FinTS client)",
@@ -289482,7 +289502,7 @@
   "legacyPackages.x86_64-linux.protoc-gen-swift": {
     "description": "Protobuf plugin for generating Swift code",
     "pname": "protoc-gen-swift",
-    "version": "1.39.0"
+    "version": "1.41.0"
   },
   "legacyPackages.x86_64-linux.protoc-gen-tonic": {
     "description": "Protoc plugin that generates Tonic gRPC server and client code using the Prost code generation engine",
@@ -289597,17 +289617,17 @@
   "legacyPackages.x86_64-linux.proton-wineland-bin": {
     "description": "Proton distribution with native Wayland support and fixes across Wine, DXVK, VKD3D-Proton and Mesa",
     "pname": "proton-wineland-bin",
-    "version": "11.0-20261117"
+    "version": "11.0-20261119"
   },
   "legacyPackages.x86_64-linux.proton-wineland-v3-bin": {
     "description": "Proton distribution with native Wayland support, built for x86-64-v3 processors",
     "pname": "proton-wineland-v3-bin",
-    "version": "11.0-20261117"
+    "version": "11.0-20261119"
   },
   "legacyPackages.x86_64-linux.proton-wineland-wow64-bin": {
     "description": "Proton distribution with native Wayland support, built with Wine's WoW64 mode",
     "pname": "proton-wineland-wow64-bin",
-    "version": "11.0-20261117"
+    "version": "11.0-20261119"
   },
   "legacyPackages.x86_64-linux.protonmail-bridge": {
     "description": "Use your ProtonMail account with your local e-mail client",
@@ -290582,7 +290602,7 @@
   "legacyPackages.x86_64-linux.pwneye": {
     "description": "Tool for discovering and working with ONVIF and RTSP cameras",
     "pname": "pwneye",
-    "version": "1.3.2"
+    "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.pwninit": {
     "description": "Automate starting binary exploit challenges",
@@ -296227,7 +296247,7 @@
   "legacyPackages.x86_64-linux.python313Packages.azure-mgmt-postgresqlflexibleservers": {
     "description": "Microsoft Azure Postgresqlflexibleservers Management Client Library for Python",
     "pname": "python3.13-azure-mgmt-postgresqlflexibleservers",
-    "version": "3.0.0b1"
+    "version": "3.0.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.azure-mgmt-powerbiembedded": {
     "description": "This is the Microsoft Azure Power BI Embedded Management Client Library",
@@ -296567,7 +296587,7 @@
   "legacyPackages.x86_64-linux.python313Packages.bacpypes3": {
     "description": "BACnet communications library",
     "pname": "python3.13-bacpypes3",
-    "version": "0.0.110"
+    "version": "0.1.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.badauth": {
     "description": "Unified authentication library",
@@ -297737,7 +297757,7 @@
   "legacyPackages.x86_64-linux.python313Packages.boto3-stubs": {
     "description": "Type annotations for boto3",
     "pname": "python3.13-boto3-stubs",
-    "version": "1.44.5"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.botocore": {
     "description": "Low-level interface to a growing number of Amazon Web Services",
@@ -301992,7 +302012,7 @@
   "legacyPackages.x86_64-linux.python313Packages.dfir-ntfs": {
     "description": "NTFS/FAT parser for digital forensics & incident response",
     "pname": "python3.13-dfir-ntfs",
-    "version": "1.1.19"
+    "version": "1.1.20"
   },
   "legacyPackages.x86_64-linux.python313Packages.dftd4": {
     "description": "Generally Applicable Atomic-Charge Dependent London Dispersion Correction",
@@ -304927,7 +304947,7 @@
   "legacyPackages.x86_64-linux.python313Packages.energyid-webhooks": {
     "description": "Light weight Python package to interface with EnergyID Webhooks",
     "pname": "python3.13-energyid-webhooks",
-    "version": "0.0.16"
+    "version": "0.0.17"
   },
   "legacyPackages.x86_64-linux.python313Packages.energyzero": {
     "description": "Module for getting the dynamic prices from EnergyZero",
@@ -307558,11 +307578,6 @@
     "description": "Python module to interact with Garmin Connect",
     "pname": "python3.13-garminconnect-aio",
     "version": "0.1.4"
-  },
-  "legacyPackages.x86_64-linux.python313Packages.garth": {
-    "description": "Garmin SSO auth and connect client",
-    "pname": "python3.13-garth",
-    "version": "0.8.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.gassist-text": {
     "description": "Module for interacting with Google Assistant API via text",
@@ -310497,942 +310512,942 @@
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkaad": {
     "description": "Module of Huawei Cloud Python SDK (aad)",
     "pname": "python3.13-huaweicloudsdkaad",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkagentarts": {
     "description": "Module of Huawei Cloud Python SDK (agentarts)",
     "pname": "python3.13-huaweicloudsdkagentarts",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkagentidentity": {
     "description": "Module of Huawei Cloud Python SDK (agentidentity)",
     "pname": "python3.13-huaweicloudsdkagentidentity",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkantiddos": {
     "description": "Module of Huawei Cloud Python SDK (antiddos)",
     "pname": "python3.13-huaweicloudsdkantiddos",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkaom": {
     "description": "Module of Huawei Cloud Python SDK (aom)",
     "pname": "python3.13-huaweicloudsdkaom",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkaos": {
     "description": "Module of Huawei Cloud Python SDK (aos)",
     "pname": "python3.13-huaweicloudsdkaos",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkapig": {
     "description": "Module of Huawei Cloud Python SDK (apig)",
     "pname": "python3.13-huaweicloudsdkapig",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkapm": {
     "description": "Module of Huawei Cloud Python SDK (apm)",
     "pname": "python3.13-huaweicloudsdkapm",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkas": {
     "description": "Module of Huawei Cloud Python SDK (as)",
     "pname": "python3.13-huaweicloudsdkas",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkasm": {
     "description": "Module of Huawei Cloud Python SDK (asm)",
     "pname": "python3.13-huaweicloudsdkasm",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkastrozero": {
     "description": "Module of Huawei Cloud Python SDK (astrozero)",
     "pname": "python3.13-huaweicloudsdkastrozero",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkbcc": {
     "description": "Module of Huawei Cloud Python SDK (bcc)",
     "pname": "python3.13-huaweicloudsdkbcc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkbcs": {
     "description": "Module of Huawei Cloud Python SDK (bcs)",
     "pname": "python3.13-huaweicloudsdkbcs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkbms": {
     "description": "Module of Huawei Cloud Python SDK (bms)",
     "pname": "python3.13-huaweicloudsdkbms",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkbss": {
     "description": "Module of Huawei Cloud Python SDK (bss)",
     "pname": "python3.13-huaweicloudsdkbss",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkbssintl": {
     "description": "Module of Huawei Cloud Python SDK (bssintl)",
     "pname": "python3.13-huaweicloudsdkbssintl",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcae": {
     "description": "Module of Huawei Cloud Python SDK (cae)",
     "pname": "python3.13-huaweicloudsdkcae",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcampusgo": {
     "description": "Module of Huawei Cloud Python SDK (campusgo)",
     "pname": "python3.13-huaweicloudsdkcampusgo",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcbh": {
     "description": "Module of Huawei Cloud Python SDK (cbh)",
     "pname": "python3.13-huaweicloudsdkcbh",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcbr": {
     "description": "Module of Huawei Cloud Python SDK (cbr)",
     "pname": "python3.13-huaweicloudsdkcbr",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcbs": {
     "description": "Module of Huawei Cloud Python SDK (cbs)",
     "pname": "python3.13-huaweicloudsdkcbs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcc": {
     "description": "Module of Huawei Cloud Python SDK (cc)",
     "pname": "python3.13-huaweicloudsdkcc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcce": {
     "description": "Module of Huawei Cloud Python SDK (cce)",
     "pname": "python3.13-huaweicloudsdkcce",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkccm": {
     "description": "Module of Huawei Cloud Python SDK (ccm)",
     "pname": "python3.13-huaweicloudsdkccm",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcdm": {
     "description": "Module of Huawei Cloud Python SDK (cdm)",
     "pname": "python3.13-huaweicloudsdkcdm",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcdn": {
     "description": "Module of Huawei Cloud Python SDK (cdn)",
     "pname": "python3.13-huaweicloudsdkcdn",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkces": {
     "description": "Module of Huawei Cloud Python SDK (ces)",
     "pname": "python3.13-huaweicloudsdkces",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcfw": {
     "description": "Module of Huawei Cloud Python SDK (cfw)",
     "pname": "python3.13-huaweicloudsdkcfw",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkclassroom": {
     "description": "Module of Huawei Cloud Python SDK (classroom)",
     "pname": "python3.13-huaweicloudsdkclassroom",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkclouddc": {
     "description": "Module of Huawei Cloud Python SDK (clouddc)",
     "pname": "python3.13-huaweicloudsdkclouddc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcloudide": {
     "description": "Module of Huawei Cloud Python SDK (cloudide)",
     "pname": "python3.13-huaweicloudsdkcloudide",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcloudpond": {
     "description": "Module of Huawei Cloud Python SDK (cloudpond)",
     "pname": "python3.13-huaweicloudsdkcloudpond",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcloudrtc": {
     "description": "Module of Huawei Cloud Python SDK (cloudrtc)",
     "pname": "python3.13-huaweicloudsdkcloudrtc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcloudtable": {
     "description": "Module of Huawei Cloud Python SDK (cloudtable)",
     "pname": "python3.13-huaweicloudsdkcloudtable",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcloudtest": {
     "description": "Module of Huawei Cloud Python SDK (cloudtest)",
     "pname": "python3.13-huaweicloudsdkcloudtest",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcoc": {
     "description": "Module of Huawei Cloud Python SDK (coc)",
     "pname": "python3.13-huaweicloudsdkcoc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcodeartsartifact": {
     "description": "Module of Huawei Cloud Python SDK (codeartsartifact)",
     "pname": "python3.13-huaweicloudsdkcodeartsartifact",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcodeartsbuild": {
     "description": "Module of Huawei Cloud Python SDK (codeartsbuild)",
     "pname": "python3.13-huaweicloudsdkcodeartsbuild",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcodeartscheck": {
     "description": "Module of Huawei Cloud Python SDK (codeartscheck)",
     "pname": "python3.13-huaweicloudsdkcodeartscheck",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcodeartsdeploy": {
     "description": "Module of Huawei Cloud Python SDK (codeartsdeploy)",
     "pname": "python3.13-huaweicloudsdkcodeartsdeploy",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcodeartsgovernance": {
     "description": "Module of Huawei Cloud Python SDK (codeartsgovernance)",
     "pname": "python3.13-huaweicloudsdkcodeartsgovernance",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcodeartside": {
     "description": "Module of Huawei Cloud Python SDK (codeartside)",
     "pname": "python3.13-huaweicloudsdkcodeartside",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcodeartsinspector": {
     "description": "Module of Huawei Cloud Python SDK (codeartsinspector)",
     "pname": "python3.13-huaweicloudsdkcodeartsinspector",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcodeartspipeline": {
     "description": "Module of Huawei Cloud Python SDK (codeartspipeline)",
     "pname": "python3.13-huaweicloudsdkcodeartspipeline",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcodeartsrepo": {
     "description": "Module of Huawei Cloud Python SDK (codeartsrepo)",
     "pname": "python3.13-huaweicloudsdkcodeartsrepo",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcodecraft": {
     "description": "Module of Huawei Cloud Python SDK (codecraft)",
     "pname": "python3.13-huaweicloudsdkcodecraft",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkconfig": {
     "description": "Module of Huawei Cloud Python SDK (config)",
     "pname": "python3.13-huaweicloudsdkconfig",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcore": {
     "description": "Core module of Huawei Cloud Python SDK",
     "pname": "python3.13-huaweicloudsdkcore",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcpcs": {
     "description": "Module of Huawei Cloud Python SDK (cpcs)",
     "pname": "python3.13-huaweicloudsdkcpcs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcph": {
     "description": "Module of Huawei Cloud Python SDK (cph)",
     "pname": "python3.13-huaweicloudsdkcph",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcpts": {
     "description": "Module of Huawei Cloud Python SDK (cpts)",
     "pname": "python3.13-huaweicloudsdkcpts",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcse": {
     "description": "Module of Huawei Cloud Python SDK (cse)",
     "pname": "python3.13-huaweicloudsdkcse",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcsms": {
     "description": "Module of Huawei Cloud Python SDK (csms)",
     "pname": "python3.13-huaweicloudsdkcsms",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcss": {
     "description": "Module of Huawei Cloud Python SDK (css)",
     "pname": "python3.13-huaweicloudsdkcss",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkcts": {
     "description": "Module of Huawei Cloud Python SDK (cts)",
     "pname": "python3.13-huaweicloudsdkcts",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdas": {
     "description": "Module of Huawei Cloud Python SDK (das)",
     "pname": "python3.13-huaweicloudsdkdas",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdataartsfabric": {
     "description": "Module of Huawei Cloud Python SDK (dataartsfabric)",
     "pname": "python3.13-huaweicloudsdkdataartsfabric",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdataartsfabricep": {
     "description": "Module of Huawei Cloud Python SDK (dataartsfabricep)",
     "pname": "python3.13-huaweicloudsdkdataartsfabricep",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdataartsstudio": {
     "description": "Module of Huawei Cloud Python SDK (dataartsstudio)",
     "pname": "python3.13-huaweicloudsdkdataartsstudio",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdbss": {
     "description": "Module of Huawei Cloud Python SDK (dbss)",
     "pname": "python3.13-huaweicloudsdkdbss",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdc": {
     "description": "Module of Huawei Cloud Python SDK (dc)",
     "pname": "python3.13-huaweicloudsdkdc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdcc": {
     "description": "Module of Huawei Cloud Python SDK (dcc)",
     "pname": "python3.13-huaweicloudsdkdcc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdcos": {
     "description": "Module of Huawei Cloud Python SDK (dcos)",
     "pname": "python3.13-huaweicloudsdkdcos",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdcs": {
     "description": "Module of Huawei Cloud Python SDK (dcs)",
     "pname": "python3.13-huaweicloudsdkdcs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkddm": {
     "description": "Module of Huawei Cloud Python SDK (ddm)",
     "pname": "python3.13-huaweicloudsdkddm",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdds": {
     "description": "Module of Huawei Cloud Python SDK (dds)",
     "pname": "python3.13-huaweicloudsdkdds",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdeh": {
     "description": "Module of Huawei Cloud Python SDK (deh)",
     "pname": "python3.13-huaweicloudsdkdeh",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdevstar": {
     "description": "Module of Huawei Cloud Python SDK (devstar)",
     "pname": "python3.13-huaweicloudsdkdevstar",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdgc": {
     "description": "Module of Huawei Cloud Python SDK (dgc)",
     "pname": "python3.13-huaweicloudsdkdgc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdis": {
     "description": "Module of Huawei Cloud Python SDK (dis)",
     "pname": "python3.13-huaweicloudsdkdis",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdlf": {
     "description": "Module of Huawei Cloud Python SDK (dlf)",
     "pname": "python3.13-huaweicloudsdkdlf",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdli": {
     "description": "Module of Huawei Cloud Python SDK (dli)",
     "pname": "python3.13-huaweicloudsdkdli",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdns": {
     "description": "Module of Huawei Cloud Python SDK (dns)",
     "pname": "python3.13-huaweicloudsdkdns",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdris": {
     "description": "Module of Huawei Cloud Python SDK (dris)",
     "pname": "python3.13-huaweicloudsdkdris",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdrs": {
     "description": "Module of Huawei Cloud Python SDK (drs)",
     "pname": "python3.13-huaweicloudsdkdrs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdsc": {
     "description": "Module of Huawei Cloud Python SDK (dsc)",
     "pname": "python3.13-huaweicloudsdkdsc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdwr": {
     "description": "Module of Huawei Cloud Python SDK (dwr)",
     "pname": "python3.13-huaweicloudsdkdwr",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkdws": {
     "description": "Module of Huawei Cloud Python SDK (dws)",
     "pname": "python3.13-huaweicloudsdkdws",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkec": {
     "description": "Module of Huawei Cloud Python SDK (ec)",
     "pname": "python3.13-huaweicloudsdkec",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkecs": {
     "description": "Module of Huawei Cloud Python SDK (ecs)",
     "pname": "python3.13-huaweicloudsdkecs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkedgesec": {
     "description": "Module of Huawei Cloud Python SDK (edgesec)",
     "pname": "python3.13-huaweicloudsdkedgesec",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkeg": {
     "description": "Module of Huawei Cloud Python SDK (eg)",
     "pname": "python3.13-huaweicloudsdkeg",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkeihealth": {
     "description": "Module of Huawei Cloud Python SDK (eihealth)",
     "pname": "python3.13-huaweicloudsdkeihealth",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkeip": {
     "description": "Module of Huawei Cloud Python SDK (eip)",
     "pname": "python3.13-huaweicloudsdkeip",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkelb": {
     "description": "Module of Huawei Cloud Python SDK (elb)",
     "pname": "python3.13-huaweicloudsdkelb",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkeps": {
     "description": "Module of Huawei Cloud Python SDK (eps)",
     "pname": "python3.13-huaweicloudsdkeps",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdker": {
     "description": "Module of Huawei Cloud Python SDK (er)",
     "pname": "python3.13-huaweicloudsdker",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkesw": {
     "description": "Module of Huawei Cloud Python SDK (esw)",
     "pname": "python3.13-huaweicloudsdkesw",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkevs": {
     "description": "Module of Huawei Cloud Python SDK (evs)",
     "pname": "python3.13-huaweicloudsdkevs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkfrs": {
     "description": "Module of Huawei Cloud Python SDK (frs)",
     "pname": "python3.13-huaweicloudsdkfrs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkfunctiongraph": {
     "description": "Module of Huawei Cloud Python SDK (functiongraph)",
     "pname": "python3.13-huaweicloudsdkfunctiongraph",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkga": {
     "description": "Module of Huawei Cloud Python SDK (ga)",
     "pname": "python3.13-huaweicloudsdkga",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkgaussdb": {
     "description": "Module of Huawei Cloud Python SDK (gaussdb)",
     "pname": "python3.13-huaweicloudsdkgaussdb",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkgaussdbfornosql": {
     "description": "Module of Huawei Cloud Python SDK (gaussdbfornosql)",
     "pname": "python3.13-huaweicloudsdkgaussdbfornosql",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkgaussdbforopengauss": {
     "description": "Module of Huawei Cloud Python SDK (gaussdbforopengauss)",
     "pname": "python3.13-huaweicloudsdkgaussdbforopengauss",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkgeip": {
     "description": "Module of Huawei Cloud Python SDK (geip)",
     "pname": "python3.13-huaweicloudsdkgeip",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkges": {
     "description": "Module of Huawei Cloud Python SDK (ges)",
     "pname": "python3.13-huaweicloudsdkges",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkgsl": {
     "description": "Module of Huawei Cloud Python SDK (gsl)",
     "pname": "python3.13-huaweicloudsdkgsl",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkhilens": {
     "description": "Module of Huawei Cloud Python SDK (hilens)",
     "pname": "python3.13-huaweicloudsdkhilens",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkhss": {
     "description": "Module of Huawei Cloud Python SDK (hss)",
     "pname": "python3.13-huaweicloudsdkhss",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkiam": {
     "description": "Module of Huawei Cloud Python SDK (iam)",
     "pname": "python3.13-huaweicloudsdkiam",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkiamaccessanalyzer": {
     "description": "Module of Huawei Cloud Python SDK (iamaccessanalyzer)",
     "pname": "python3.13-huaweicloudsdkiamaccessanalyzer",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkidentitycenter": {
     "description": "Module of Huawei Cloud Python SDK (identitycenter)",
     "pname": "python3.13-huaweicloudsdkidentitycenter",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkidentitycenteroidc": {
     "description": "Module of Huawei Cloud Python SDK (identitycenteroidc)",
     "pname": "python3.13-huaweicloudsdkidentitycenteroidc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkidentitycenterportalapi": {
     "description": "Module of Huawei Cloud Python SDK (identitycenterportalapi)",
     "pname": "python3.13-huaweicloudsdkidentitycenterportalapi",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkidentitycenterscim": {
     "description": "Module of Huawei Cloud Python SDK (identitycenterscim)",
     "pname": "python3.13-huaweicloudsdkidentitycenterscim",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkidentitycenterstore": {
     "description": "Module of Huawei Cloud Python SDK (identitycenterstore)",
     "pname": "python3.13-huaweicloudsdkidentitycenterstore",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkidme": {
     "description": "Module of Huawei Cloud Python SDK (idme)",
     "pname": "python3.13-huaweicloudsdkidme",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkidmeclassicapi": {
     "description": "Module of Huawei Cloud Python SDK (idmeclassicapi)",
     "pname": "python3.13-huaweicloudsdkidmeclassicapi",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkiec": {
     "description": "Module of Huawei Cloud Python SDK (iec)",
     "pname": "python3.13-huaweicloudsdkiec",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkief": {
     "description": "Module of Huawei Cloud Python SDK (ief)",
     "pname": "python3.13-huaweicloudsdkief",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkimage": {
     "description": "Module of Huawei Cloud Python SDK (image)",
     "pname": "python3.13-huaweicloudsdkimage",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkimagesearch": {
     "description": "Module of Huawei Cloud Python SDK (imagesearch)",
     "pname": "python3.13-huaweicloudsdkimagesearch",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkims": {
     "description": "Module of Huawei Cloud Python SDK (ims)",
     "pname": "python3.13-huaweicloudsdkims",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkiotanalytics": {
     "description": "Module of Huawei Cloud Python SDK (iotanalytics)",
     "pname": "python3.13-huaweicloudsdkiotanalytics",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkiotda": {
     "description": "Module of Huawei Cloud Python SDK (iotda)",
     "pname": "python3.13-huaweicloudsdkiotda",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkiotdm": {
     "description": "Module of Huawei Cloud Python SDK (iotdm)",
     "pname": "python3.13-huaweicloudsdkiotdm",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkiotedge": {
     "description": "Module of Huawei Cloud Python SDK (iotedge)",
     "pname": "python3.13-huaweicloudsdkiotedge",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkivs": {
     "description": "Module of Huawei Cloud Python SDK (ivs)",
     "pname": "python3.13-huaweicloudsdkivs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkkafka": {
     "description": "Module of Huawei Cloud Python SDK (kafka)",
     "pname": "python3.13-huaweicloudsdkkafka",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkkms": {
     "description": "Module of Huawei Cloud Python SDK (kms)",
     "pname": "python3.13-huaweicloudsdkkms",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkkoomessage": {
     "description": "Module of Huawei Cloud Python SDK (koomessage)",
     "pname": "python3.13-huaweicloudsdkkoomessage",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkkps": {
     "description": "Module of Huawei Cloud Python SDK (kps)",
     "pname": "python3.13-huaweicloudsdkkps",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkkvs": {
     "description": "Module of Huawei Cloud Python SDK (kvs)",
     "pname": "python3.13-huaweicloudsdkkvs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdklakeformation": {
     "description": "Module of Huawei Cloud Python SDK (lakeformation)",
     "pname": "python3.13-huaweicloudsdklakeformation",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdklive": {
     "description": "Module of Huawei Cloud Python SDK (live)",
     "pname": "python3.13-huaweicloudsdklive",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdklts": {
     "description": "Module of Huawei Cloud Python SDK (lts)",
     "pname": "python3.13-huaweicloudsdklts",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkmapds": {
     "description": "Module of Huawei Cloud Python SDK (mapds)",
     "pname": "python3.13-huaweicloudsdkmapds",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkmas": {
     "description": "Module of Huawei Cloud Python SDK (mas)",
     "pname": "python3.13-huaweicloudsdkmas",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkmastudio": {
     "description": "Module of Huawei Cloud Python SDK (mastudio)",
     "pname": "python3.13-huaweicloudsdkmastudio",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkmeeting": {
     "description": "Module of Huawei Cloud Python SDK (meeting)",
     "pname": "python3.13-huaweicloudsdkmeeting",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkmetastudio": {
     "description": "Module of Huawei Cloud Python SDK (metastudio)",
     "pname": "python3.13-huaweicloudsdkmetastudio",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkmodelarts": {
     "description": "Module of Huawei Cloud Python SDK (modelarts)",
     "pname": "python3.13-huaweicloudsdkmodelarts",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkmoderation": {
     "description": "Module of Huawei Cloud Python SDK (moderation)",
     "pname": "python3.13-huaweicloudsdkmoderation",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkmpc": {
     "description": "Module of Huawei Cloud Python SDK (mpc)",
     "pname": "python3.13-huaweicloudsdkmpc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkmrs": {
     "description": "Module of Huawei Cloud Python SDK (mrs)",
     "pname": "python3.13-huaweicloudsdkmrs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkmsgsms": {
     "description": "Module of Huawei Cloud Python SDK (msgsms)",
     "pname": "python3.13-huaweicloudsdkmsgsms",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkmssi": {
     "description": "Module of Huawei Cloud Python SDK (mssi)",
     "pname": "python3.13-huaweicloudsdkmssi",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdknat": {
     "description": "Module of Huawei Cloud Python SDK (nat)",
     "pname": "python3.13-huaweicloudsdknat",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdknlp": {
     "description": "Module of Huawei Cloud Python SDK (nlp)",
     "pname": "python3.13-huaweicloudsdknlp",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkobs": {
     "description": "Module of Huawei Cloud Python SDK (obs)",
     "pname": "python3.13-huaweicloudsdkobs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkocr": {
     "description": "Module of Huawei Cloud Python SDK (ocr)",
     "pname": "python3.13-huaweicloudsdkocr",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkoctopus": {
     "description": "Module of Huawei Cloud Python SDK (octopus)",
     "pname": "python3.13-huaweicloudsdkoctopus",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkoms": {
     "description": "Module of Huawei Cloud Python SDK (oms)",
     "pname": "python3.13-huaweicloudsdkoms",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkoptverse": {
     "description": "Module of Huawei Cloud Python SDK (optverse)",
     "pname": "python3.13-huaweicloudsdkoptverse",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkorganizations": {
     "description": "Module of Huawei Cloud Python SDK (organizations)",
     "pname": "python3.13-huaweicloudsdkorganizations",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkorgid": {
     "description": "Module of Huawei Cloud Python SDK (orgid)",
     "pname": "python3.13-huaweicloudsdkorgid",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkoroas": {
     "description": "Module of Huawei Cloud Python SDK (oroas)",
     "pname": "python3.13-huaweicloudsdkoroas",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkosm": {
     "description": "Module of Huawei Cloud Python SDK (osm)",
     "pname": "python3.13-huaweicloudsdkosm",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkpangulargemodels": {
     "description": "Module of Huawei Cloud Python SDK (pangulargemodels)",
     "pname": "python3.13-huaweicloudsdkpangulargemodels",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkprojectman": {
     "description": "Module of Huawei Cloud Python SDK (projectman)",
     "pname": "python3.13-huaweicloudsdkprojectman",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkrabbitmq": {
     "description": "Module of Huawei Cloud Python SDK (rabbitmq)",
     "pname": "python3.13-huaweicloudsdkrabbitmq",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkram": {
     "description": "Module of Huawei Cloud Python SDK (ram)",
     "pname": "python3.13-huaweicloudsdkram",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkrc": {
     "description": "Module of Huawei Cloud Python SDK (rc)",
     "pname": "python3.13-huaweicloudsdkrc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkrds": {
     "description": "Module of Huawei Cloud Python SDK (rds)",
     "pname": "python3.13-huaweicloudsdkrds",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkres": {
     "description": "Module of Huawei Cloud Python SDK (res)",
     "pname": "python3.13-huaweicloudsdkres",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkrfs": {
     "description": "Module of Huawei Cloud Python SDK (rfs)",
     "pname": "python3.13-huaweicloudsdkrfs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkrgc": {
     "description": "Module of Huawei Cloud Python SDK (rgc)",
     "pname": "python3.13-huaweicloudsdkrgc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkrms": {
     "description": "Module of Huawei Cloud Python SDK (rms)",
     "pname": "python3.13-huaweicloudsdkrms",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkrocketmq": {
     "description": "Module of Huawei Cloud Python SDK (rocketmq)",
     "pname": "python3.13-huaweicloudsdkrocketmq",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkroma": {
     "description": "Module of Huawei Cloud Python SDK (roma)",
     "pname": "python3.13-huaweicloudsdkroma",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdksa": {
     "description": "Module of Huawei Cloud Python SDK (sa)",
     "pname": "python3.13-huaweicloudsdksa",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkscm": {
     "description": "Module of Huawei Cloud Python SDK (scm)",
     "pname": "python3.13-huaweicloudsdkscm",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdksdrs": {
     "description": "Module of Huawei Cloud Python SDK (sdrs)",
     "pname": "python3.13-huaweicloudsdksdrs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdksecmaster": {
     "description": "Module of Huawei Cloud Python SDK (secmaster)",
     "pname": "python3.13-huaweicloudsdksecmaster",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkservicestage": {
     "description": "Module of Huawei Cloud Python SDK (servicestage)",
     "pname": "python3.13-huaweicloudsdkservicestage",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdksfsturbo": {
     "description": "Module of Huawei Cloud Python SDK (sfsturbo)",
     "pname": "python3.13-huaweicloudsdksfsturbo",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdksis": {
     "description": "Module of Huawei Cloud Python SDK (sis)",
     "pname": "python3.13-huaweicloudsdksis",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdksmn": {
     "description": "Module of Huawei Cloud Python SDK (smn)",
     "pname": "python3.13-huaweicloudsdksmn",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdksmnglobal": {
     "description": "Module of Huawei Cloud Python SDK (smnglobal)",
     "pname": "python3.13-huaweicloudsdksmnglobal",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdksms": {
     "description": "Module of Huawei Cloud Python SDK (sms)",
     "pname": "python3.13-huaweicloudsdksms",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdksmsapi": {
     "description": "Module of Huawei Cloud Python SDK (smsapi)",
     "pname": "python3.13-huaweicloudsdksmsapi",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdksts": {
     "description": "Module of Huawei Cloud Python SDK (sts)",
     "pname": "python3.13-huaweicloudsdksts",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkswr": {
     "description": "Module of Huawei Cloud Python SDK (swr)",
     "pname": "python3.13-huaweicloudsdkswr",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdktics": {
     "description": "Module of Huawei Cloud Python SDK (tics)",
     "pname": "python3.13-huaweicloudsdktics",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdktms": {
     "description": "Module of Huawei Cloud Python SDK (tms)",
     "pname": "python3.13-huaweicloudsdktms",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkucs": {
     "description": "Module of Huawei Cloud Python SDK (ucs)",
     "pname": "python3.13-huaweicloudsdkucs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkugo": {
     "description": "Module of Huawei Cloud Python SDK (ugo)",
     "pname": "python3.13-huaweicloudsdkugo",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkvas": {
     "description": "Module of Huawei Cloud Python SDK (vas)",
     "pname": "python3.13-huaweicloudsdkvas",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkvcm": {
     "description": "Module of Huawei Cloud Python SDK (vcm)",
     "pname": "python3.13-huaweicloudsdkvcm",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkversatile": {
     "description": "Module of Huawei Cloud Python SDK (versatile)",
     "pname": "python3.13-huaweicloudsdkversatile",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkvod": {
     "description": "Module of Huawei Cloud Python SDK (vod)",
     "pname": "python3.13-huaweicloudsdkvod",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkvpc": {
     "description": "Module of Huawei Cloud Python SDK (vpc)",
     "pname": "python3.13-huaweicloudsdkvpc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkvpcep": {
     "description": "Module of Huawei Cloud Python SDK (vpcep)",
     "pname": "python3.13-huaweicloudsdkvpcep",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkvpn": {
     "description": "Module of Huawei Cloud Python SDK (vpn)",
     "pname": "python3.13-huaweicloudsdkvpn",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkwaf": {
     "description": "Module of Huawei Cloud Python SDK (waf)",
     "pname": "python3.13-huaweicloudsdkwaf",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkworkspace": {
     "description": "Module of Huawei Cloud Python SDK (workspace)",
     "pname": "python3.13-huaweicloudsdkworkspace",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.huaweicloudsdkworkspaceapp": {
     "description": "Module of Huawei Cloud Python SDK (workspaceapp)",
     "pname": "python3.13-huaweicloudsdkworkspaceapp",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python313Packages.hueble": {
     "description": "Python module for controlling Bluetooth Philips Hue lights",
@@ -311682,7 +311697,7 @@
   "legacyPackages.x86_64-linux.python313Packages.iamdata": {
     "description": "Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys",
     "pname": "python3.13-iamdata",
-    "version": "0.1.202611181"
+    "version": "0.1.202611201"
   },
   "legacyPackages.x86_64-linux.python313Packages.iammeter": {
     "description": "Module to work with the IamMeter API",
@@ -314442,22 +314457,22 @@
   "legacyPackages.x86_64-linux.python313Packages.langchain": {
     "description": "Building applications with LLMs through composability",
     "pname": "python3.13-langchain",
-    "version": "1.4.2"
+    "version": "1.5.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-anthropic": {
     "description": "Build LangChain applications with Anthropic",
     "pname": "python3.13-langchain-anthropic",
-    "version": "1.7.2"
+    "version": "1.7.10"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-aws": {
     "description": "Build LangChain application on AWS",
     "pname": "python3.13-langchain-aws",
-    "version": "1.7.8"
+    "version": "1.9.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-azure-dynamic-sessions": {
     "description": "Integration package connecting Azure Container Apps dynamic sessions and LangChain",
     "pname": "python3.13-langchain-azure-dynamic-sessions",
-    "version": "0.2.0"
+    "version": "1.0.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-chroma": {
     "description": "Integration package connecting Chroma and LangChain",
@@ -314477,27 +314492,27 @@
   "legacyPackages.x86_64-linux.python313Packages.langchain-core": {
     "description": "Building applications with LLMs through composability",
     "pname": "python3.13-langchain-core",
-    "version": "1.6.10"
+    "version": "1.8.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-deepseek": {
     "description": "Integration package connecting DeepSeek and LangChain",
     "pname": "python3.13-langchain-deepseek",
-    "version": "1.1.1"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-fireworks": {
     "description": "Build LangChain applications with Fireworks",
     "pname": "python3.13-langchain-fireworks",
-    "version": "1.6.1"
+    "version": "1.7.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-google-genai": {
     "description": "LangChain integrations for Google Gemini",
     "pname": "python3.13-langchain-google-genai",
-    "version": "4.3.4"
+    "version": "4.5.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-groq": {
     "description": "Integration package connecting Groq and LangChain",
     "pname": "python3.13-langchain-groq",
-    "version": "1.1.3"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-huggingface": {
     "description": "Integration package connecting Huggingface related classes and LangChain",
@@ -314507,7 +314522,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langchain-mistralai": {
     "description": "Build LangChain applications with mistralai",
     "pname": "python3.13-langchain-mistralai",
-    "version": "1.1.6"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-mongodb": {
     "description": "Integration package connecting MongoDB and LangChain",
@@ -314522,7 +314537,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langchain-openai": {
     "description": "Integration package connecting OpenAI and LangChain",
     "pname": "python3.13-langchain-openai",
-    "version": "1.6.2"
+    "version": "1.8.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-perplexity": {
     "description": "Build LangChain applications with Perplexity",
@@ -314552,7 +314567,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langchain-xai": {
     "description": "Build LangChain applications with X AI",
     "pname": "python3.13-langchain-xai",
-    "version": "1.3.0"
+    "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.langcodes": {
     "description": "Python toolkit for working with and comparing the standardized codes for languages",
@@ -314572,7 +314587,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langgraph": {
     "description": "Build resilient language agents as graphs",
     "pname": "python3.13-langgraph",
-    "version": "1.2.11"
+    "version": "1.2.22"
   },
   "legacyPackages.x86_64-linux.python313Packages.langgraph-checkpoint": {
     "description": "Library with base interfaces for LangGraph checkpoint savers",
@@ -314587,12 +314602,12 @@
   "legacyPackages.x86_64-linux.python313Packages.langgraph-checkpoint-postgres": {
     "description": "Library with a Postgres implementation of LangGraph checkpoint saver",
     "pname": "python3.13-langgraph-checkpoint-postgres",
-    "version": "3.1.2"
+    "version": "3.2.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.langgraph-checkpoint-sqlite": {
     "description": "Library with a SQLite implementation of LangGraph checkpoint saver",
     "pname": "python3.13-langgraph-checkpoint-sqlite",
-    "version": "3.1.1"
+    "version": "3.1.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.langgraph-cli": {
     "description": "Official CLI for LangGraph API",
@@ -314602,7 +314617,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langgraph-prebuilt": {
     "description": "Prebuilt agents add-on for Langgraph. Should always be bundled with langgraph",
     "pname": "python3.13-langgraph-prebuilt",
-    "version": "1.1.1"
+    "version": "1.1.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.langgraph-runtime-inmem": {
     "description": "Inmem implementation for the LangGraph API server",
@@ -314627,7 +314642,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langsmith": {
     "description": "Client library to connect to the LangSmith LLM Tracing and Evaluation Platform",
     "pname": "python3.13-langsmith",
-    "version": "0.14.17"
+    "version": "0.15.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.language-data": {
     "description": "Supplement module for langcodes",
@@ -314987,7 +315002,7 @@
   "legacyPackages.x86_64-linux.python313Packages.lib50": {
     "description": "CS50's own internal library used in many of its tools",
     "pname": "python3.13-lib50",
-    "version": "3.2.2"
+    "version": "3.2.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.libagent": {
     "description": "Using hardware wallets as SSH/GPG agent",
@@ -317612,7 +317627,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mflux": {
     "description": "MLX native implementations of state-of-the-art generative image models",
     "pname": "python3.13-mflux",
-    "version": "0.15.4"
+    "version": "0.24.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.mfusepy": {
     "description": "Ctypes bindings for the high-level API in libfuse 2 and 3",
@@ -319202,7 +319217,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-acm": {
     "description": "Type annotations for boto3 acm",
     "pname": "python3.13-mypy-boto3-acm",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-acm-pca": {
     "description": "Type annotations for boto3 acm-pca",
@@ -319297,7 +319312,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-appstream": {
     "description": "Type annotations for boto3 appstream",
     "pname": "python3.13-mypy-boto3-appstream",
-    "version": "1.44.5"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-appsync": {
     "description": "Type annotations for boto3 appsync",
@@ -319352,7 +319367,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-braket": {
     "description": "Type annotations for boto3 braket",
     "pname": "python3.13-mypy-boto3-braket",
-    "version": "1.44.0"
+    "version": "1.44.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-budgets": {
     "description": "Type annotations for boto3 budgets",
@@ -319367,7 +319382,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-ce": {
     "description": "Type annotations for boto3 ce",
     "pname": "python3.13-mypy-boto3-ce",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-chime": {
     "description": "Type annotations for boto3 chime",
@@ -319402,7 +319417,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-cleanrooms": {
     "description": "Type annotations for boto3 cleanrooms",
     "pname": "python3.13-mypy-boto3-cleanrooms",
-    "version": "1.44.2"
+    "version": "1.44.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-cloud9": {
     "description": "Type annotations for boto3 cloud9",
@@ -319422,12 +319437,12 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-cloudformation": {
     "description": "Type annotations for boto3 cloudformation",
     "pname": "python3.13-mypy-boto3-cloudformation",
-    "version": "1.44.3"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-cloudfront": {
     "description": "Type annotations for boto3 cloudfront",
     "pname": "python3.13-mypy-boto3-cloudfront",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-cloudhsm": {
     "description": "Type annotations for boto3 cloudhsm",
@@ -319532,7 +319547,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-cognito-idp": {
     "description": "Type annotations for boto3 cognito-idp",
     "pname": "python3.13-mypy-boto3-cognito-idp",
-    "version": "1.44.4"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-cognito-sync": {
     "description": "Type annotations for boto3 cognito-sync",
@@ -319562,7 +319577,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-connect": {
     "description": "Type annotations for boto3 connect",
     "pname": "python3.13-mypy-boto3-connect",
-    "version": "1.44.5"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-connect-contact-lens": {
     "description": "Type annotations for boto3 connect-contact-lens",
@@ -319577,7 +319592,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-connectcases": {
     "description": "Type annotations for boto3 connectcases",
     "pname": "python3.13-mypy-boto3-connectcases",
-    "version": "1.44.5"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-connectparticipant": {
     "description": "Type annotations for boto3 connectparticipant",
@@ -319757,7 +319772,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-elbv2": {
     "description": "Type annotations for boto3 elbv2",
     "pname": "python3.13-mypy-boto3-elbv2",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-emr": {
     "description": "Type annotations for boto3 emr",
@@ -319887,7 +319902,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-health": {
     "description": "Type annotations for boto3 health",
     "pname": "python3.13-mypy-boto3-health",
-    "version": "1.44.4"
+    "version": "1.44.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-healthlake": {
     "description": "Type annotations for boto3 healthlake",
@@ -319897,7 +319912,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-iam": {
     "description": "Type annotations for boto3 iam",
     "pname": "python3.13-mypy-boto3-iam",
-    "version": "1.44.3"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-identitystore": {
     "description": "Type annotations for boto3 identitystore",
@@ -319922,7 +319937,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-inspector2": {
     "description": "Type annotations for boto3 inspector2",
     "pname": "python3.13-mypy-boto3-inspector2",
-    "version": "1.44.5"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-internetmonitor": {
     "description": "Type annotations for boto3 internetmonitor",
@@ -320027,7 +320042,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-kafka": {
     "description": "Type annotations for boto3 kafka",
     "pname": "python3.13-mypy-boto3-kafka",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-kafkaconnect": {
     "description": "Type annotations for boto3 kafkaconnect",
@@ -320097,12 +320112,12 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-lakeformation": {
     "description": "Type annotations for boto3 lakeformation",
     "pname": "python3.13-mypy-boto3-lakeformation",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-lambda": {
     "description": "Type annotations for boto3 lambda",
     "pname": "python3.13-mypy-boto3-lambda",
-    "version": "1.44.5"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-lex-models": {
     "description": "Type annotations for boto3 lex-models",
@@ -320197,7 +320212,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-marketplace-catalog": {
     "description": "Type annotations for boto3 marketplace-catalog",
     "pname": "python3.13-mypy-boto3-marketplace-catalog",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-marketplace-entitlement": {
     "description": "Type annotations for boto3 marketplace-entitlement",
@@ -320222,7 +320237,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-medialive": {
     "description": "Type annotations for boto3 medialive",
     "pname": "python3.13-mypy-boto3-medialive",
-    "version": "1.44.2"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-mediapackage": {
     "description": "Type annotations for boto3 mediapackage",
@@ -320317,7 +320332,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-neptune": {
     "description": "Type annotations for boto3 neptune",
     "pname": "python3.13-mypy-boto3-neptune",
-    "version": "1.44.0"
+    "version": "1.44.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-neptunedata": {
     "description": "Type annotations for boto3 neptunedata",
@@ -320452,7 +320467,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-polly": {
     "description": "Type annotations for boto3 polly",
     "pname": "python3.13-mypy-boto3-polly",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-pricing": {
     "description": "Type annotations for boto3 pricing",
@@ -320497,7 +320512,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-rds": {
     "description": "Type annotations for boto3 rds",
     "pname": "python3.13-mypy-boto3-rds",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-rds-data": {
     "description": "Type annotations for boto3 rds-data",
@@ -320552,12 +320567,12 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-rolesanywhere": {
     "description": "Type annotations for boto3 rolesanywhere",
     "pname": "python3.13-mypy-boto3-rolesanywhere",
-    "version": "1.44.3"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-route53": {
     "description": "Type annotations for boto3 route53",
     "pname": "python3.13-mypy-boto3-route53",
-    "version": "1.44.2"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-route53-recovery-cluster": {
     "description": "Type annotations for boto3 route53-recovery-cluster",
@@ -320582,7 +320597,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-route53resolver": {
     "description": "Type annotations for boto3 route53resolver",
     "pname": "python3.13-mypy-boto3-route53resolver",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-rum": {
     "description": "Type annotations for boto3 rum",
@@ -320592,7 +320607,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-s3": {
     "description": "Type annotations for boto3 s3",
     "pname": "python3.13-mypy-boto3-s3",
-    "version": "1.44.5"
+    "version": "1.44.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-s3control": {
     "description": "Type annotations for boto3 s3control",
@@ -320707,7 +320722,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-sesv2": {
     "description": "Type annotations for boto3 sesv2",
     "pname": "python3.13-mypy-boto3-sesv2",
-    "version": "1.44.0"
+    "version": "1.44.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-shield": {
     "description": "Type annotations for boto3 shield",
@@ -320802,12 +320817,12 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-sts": {
     "description": "Type annotations for boto3 sts",
     "pname": "python3.13-mypy-boto3-sts",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-support": {
     "description": "Type annotations for boto3 support",
     "pname": "python3.13-mypy-boto3-support",
-    "version": "1.44.0"
+    "version": "1.44.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-support-app": {
     "description": "Type annotations for boto3 support-app",
@@ -320887,7 +320902,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-wafv2": {
     "description": "Type annotations for boto3 wafv2",
     "pname": "python3.13-mypy-boto3-wafv2",
-    "version": "1.44.0"
+    "version": "1.44.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-wellarchitected": {
     "description": "Type annotations for boto3 wellarchitected",
@@ -325967,7 +325982,7 @@
   "legacyPackages.x86_64-linux.python313Packages.prefect": {
     "description": "Workflow orchestration framework for building resilient data pipelines in Python",
     "pname": "python3.13-prefect",
-    "version": "3.9.3"
+    "version": "3.9.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.prefixed": {
     "description": "Prefixed alternative numeric library",
@@ -326462,7 +326477,7 @@
   "legacyPackages.x86_64-linux.python313Packages.publicsuffixlist": {
     "description": "Public Suffix List parser implementation",
     "pname": "python3.13-publicsuffixlist",
-    "version": "1.1.2.20261115"
+    "version": "1.1.2.20261120"
   },
   "legacyPackages.x86_64-linux.python313Packages.pubnub": {
     "description": "Python-based APIs for PubNub",
@@ -328514,6 +328529,11 @@
     "pname": "python3.13-pyflic",
     "version": "2.0.4"
   },
+  "legacyPackages.x86_64-linux.python313Packages.pyflic-ble": {
+    "description": "Python library for Flic smart button BLE communication",
+    "pname": "python3.13-pyflic-ble",
+    "version": "0.2.6"
+  },
   "legacyPackages.x86_64-linux.python313Packages.pyflipper": {
     "description": "Flipper Zero Python CLI Wrapper",
     "pname": "python3.13-pyflipper",
@@ -329317,7 +329337,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pylacus": {
     "description": "Module to enqueue and query a remote Lacus instance",
     "pname": "python3.13-pylacus",
-    "version": "1.28.0"
+    "version": "1.28.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.pylama": {
     "description": "Code audit tool for python",
@@ -331247,7 +331267,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyscf": {
     "description": "Python-based simulations of chemistry framework",
     "pname": "python3.13-pyscf",
-    "version": "2.14.0"
+    "version": "2.15.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyschedule": {
     "description": "Formulate and solve resource-constrained scheduling problems",
@@ -331947,7 +331967,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pytango": {
     "description": "Python bindings for the cppTango library, part of the Tango Distributed Control System toolkit",
     "pname": "python3.13-pytango",
-    "version": "10.3.1"
+    "version": "10.3.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.pytankerkoenig": {
     "description": "Python module to get fuel data from tankerkoenig.de",
@@ -340507,7 +340527,7 @@
   "legacyPackages.x86_64-linux.python313Packages.standardwebhooks": {
     "description": "Standard Webhooks",
     "pname": "python3.13-standardwebhooks",
-    "version": "1.1.0"
+    "version": "1.3.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.stanio": {
     "description": "Preparing inputs to and reading outputs from Stan",
@@ -341767,7 +341787,7 @@
   "legacyPackages.x86_64-linux.python313Packages.temporalio": {
     "description": "Temporal Python SDK",
     "pname": "python3.13-temporalio",
-    "version": "1.36.0"
+    "version": "1.36.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.tenacity": {
     "description": "Retrying library for Python",
@@ -341782,7 +341802,7 @@
   "legacyPackages.x86_64-linux.python313Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
     "pname": "python3.13-tencentcloud-sdk-python",
-    "version": "3.1.209"
+    "version": "3.1.211"
   },
   "legacyPackages.x86_64-linux.python313Packages.tendo": {
     "description": "Adds basic functionality that is not provided by Python",
@@ -345208,11 +345228,6 @@
     "description": "Python reference implementation of The Update Framework (TUF)",
     "pname": "python3.13-tuf",
     "version": "7.0.0"
-  },
-  "legacyPackages.x86_64-linux.python313Packages.tunigo": {
-    "description": "Python API for the browse feature of Spotify",
-    "pname": "python3.13-tunigo",
-    "version": "1.0.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.tunit": {
     "description": "Module for time unit types",
@@ -356142,7 +356157,7 @@
   "legacyPackages.x86_64-linux.python314Packages.azure-mgmt-postgresqlflexibleservers": {
     "description": "Microsoft Azure Postgresqlflexibleservers Management Client Library for Python",
     "pname": "python3.14-azure-mgmt-postgresqlflexibleservers",
-    "version": "3.0.0b1"
+    "version": "3.0.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.azure-mgmt-powerbiembedded": {
     "description": "This is the Microsoft Azure Power BI Embedded Management Client Library",
@@ -356477,7 +356492,7 @@
   "legacyPackages.x86_64-linux.python314Packages.bacpypes3": {
     "description": "BACnet communications library",
     "pname": "python3.14-bacpypes3",
-    "version": "0.0.110"
+    "version": "0.1.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.badauth": {
     "description": "Unified authentication library",
@@ -357647,7 +357662,7 @@
   "legacyPackages.x86_64-linux.python314Packages.boto3-stubs": {
     "description": "Type annotations for boto3",
     "pname": "python3.14-boto3-stubs",
-    "version": "1.44.5"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.botocore": {
     "description": "Low-level interface to a growing number of Amazon Web Services",
@@ -361902,7 +361917,7 @@
   "legacyPackages.x86_64-linux.python314Packages.dfir-ntfs": {
     "description": "NTFS/FAT parser for digital forensics & incident response",
     "pname": "python3.14-dfir-ntfs",
-    "version": "1.1.19"
+    "version": "1.1.20"
   },
   "legacyPackages.x86_64-linux.python314Packages.dftd4": {
     "description": "Generally Applicable Atomic-Charge Dependent London Dispersion Correction",
@@ -364837,7 +364852,7 @@
   "legacyPackages.x86_64-linux.python314Packages.energyid-webhooks": {
     "description": "Light weight Python package to interface with EnergyID Webhooks",
     "pname": "python3.14-energyid-webhooks",
-    "version": "0.0.16"
+    "version": "0.0.17"
   },
   "legacyPackages.x86_64-linux.python314Packages.energyzero": {
     "description": "Module for getting the dynamic prices from EnergyZero",
@@ -367468,11 +367483,6 @@
     "description": "Python module to interact with Garmin Connect",
     "pname": "python3.14-garminconnect-aio",
     "version": "0.1.4"
-  },
-  "legacyPackages.x86_64-linux.python314Packages.garth": {
-    "description": "Garmin SSO auth and connect client",
-    "pname": "python3.14-garth",
-    "version": "0.8.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.gassist-text": {
     "description": "Module for interacting with Google Assistant API via text",
@@ -370407,942 +370417,942 @@
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkaad": {
     "description": "Module of Huawei Cloud Python SDK (aad)",
     "pname": "python3.14-huaweicloudsdkaad",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkagentarts": {
     "description": "Module of Huawei Cloud Python SDK (agentarts)",
     "pname": "python3.14-huaweicloudsdkagentarts",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkagentidentity": {
     "description": "Module of Huawei Cloud Python SDK (agentidentity)",
     "pname": "python3.14-huaweicloudsdkagentidentity",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkantiddos": {
     "description": "Module of Huawei Cloud Python SDK (antiddos)",
     "pname": "python3.14-huaweicloudsdkantiddos",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkaom": {
     "description": "Module of Huawei Cloud Python SDK (aom)",
     "pname": "python3.14-huaweicloudsdkaom",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkaos": {
     "description": "Module of Huawei Cloud Python SDK (aos)",
     "pname": "python3.14-huaweicloudsdkaos",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkapig": {
     "description": "Module of Huawei Cloud Python SDK (apig)",
     "pname": "python3.14-huaweicloudsdkapig",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkapm": {
     "description": "Module of Huawei Cloud Python SDK (apm)",
     "pname": "python3.14-huaweicloudsdkapm",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkas": {
     "description": "Module of Huawei Cloud Python SDK (as)",
     "pname": "python3.14-huaweicloudsdkas",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkasm": {
     "description": "Module of Huawei Cloud Python SDK (asm)",
     "pname": "python3.14-huaweicloudsdkasm",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkastrozero": {
     "description": "Module of Huawei Cloud Python SDK (astrozero)",
     "pname": "python3.14-huaweicloudsdkastrozero",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkbcc": {
     "description": "Module of Huawei Cloud Python SDK (bcc)",
     "pname": "python3.14-huaweicloudsdkbcc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkbcs": {
     "description": "Module of Huawei Cloud Python SDK (bcs)",
     "pname": "python3.14-huaweicloudsdkbcs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkbms": {
     "description": "Module of Huawei Cloud Python SDK (bms)",
     "pname": "python3.14-huaweicloudsdkbms",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkbss": {
     "description": "Module of Huawei Cloud Python SDK (bss)",
     "pname": "python3.14-huaweicloudsdkbss",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkbssintl": {
     "description": "Module of Huawei Cloud Python SDK (bssintl)",
     "pname": "python3.14-huaweicloudsdkbssintl",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcae": {
     "description": "Module of Huawei Cloud Python SDK (cae)",
     "pname": "python3.14-huaweicloudsdkcae",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcampusgo": {
     "description": "Module of Huawei Cloud Python SDK (campusgo)",
     "pname": "python3.14-huaweicloudsdkcampusgo",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcbh": {
     "description": "Module of Huawei Cloud Python SDK (cbh)",
     "pname": "python3.14-huaweicloudsdkcbh",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcbr": {
     "description": "Module of Huawei Cloud Python SDK (cbr)",
     "pname": "python3.14-huaweicloudsdkcbr",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcbs": {
     "description": "Module of Huawei Cloud Python SDK (cbs)",
     "pname": "python3.14-huaweicloudsdkcbs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcc": {
     "description": "Module of Huawei Cloud Python SDK (cc)",
     "pname": "python3.14-huaweicloudsdkcc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcce": {
     "description": "Module of Huawei Cloud Python SDK (cce)",
     "pname": "python3.14-huaweicloudsdkcce",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkccm": {
     "description": "Module of Huawei Cloud Python SDK (ccm)",
     "pname": "python3.14-huaweicloudsdkccm",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcdm": {
     "description": "Module of Huawei Cloud Python SDK (cdm)",
     "pname": "python3.14-huaweicloudsdkcdm",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcdn": {
     "description": "Module of Huawei Cloud Python SDK (cdn)",
     "pname": "python3.14-huaweicloudsdkcdn",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkces": {
     "description": "Module of Huawei Cloud Python SDK (ces)",
     "pname": "python3.14-huaweicloudsdkces",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcfw": {
     "description": "Module of Huawei Cloud Python SDK (cfw)",
     "pname": "python3.14-huaweicloudsdkcfw",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkclassroom": {
     "description": "Module of Huawei Cloud Python SDK (classroom)",
     "pname": "python3.14-huaweicloudsdkclassroom",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkclouddc": {
     "description": "Module of Huawei Cloud Python SDK (clouddc)",
     "pname": "python3.14-huaweicloudsdkclouddc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcloudide": {
     "description": "Module of Huawei Cloud Python SDK (cloudide)",
     "pname": "python3.14-huaweicloudsdkcloudide",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcloudpond": {
     "description": "Module of Huawei Cloud Python SDK (cloudpond)",
     "pname": "python3.14-huaweicloudsdkcloudpond",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcloudrtc": {
     "description": "Module of Huawei Cloud Python SDK (cloudrtc)",
     "pname": "python3.14-huaweicloudsdkcloudrtc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcloudtable": {
     "description": "Module of Huawei Cloud Python SDK (cloudtable)",
     "pname": "python3.14-huaweicloudsdkcloudtable",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcloudtest": {
     "description": "Module of Huawei Cloud Python SDK (cloudtest)",
     "pname": "python3.14-huaweicloudsdkcloudtest",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcoc": {
     "description": "Module of Huawei Cloud Python SDK (coc)",
     "pname": "python3.14-huaweicloudsdkcoc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcodeartsartifact": {
     "description": "Module of Huawei Cloud Python SDK (codeartsartifact)",
     "pname": "python3.14-huaweicloudsdkcodeartsartifact",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcodeartsbuild": {
     "description": "Module of Huawei Cloud Python SDK (codeartsbuild)",
     "pname": "python3.14-huaweicloudsdkcodeartsbuild",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcodeartscheck": {
     "description": "Module of Huawei Cloud Python SDK (codeartscheck)",
     "pname": "python3.14-huaweicloudsdkcodeartscheck",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcodeartsdeploy": {
     "description": "Module of Huawei Cloud Python SDK (codeartsdeploy)",
     "pname": "python3.14-huaweicloudsdkcodeartsdeploy",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcodeartsgovernance": {
     "description": "Module of Huawei Cloud Python SDK (codeartsgovernance)",
     "pname": "python3.14-huaweicloudsdkcodeartsgovernance",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcodeartside": {
     "description": "Module of Huawei Cloud Python SDK (codeartside)",
     "pname": "python3.14-huaweicloudsdkcodeartside",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcodeartsinspector": {
     "description": "Module of Huawei Cloud Python SDK (codeartsinspector)",
     "pname": "python3.14-huaweicloudsdkcodeartsinspector",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcodeartspipeline": {
     "description": "Module of Huawei Cloud Python SDK (codeartspipeline)",
     "pname": "python3.14-huaweicloudsdkcodeartspipeline",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcodeartsrepo": {
     "description": "Module of Huawei Cloud Python SDK (codeartsrepo)",
     "pname": "python3.14-huaweicloudsdkcodeartsrepo",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcodecraft": {
     "description": "Module of Huawei Cloud Python SDK (codecraft)",
     "pname": "python3.14-huaweicloudsdkcodecraft",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkconfig": {
     "description": "Module of Huawei Cloud Python SDK (config)",
     "pname": "python3.14-huaweicloudsdkconfig",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcore": {
     "description": "Core module of Huawei Cloud Python SDK",
     "pname": "python3.14-huaweicloudsdkcore",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcpcs": {
     "description": "Module of Huawei Cloud Python SDK (cpcs)",
     "pname": "python3.14-huaweicloudsdkcpcs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcph": {
     "description": "Module of Huawei Cloud Python SDK (cph)",
     "pname": "python3.14-huaweicloudsdkcph",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcpts": {
     "description": "Module of Huawei Cloud Python SDK (cpts)",
     "pname": "python3.14-huaweicloudsdkcpts",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcse": {
     "description": "Module of Huawei Cloud Python SDK (cse)",
     "pname": "python3.14-huaweicloudsdkcse",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcsms": {
     "description": "Module of Huawei Cloud Python SDK (csms)",
     "pname": "python3.14-huaweicloudsdkcsms",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcss": {
     "description": "Module of Huawei Cloud Python SDK (css)",
     "pname": "python3.14-huaweicloudsdkcss",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkcts": {
     "description": "Module of Huawei Cloud Python SDK (cts)",
     "pname": "python3.14-huaweicloudsdkcts",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdas": {
     "description": "Module of Huawei Cloud Python SDK (das)",
     "pname": "python3.14-huaweicloudsdkdas",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdataartsfabric": {
     "description": "Module of Huawei Cloud Python SDK (dataartsfabric)",
     "pname": "python3.14-huaweicloudsdkdataartsfabric",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdataartsfabricep": {
     "description": "Module of Huawei Cloud Python SDK (dataartsfabricep)",
     "pname": "python3.14-huaweicloudsdkdataartsfabricep",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdataartsstudio": {
     "description": "Module of Huawei Cloud Python SDK (dataartsstudio)",
     "pname": "python3.14-huaweicloudsdkdataartsstudio",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdbss": {
     "description": "Module of Huawei Cloud Python SDK (dbss)",
     "pname": "python3.14-huaweicloudsdkdbss",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdc": {
     "description": "Module of Huawei Cloud Python SDK (dc)",
     "pname": "python3.14-huaweicloudsdkdc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdcc": {
     "description": "Module of Huawei Cloud Python SDK (dcc)",
     "pname": "python3.14-huaweicloudsdkdcc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdcos": {
     "description": "Module of Huawei Cloud Python SDK (dcos)",
     "pname": "python3.14-huaweicloudsdkdcos",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdcs": {
     "description": "Module of Huawei Cloud Python SDK (dcs)",
     "pname": "python3.14-huaweicloudsdkdcs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkddm": {
     "description": "Module of Huawei Cloud Python SDK (ddm)",
     "pname": "python3.14-huaweicloudsdkddm",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdds": {
     "description": "Module of Huawei Cloud Python SDK (dds)",
     "pname": "python3.14-huaweicloudsdkdds",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdeh": {
     "description": "Module of Huawei Cloud Python SDK (deh)",
     "pname": "python3.14-huaweicloudsdkdeh",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdevstar": {
     "description": "Module of Huawei Cloud Python SDK (devstar)",
     "pname": "python3.14-huaweicloudsdkdevstar",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdgc": {
     "description": "Module of Huawei Cloud Python SDK (dgc)",
     "pname": "python3.14-huaweicloudsdkdgc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdis": {
     "description": "Module of Huawei Cloud Python SDK (dis)",
     "pname": "python3.14-huaweicloudsdkdis",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdlf": {
     "description": "Module of Huawei Cloud Python SDK (dlf)",
     "pname": "python3.14-huaweicloudsdkdlf",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdli": {
     "description": "Module of Huawei Cloud Python SDK (dli)",
     "pname": "python3.14-huaweicloudsdkdli",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdns": {
     "description": "Module of Huawei Cloud Python SDK (dns)",
     "pname": "python3.14-huaweicloudsdkdns",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdris": {
     "description": "Module of Huawei Cloud Python SDK (dris)",
     "pname": "python3.14-huaweicloudsdkdris",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdrs": {
     "description": "Module of Huawei Cloud Python SDK (drs)",
     "pname": "python3.14-huaweicloudsdkdrs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdsc": {
     "description": "Module of Huawei Cloud Python SDK (dsc)",
     "pname": "python3.14-huaweicloudsdkdsc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdwr": {
     "description": "Module of Huawei Cloud Python SDK (dwr)",
     "pname": "python3.14-huaweicloudsdkdwr",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkdws": {
     "description": "Module of Huawei Cloud Python SDK (dws)",
     "pname": "python3.14-huaweicloudsdkdws",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkec": {
     "description": "Module of Huawei Cloud Python SDK (ec)",
     "pname": "python3.14-huaweicloudsdkec",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkecs": {
     "description": "Module of Huawei Cloud Python SDK (ecs)",
     "pname": "python3.14-huaweicloudsdkecs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkedgesec": {
     "description": "Module of Huawei Cloud Python SDK (edgesec)",
     "pname": "python3.14-huaweicloudsdkedgesec",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkeg": {
     "description": "Module of Huawei Cloud Python SDK (eg)",
     "pname": "python3.14-huaweicloudsdkeg",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkeihealth": {
     "description": "Module of Huawei Cloud Python SDK (eihealth)",
     "pname": "python3.14-huaweicloudsdkeihealth",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkeip": {
     "description": "Module of Huawei Cloud Python SDK (eip)",
     "pname": "python3.14-huaweicloudsdkeip",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkelb": {
     "description": "Module of Huawei Cloud Python SDK (elb)",
     "pname": "python3.14-huaweicloudsdkelb",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkeps": {
     "description": "Module of Huawei Cloud Python SDK (eps)",
     "pname": "python3.14-huaweicloudsdkeps",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdker": {
     "description": "Module of Huawei Cloud Python SDK (er)",
     "pname": "python3.14-huaweicloudsdker",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkesw": {
     "description": "Module of Huawei Cloud Python SDK (esw)",
     "pname": "python3.14-huaweicloudsdkesw",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkevs": {
     "description": "Module of Huawei Cloud Python SDK (evs)",
     "pname": "python3.14-huaweicloudsdkevs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkfrs": {
     "description": "Module of Huawei Cloud Python SDK (frs)",
     "pname": "python3.14-huaweicloudsdkfrs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkfunctiongraph": {
     "description": "Module of Huawei Cloud Python SDK (functiongraph)",
     "pname": "python3.14-huaweicloudsdkfunctiongraph",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkga": {
     "description": "Module of Huawei Cloud Python SDK (ga)",
     "pname": "python3.14-huaweicloudsdkga",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkgaussdb": {
     "description": "Module of Huawei Cloud Python SDK (gaussdb)",
     "pname": "python3.14-huaweicloudsdkgaussdb",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkgaussdbfornosql": {
     "description": "Module of Huawei Cloud Python SDK (gaussdbfornosql)",
     "pname": "python3.14-huaweicloudsdkgaussdbfornosql",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkgaussdbforopengauss": {
     "description": "Module of Huawei Cloud Python SDK (gaussdbforopengauss)",
     "pname": "python3.14-huaweicloudsdkgaussdbforopengauss",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkgeip": {
     "description": "Module of Huawei Cloud Python SDK (geip)",
     "pname": "python3.14-huaweicloudsdkgeip",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkges": {
     "description": "Module of Huawei Cloud Python SDK (ges)",
     "pname": "python3.14-huaweicloudsdkges",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkgsl": {
     "description": "Module of Huawei Cloud Python SDK (gsl)",
     "pname": "python3.14-huaweicloudsdkgsl",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkhilens": {
     "description": "Module of Huawei Cloud Python SDK (hilens)",
     "pname": "python3.14-huaweicloudsdkhilens",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkhss": {
     "description": "Module of Huawei Cloud Python SDK (hss)",
     "pname": "python3.14-huaweicloudsdkhss",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkiam": {
     "description": "Module of Huawei Cloud Python SDK (iam)",
     "pname": "python3.14-huaweicloudsdkiam",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkiamaccessanalyzer": {
     "description": "Module of Huawei Cloud Python SDK (iamaccessanalyzer)",
     "pname": "python3.14-huaweicloudsdkiamaccessanalyzer",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkidentitycenter": {
     "description": "Module of Huawei Cloud Python SDK (identitycenter)",
     "pname": "python3.14-huaweicloudsdkidentitycenter",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkidentitycenteroidc": {
     "description": "Module of Huawei Cloud Python SDK (identitycenteroidc)",
     "pname": "python3.14-huaweicloudsdkidentitycenteroidc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkidentitycenterportalapi": {
     "description": "Module of Huawei Cloud Python SDK (identitycenterportalapi)",
     "pname": "python3.14-huaweicloudsdkidentitycenterportalapi",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkidentitycenterscim": {
     "description": "Module of Huawei Cloud Python SDK (identitycenterscim)",
     "pname": "python3.14-huaweicloudsdkidentitycenterscim",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkidentitycenterstore": {
     "description": "Module of Huawei Cloud Python SDK (identitycenterstore)",
     "pname": "python3.14-huaweicloudsdkidentitycenterstore",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkidme": {
     "description": "Module of Huawei Cloud Python SDK (idme)",
     "pname": "python3.14-huaweicloudsdkidme",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkidmeclassicapi": {
     "description": "Module of Huawei Cloud Python SDK (idmeclassicapi)",
     "pname": "python3.14-huaweicloudsdkidmeclassicapi",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkiec": {
     "description": "Module of Huawei Cloud Python SDK (iec)",
     "pname": "python3.14-huaweicloudsdkiec",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkief": {
     "description": "Module of Huawei Cloud Python SDK (ief)",
     "pname": "python3.14-huaweicloudsdkief",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkimage": {
     "description": "Module of Huawei Cloud Python SDK (image)",
     "pname": "python3.14-huaweicloudsdkimage",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkimagesearch": {
     "description": "Module of Huawei Cloud Python SDK (imagesearch)",
     "pname": "python3.14-huaweicloudsdkimagesearch",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkims": {
     "description": "Module of Huawei Cloud Python SDK (ims)",
     "pname": "python3.14-huaweicloudsdkims",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkiotanalytics": {
     "description": "Module of Huawei Cloud Python SDK (iotanalytics)",
     "pname": "python3.14-huaweicloudsdkiotanalytics",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkiotda": {
     "description": "Module of Huawei Cloud Python SDK (iotda)",
     "pname": "python3.14-huaweicloudsdkiotda",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkiotdm": {
     "description": "Module of Huawei Cloud Python SDK (iotdm)",
     "pname": "python3.14-huaweicloudsdkiotdm",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkiotedge": {
     "description": "Module of Huawei Cloud Python SDK (iotedge)",
     "pname": "python3.14-huaweicloudsdkiotedge",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkivs": {
     "description": "Module of Huawei Cloud Python SDK (ivs)",
     "pname": "python3.14-huaweicloudsdkivs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkkafka": {
     "description": "Module of Huawei Cloud Python SDK (kafka)",
     "pname": "python3.14-huaweicloudsdkkafka",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkkms": {
     "description": "Module of Huawei Cloud Python SDK (kms)",
     "pname": "python3.14-huaweicloudsdkkms",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkkoomessage": {
     "description": "Module of Huawei Cloud Python SDK (koomessage)",
     "pname": "python3.14-huaweicloudsdkkoomessage",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkkps": {
     "description": "Module of Huawei Cloud Python SDK (kps)",
     "pname": "python3.14-huaweicloudsdkkps",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkkvs": {
     "description": "Module of Huawei Cloud Python SDK (kvs)",
     "pname": "python3.14-huaweicloudsdkkvs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdklakeformation": {
     "description": "Module of Huawei Cloud Python SDK (lakeformation)",
     "pname": "python3.14-huaweicloudsdklakeformation",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdklive": {
     "description": "Module of Huawei Cloud Python SDK (live)",
     "pname": "python3.14-huaweicloudsdklive",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdklts": {
     "description": "Module of Huawei Cloud Python SDK (lts)",
     "pname": "python3.14-huaweicloudsdklts",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkmapds": {
     "description": "Module of Huawei Cloud Python SDK (mapds)",
     "pname": "python3.14-huaweicloudsdkmapds",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkmas": {
     "description": "Module of Huawei Cloud Python SDK (mas)",
     "pname": "python3.14-huaweicloudsdkmas",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkmastudio": {
     "description": "Module of Huawei Cloud Python SDK (mastudio)",
     "pname": "python3.14-huaweicloudsdkmastudio",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkmeeting": {
     "description": "Module of Huawei Cloud Python SDK (meeting)",
     "pname": "python3.14-huaweicloudsdkmeeting",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkmetastudio": {
     "description": "Module of Huawei Cloud Python SDK (metastudio)",
     "pname": "python3.14-huaweicloudsdkmetastudio",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkmodelarts": {
     "description": "Module of Huawei Cloud Python SDK (modelarts)",
     "pname": "python3.14-huaweicloudsdkmodelarts",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkmoderation": {
     "description": "Module of Huawei Cloud Python SDK (moderation)",
     "pname": "python3.14-huaweicloudsdkmoderation",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkmpc": {
     "description": "Module of Huawei Cloud Python SDK (mpc)",
     "pname": "python3.14-huaweicloudsdkmpc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkmrs": {
     "description": "Module of Huawei Cloud Python SDK (mrs)",
     "pname": "python3.14-huaweicloudsdkmrs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkmsgsms": {
     "description": "Module of Huawei Cloud Python SDK (msgsms)",
     "pname": "python3.14-huaweicloudsdkmsgsms",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkmssi": {
     "description": "Module of Huawei Cloud Python SDK (mssi)",
     "pname": "python3.14-huaweicloudsdkmssi",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdknat": {
     "description": "Module of Huawei Cloud Python SDK (nat)",
     "pname": "python3.14-huaweicloudsdknat",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdknlp": {
     "description": "Module of Huawei Cloud Python SDK (nlp)",
     "pname": "python3.14-huaweicloudsdknlp",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkobs": {
     "description": "Module of Huawei Cloud Python SDK (obs)",
     "pname": "python3.14-huaweicloudsdkobs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkocr": {
     "description": "Module of Huawei Cloud Python SDK (ocr)",
     "pname": "python3.14-huaweicloudsdkocr",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkoctopus": {
     "description": "Module of Huawei Cloud Python SDK (octopus)",
     "pname": "python3.14-huaweicloudsdkoctopus",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkoms": {
     "description": "Module of Huawei Cloud Python SDK (oms)",
     "pname": "python3.14-huaweicloudsdkoms",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkoptverse": {
     "description": "Module of Huawei Cloud Python SDK (optverse)",
     "pname": "python3.14-huaweicloudsdkoptverse",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkorganizations": {
     "description": "Module of Huawei Cloud Python SDK (organizations)",
     "pname": "python3.14-huaweicloudsdkorganizations",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkorgid": {
     "description": "Module of Huawei Cloud Python SDK (orgid)",
     "pname": "python3.14-huaweicloudsdkorgid",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkoroas": {
     "description": "Module of Huawei Cloud Python SDK (oroas)",
     "pname": "python3.14-huaweicloudsdkoroas",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkosm": {
     "description": "Module of Huawei Cloud Python SDK (osm)",
     "pname": "python3.14-huaweicloudsdkosm",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkpangulargemodels": {
     "description": "Module of Huawei Cloud Python SDK (pangulargemodels)",
     "pname": "python3.14-huaweicloudsdkpangulargemodels",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkprojectman": {
     "description": "Module of Huawei Cloud Python SDK (projectman)",
     "pname": "python3.14-huaweicloudsdkprojectman",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkrabbitmq": {
     "description": "Module of Huawei Cloud Python SDK (rabbitmq)",
     "pname": "python3.14-huaweicloudsdkrabbitmq",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkram": {
     "description": "Module of Huawei Cloud Python SDK (ram)",
     "pname": "python3.14-huaweicloudsdkram",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkrc": {
     "description": "Module of Huawei Cloud Python SDK (rc)",
     "pname": "python3.14-huaweicloudsdkrc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkrds": {
     "description": "Module of Huawei Cloud Python SDK (rds)",
     "pname": "python3.14-huaweicloudsdkrds",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkres": {
     "description": "Module of Huawei Cloud Python SDK (res)",
     "pname": "python3.14-huaweicloudsdkres",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkrfs": {
     "description": "Module of Huawei Cloud Python SDK (rfs)",
     "pname": "python3.14-huaweicloudsdkrfs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkrgc": {
     "description": "Module of Huawei Cloud Python SDK (rgc)",
     "pname": "python3.14-huaweicloudsdkrgc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkrms": {
     "description": "Module of Huawei Cloud Python SDK (rms)",
     "pname": "python3.14-huaweicloudsdkrms",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkrocketmq": {
     "description": "Module of Huawei Cloud Python SDK (rocketmq)",
     "pname": "python3.14-huaweicloudsdkrocketmq",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkroma": {
     "description": "Module of Huawei Cloud Python SDK (roma)",
     "pname": "python3.14-huaweicloudsdkroma",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdksa": {
     "description": "Module of Huawei Cloud Python SDK (sa)",
     "pname": "python3.14-huaweicloudsdksa",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkscm": {
     "description": "Module of Huawei Cloud Python SDK (scm)",
     "pname": "python3.14-huaweicloudsdkscm",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdksdrs": {
     "description": "Module of Huawei Cloud Python SDK (sdrs)",
     "pname": "python3.14-huaweicloudsdksdrs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdksecmaster": {
     "description": "Module of Huawei Cloud Python SDK (secmaster)",
     "pname": "python3.14-huaweicloudsdksecmaster",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkservicestage": {
     "description": "Module of Huawei Cloud Python SDK (servicestage)",
     "pname": "python3.14-huaweicloudsdkservicestage",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdksfsturbo": {
     "description": "Module of Huawei Cloud Python SDK (sfsturbo)",
     "pname": "python3.14-huaweicloudsdksfsturbo",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdksis": {
     "description": "Module of Huawei Cloud Python SDK (sis)",
     "pname": "python3.14-huaweicloudsdksis",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdksmn": {
     "description": "Module of Huawei Cloud Python SDK (smn)",
     "pname": "python3.14-huaweicloudsdksmn",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdksmnglobal": {
     "description": "Module of Huawei Cloud Python SDK (smnglobal)",
     "pname": "python3.14-huaweicloudsdksmnglobal",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdksms": {
     "description": "Module of Huawei Cloud Python SDK (sms)",
     "pname": "python3.14-huaweicloudsdksms",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdksmsapi": {
     "description": "Module of Huawei Cloud Python SDK (smsapi)",
     "pname": "python3.14-huaweicloudsdksmsapi",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdksts": {
     "description": "Module of Huawei Cloud Python SDK (sts)",
     "pname": "python3.14-huaweicloudsdksts",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkswr": {
     "description": "Module of Huawei Cloud Python SDK (swr)",
     "pname": "python3.14-huaweicloudsdkswr",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdktics": {
     "description": "Module of Huawei Cloud Python SDK (tics)",
     "pname": "python3.14-huaweicloudsdktics",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdktms": {
     "description": "Module of Huawei Cloud Python SDK (tms)",
     "pname": "python3.14-huaweicloudsdktms",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkucs": {
     "description": "Module of Huawei Cloud Python SDK (ucs)",
     "pname": "python3.14-huaweicloudsdkucs",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkugo": {
     "description": "Module of Huawei Cloud Python SDK (ugo)",
     "pname": "python3.14-huaweicloudsdkugo",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkvas": {
     "description": "Module of Huawei Cloud Python SDK (vas)",
     "pname": "python3.14-huaweicloudsdkvas",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkvcm": {
     "description": "Module of Huawei Cloud Python SDK (vcm)",
     "pname": "python3.14-huaweicloudsdkvcm",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkversatile": {
     "description": "Module of Huawei Cloud Python SDK (versatile)",
     "pname": "python3.14-huaweicloudsdkversatile",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkvod": {
     "description": "Module of Huawei Cloud Python SDK (vod)",
     "pname": "python3.14-huaweicloudsdkvod",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkvpc": {
     "description": "Module of Huawei Cloud Python SDK (vpc)",
     "pname": "python3.14-huaweicloudsdkvpc",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkvpcep": {
     "description": "Module of Huawei Cloud Python SDK (vpcep)",
     "pname": "python3.14-huaweicloudsdkvpcep",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkvpn": {
     "description": "Module of Huawei Cloud Python SDK (vpn)",
     "pname": "python3.14-huaweicloudsdkvpn",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkwaf": {
     "description": "Module of Huawei Cloud Python SDK (waf)",
     "pname": "python3.14-huaweicloudsdkwaf",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkworkspace": {
     "description": "Module of Huawei Cloud Python SDK (workspace)",
     "pname": "python3.14-huaweicloudsdkworkspace",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.huaweicloudsdkworkspaceapp": {
     "description": "Module of Huawei Cloud Python SDK (workspaceapp)",
     "pname": "python3.14-huaweicloudsdkworkspaceapp",
-    "version": "3.1.213"
+    "version": "3.1.222"
   },
   "legacyPackages.x86_64-linux.python314Packages.hueble": {
     "description": "Python module for controlling Bluetooth Philips Hue lights",
@@ -371592,7 +371602,7 @@
   "legacyPackages.x86_64-linux.python314Packages.iamdata": {
     "description": "Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys",
     "pname": "python3.14-iamdata",
-    "version": "0.1.202611181"
+    "version": "0.1.202611201"
   },
   "legacyPackages.x86_64-linux.python314Packages.iammeter": {
     "description": "Module to work with the IamMeter API",
@@ -374352,22 +374362,22 @@
   "legacyPackages.x86_64-linux.python314Packages.langchain": {
     "description": "Building applications with LLMs through composability",
     "pname": "python3.14-langchain",
-    "version": "1.4.2"
+    "version": "1.5.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.langchain-anthropic": {
     "description": "Build LangChain applications with Anthropic",
     "pname": "python3.14-langchain-anthropic",
-    "version": "1.7.2"
+    "version": "1.7.10"
   },
   "legacyPackages.x86_64-linux.python314Packages.langchain-aws": {
     "description": "Build LangChain application on AWS",
     "pname": "python3.14-langchain-aws",
-    "version": "1.7.8"
+    "version": "1.9.3"
   },
   "legacyPackages.x86_64-linux.python314Packages.langchain-azure-dynamic-sessions": {
     "description": "Integration package connecting Azure Container Apps dynamic sessions and LangChain",
     "pname": "python3.14-langchain-azure-dynamic-sessions",
-    "version": "0.2.0"
+    "version": "1.0.4"
   },
   "legacyPackages.x86_64-linux.python314Packages.langchain-chroma": {
     "description": "Integration package connecting Chroma and LangChain",
@@ -374387,27 +374397,27 @@
   "legacyPackages.x86_64-linux.python314Packages.langchain-core": {
     "description": "Building applications with LLMs through composability",
     "pname": "python3.14-langchain-core",
-    "version": "1.6.10"
+    "version": "1.8.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.langchain-deepseek": {
     "description": "Integration package connecting DeepSeek and LangChain",
     "pname": "python3.14-langchain-deepseek",
-    "version": "1.1.1"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.langchain-fireworks": {
     "description": "Build LangChain applications with Fireworks",
     "pname": "python3.14-langchain-fireworks",
-    "version": "1.6.1"
+    "version": "1.7.3"
   },
   "legacyPackages.x86_64-linux.python314Packages.langchain-google-genai": {
     "description": "LangChain integrations for Google Gemini",
     "pname": "python3.14-langchain-google-genai",
-    "version": "4.3.4"
+    "version": "4.5.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.langchain-groq": {
     "description": "Integration package connecting Groq and LangChain",
     "pname": "python3.14-langchain-groq",
-    "version": "1.1.3"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.langchain-huggingface": {
     "description": "Integration package connecting Huggingface related classes and LangChain",
@@ -374417,7 +374427,7 @@
   "legacyPackages.x86_64-linux.python314Packages.langchain-mistralai": {
     "description": "Build LangChain applications with mistralai",
     "pname": "python3.14-langchain-mistralai",
-    "version": "1.1.6"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.langchain-mongodb": {
     "description": "Integration package connecting MongoDB and LangChain",
@@ -374432,7 +374442,7 @@
   "legacyPackages.x86_64-linux.python314Packages.langchain-openai": {
     "description": "Integration package connecting OpenAI and LangChain",
     "pname": "python3.14-langchain-openai",
-    "version": "1.6.2"
+    "version": "1.8.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.langchain-perplexity": {
     "description": "Build LangChain applications with Perplexity",
@@ -374462,7 +374472,7 @@
   "legacyPackages.x86_64-linux.python314Packages.langchain-xai": {
     "description": "Build LangChain applications with X AI",
     "pname": "python3.14-langchain-xai",
-    "version": "1.3.0"
+    "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.langcodes": {
     "description": "Python toolkit for working with and comparing the standardized codes for languages",
@@ -374482,7 +374492,7 @@
   "legacyPackages.x86_64-linux.python314Packages.langgraph": {
     "description": "Build resilient language agents as graphs",
     "pname": "python3.14-langgraph",
-    "version": "1.2.11"
+    "version": "1.2.22"
   },
   "legacyPackages.x86_64-linux.python314Packages.langgraph-checkpoint": {
     "description": "Library with base interfaces for LangGraph checkpoint savers",
@@ -374497,12 +374507,12 @@
   "legacyPackages.x86_64-linux.python314Packages.langgraph-checkpoint-postgres": {
     "description": "Library with a Postgres implementation of LangGraph checkpoint saver",
     "pname": "python3.14-langgraph-checkpoint-postgres",
-    "version": "3.1.2"
+    "version": "3.2.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.langgraph-checkpoint-sqlite": {
     "description": "Library with a SQLite implementation of LangGraph checkpoint saver",
     "pname": "python3.14-langgraph-checkpoint-sqlite",
-    "version": "3.1.1"
+    "version": "3.1.3"
   },
   "legacyPackages.x86_64-linux.python314Packages.langgraph-cli": {
     "description": "Official CLI for LangGraph API",
@@ -374512,7 +374522,7 @@
   "legacyPackages.x86_64-linux.python314Packages.langgraph-prebuilt": {
     "description": "Prebuilt agents add-on for Langgraph. Should always be bundled with langgraph",
     "pname": "python3.14-langgraph-prebuilt",
-    "version": "1.1.1"
+    "version": "1.1.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.langgraph-runtime-inmem": {
     "description": "Inmem implementation for the LangGraph API server",
@@ -374537,7 +374547,7 @@
   "legacyPackages.x86_64-linux.python314Packages.langsmith": {
     "description": "Client library to connect to the LangSmith LLM Tracing and Evaluation Platform",
     "pname": "python3.14-langsmith",
-    "version": "0.14.17"
+    "version": "0.15.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.language-data": {
     "description": "Supplement module for langcodes",
@@ -374897,7 +374907,7 @@
   "legacyPackages.x86_64-linux.python314Packages.lib50": {
     "description": "CS50's own internal library used in many of its tools",
     "pname": "python3.14-lib50",
-    "version": "3.2.2"
+    "version": "3.2.3"
   },
   "legacyPackages.x86_64-linux.python314Packages.libagent": {
     "description": "Using hardware wallets as SSH/GPG agent",
@@ -377522,7 +377532,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mflux": {
     "description": "MLX native implementations of state-of-the-art generative image models",
     "pname": "python3.14-mflux",
-    "version": "0.15.4"
+    "version": "0.24.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.mfusepy": {
     "description": "Ctypes bindings for the high-level API in libfuse 2 and 3",
@@ -379112,7 +379122,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-acm": {
     "description": "Type annotations for boto3 acm",
     "pname": "python3.14-mypy-boto3-acm",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-acm-pca": {
     "description": "Type annotations for boto3 acm-pca",
@@ -379207,7 +379217,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-appstream": {
     "description": "Type annotations for boto3 appstream",
     "pname": "python3.14-mypy-boto3-appstream",
-    "version": "1.44.5"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-appsync": {
     "description": "Type annotations for boto3 appsync",
@@ -379262,7 +379272,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-braket": {
     "description": "Type annotations for boto3 braket",
     "pname": "python3.14-mypy-boto3-braket",
-    "version": "1.44.0"
+    "version": "1.44.6"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-budgets": {
     "description": "Type annotations for boto3 budgets",
@@ -379277,7 +379287,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-ce": {
     "description": "Type annotations for boto3 ce",
     "pname": "python3.14-mypy-boto3-ce",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-chime": {
     "description": "Type annotations for boto3 chime",
@@ -379312,7 +379322,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-cleanrooms": {
     "description": "Type annotations for boto3 cleanrooms",
     "pname": "python3.14-mypy-boto3-cleanrooms",
-    "version": "1.44.2"
+    "version": "1.44.6"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-cloud9": {
     "description": "Type annotations for boto3 cloud9",
@@ -379332,12 +379342,12 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-cloudformation": {
     "description": "Type annotations for boto3 cloudformation",
     "pname": "python3.14-mypy-boto3-cloudformation",
-    "version": "1.44.3"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-cloudfront": {
     "description": "Type annotations for boto3 cloudfront",
     "pname": "python3.14-mypy-boto3-cloudfront",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-cloudhsm": {
     "description": "Type annotations for boto3 cloudhsm",
@@ -379442,7 +379452,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-cognito-idp": {
     "description": "Type annotations for boto3 cognito-idp",
     "pname": "python3.14-mypy-boto3-cognito-idp",
-    "version": "1.44.4"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-cognito-sync": {
     "description": "Type annotations for boto3 cognito-sync",
@@ -379472,7 +379482,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-connect": {
     "description": "Type annotations for boto3 connect",
     "pname": "python3.14-mypy-boto3-connect",
-    "version": "1.44.5"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-connect-contact-lens": {
     "description": "Type annotations for boto3 connect-contact-lens",
@@ -379487,7 +379497,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-connectcases": {
     "description": "Type annotations for boto3 connectcases",
     "pname": "python3.14-mypy-boto3-connectcases",
-    "version": "1.44.5"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-connectparticipant": {
     "description": "Type annotations for boto3 connectparticipant",
@@ -379667,7 +379677,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-elbv2": {
     "description": "Type annotations for boto3 elbv2",
     "pname": "python3.14-mypy-boto3-elbv2",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-emr": {
     "description": "Type annotations for boto3 emr",
@@ -379797,7 +379807,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-health": {
     "description": "Type annotations for boto3 health",
     "pname": "python3.14-mypy-boto3-health",
-    "version": "1.44.4"
+    "version": "1.44.6"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-healthlake": {
     "description": "Type annotations for boto3 healthlake",
@@ -379807,7 +379817,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-iam": {
     "description": "Type annotations for boto3 iam",
     "pname": "python3.14-mypy-boto3-iam",
-    "version": "1.44.3"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-identitystore": {
     "description": "Type annotations for boto3 identitystore",
@@ -379832,7 +379842,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-inspector2": {
     "description": "Type annotations for boto3 inspector2",
     "pname": "python3.14-mypy-boto3-inspector2",
-    "version": "1.44.5"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-internetmonitor": {
     "description": "Type annotations for boto3 internetmonitor",
@@ -379937,7 +379947,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-kafka": {
     "description": "Type annotations for boto3 kafka",
     "pname": "python3.14-mypy-boto3-kafka",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-kafkaconnect": {
     "description": "Type annotations for boto3 kafkaconnect",
@@ -380007,12 +380017,12 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-lakeformation": {
     "description": "Type annotations for boto3 lakeformation",
     "pname": "python3.14-mypy-boto3-lakeformation",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-lambda": {
     "description": "Type annotations for boto3 lambda",
     "pname": "python3.14-mypy-boto3-lambda",
-    "version": "1.44.5"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-lex-models": {
     "description": "Type annotations for boto3 lex-models",
@@ -380107,7 +380117,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-marketplace-catalog": {
     "description": "Type annotations for boto3 marketplace-catalog",
     "pname": "python3.14-mypy-boto3-marketplace-catalog",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-marketplace-entitlement": {
     "description": "Type annotations for boto3 marketplace-entitlement",
@@ -380132,7 +380142,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-medialive": {
     "description": "Type annotations for boto3 medialive",
     "pname": "python3.14-mypy-boto3-medialive",
-    "version": "1.44.2"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-mediapackage": {
     "description": "Type annotations for boto3 mediapackage",
@@ -380227,7 +380237,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-neptune": {
     "description": "Type annotations for boto3 neptune",
     "pname": "python3.14-mypy-boto3-neptune",
-    "version": "1.44.0"
+    "version": "1.44.6"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-neptunedata": {
     "description": "Type annotations for boto3 neptunedata",
@@ -380362,7 +380372,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-polly": {
     "description": "Type annotations for boto3 polly",
     "pname": "python3.14-mypy-boto3-polly",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-pricing": {
     "description": "Type annotations for boto3 pricing",
@@ -380407,7 +380417,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-rds": {
     "description": "Type annotations for boto3 rds",
     "pname": "python3.14-mypy-boto3-rds",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-rds-data": {
     "description": "Type annotations for boto3 rds-data",
@@ -380462,12 +380472,12 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-rolesanywhere": {
     "description": "Type annotations for boto3 rolesanywhere",
     "pname": "python3.14-mypy-boto3-rolesanywhere",
-    "version": "1.44.3"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-route53": {
     "description": "Type annotations for boto3 route53",
     "pname": "python3.14-mypy-boto3-route53",
-    "version": "1.44.2"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-route53-recovery-cluster": {
     "description": "Type annotations for boto3 route53-recovery-cluster",
@@ -380492,7 +380502,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-route53resolver": {
     "description": "Type annotations for boto3 route53resolver",
     "pname": "python3.14-mypy-boto3-route53resolver",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-rum": {
     "description": "Type annotations for boto3 rum",
@@ -380502,7 +380512,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-s3": {
     "description": "Type annotations for boto3 s3",
     "pname": "python3.14-mypy-boto3-s3",
-    "version": "1.44.5"
+    "version": "1.44.6"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-s3control": {
     "description": "Type annotations for boto3 s3control",
@@ -380617,7 +380627,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-sesv2": {
     "description": "Type annotations for boto3 sesv2",
     "pname": "python3.14-mypy-boto3-sesv2",
-    "version": "1.44.0"
+    "version": "1.44.6"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-shield": {
     "description": "Type annotations for boto3 shield",
@@ -380712,12 +380722,12 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-sts": {
     "description": "Type annotations for boto3 sts",
     "pname": "python3.14-mypy-boto3-sts",
-    "version": "1.44.0"
+    "version": "1.44.7"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-support": {
     "description": "Type annotations for boto3 support",
     "pname": "python3.14-mypy-boto3-support",
-    "version": "1.44.0"
+    "version": "1.44.6"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-support-app": {
     "description": "Type annotations for boto3 support-app",
@@ -380797,7 +380807,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-wafv2": {
     "description": "Type annotations for boto3 wafv2",
     "pname": "python3.14-mypy-boto3-wafv2",
-    "version": "1.44.0"
+    "version": "1.44.6"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-wellarchitected": {
     "description": "Type annotations for boto3 wellarchitected",
@@ -385877,7 +385887,7 @@
   "legacyPackages.x86_64-linux.python314Packages.prefect": {
     "description": "Workflow orchestration framework for building resilient data pipelines in Python",
     "pname": "python3.14-prefect",
-    "version": "3.9.3"
+    "version": "3.9.4"
   },
   "legacyPackages.x86_64-linux.python314Packages.prefixed": {
     "description": "Prefixed alternative numeric library",
@@ -386372,7 +386382,7 @@
   "legacyPackages.x86_64-linux.python314Packages.publicsuffixlist": {
     "description": "Public Suffix List parser implementation",
     "pname": "python3.14-publicsuffixlist",
-    "version": "1.1.2.20261115"
+    "version": "1.1.2.20261120"
   },
   "legacyPackages.x86_64-linux.python314Packages.pubnub": {
     "description": "Python-based APIs for PubNub",
@@ -388424,6 +388434,11 @@
     "pname": "python3.14-pyflic",
     "version": "2.0.4"
   },
+  "legacyPackages.x86_64-linux.python314Packages.pyflic-ble": {
+    "description": "Python library for Flic smart button BLE communication",
+    "pname": "python3.14-pyflic-ble",
+    "version": "0.2.6"
+  },
   "legacyPackages.x86_64-linux.python314Packages.pyflipper": {
     "description": "Flipper Zero Python CLI Wrapper",
     "pname": "python3.14-pyflipper",
@@ -389227,7 +389242,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pylacus": {
     "description": "Module to enqueue and query a remote Lacus instance",
     "pname": "python3.14-pylacus",
-    "version": "1.28.0"
+    "version": "1.28.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.pylama": {
     "description": "Code audit tool for python",
@@ -391157,7 +391172,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pyscf": {
     "description": "Python-based simulations of chemistry framework",
     "pname": "python3.14-pyscf",
-    "version": "2.14.0"
+    "version": "2.15.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.pyschedule": {
     "description": "Formulate and solve resource-constrained scheduling problems",
@@ -391857,7 +391872,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pytango": {
     "description": "Python bindings for the cppTango library, part of the Tango Distributed Control System toolkit",
     "pname": "python3.14-pytango",
-    "version": "10.3.1"
+    "version": "10.3.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.pytankerkoenig": {
     "description": "Python module to get fuel data from tankerkoenig.de",
@@ -400417,7 +400432,7 @@
   "legacyPackages.x86_64-linux.python314Packages.standardwebhooks": {
     "description": "Standard Webhooks",
     "pname": "python3.14-standardwebhooks",
-    "version": "1.1.0"
+    "version": "1.3.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.stanio": {
     "description": "Preparing inputs to and reading outputs from Stan",
@@ -401677,7 +401692,7 @@
   "legacyPackages.x86_64-linux.python314Packages.temporalio": {
     "description": "Temporal Python SDK",
     "pname": "python3.14-temporalio",
-    "version": "1.36.0"
+    "version": "1.36.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.tenacity": {
     "description": "Retrying library for Python",
@@ -401692,7 +401707,7 @@
   "legacyPackages.x86_64-linux.python314Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
     "pname": "python3.14-tencentcloud-sdk-python",
-    "version": "3.1.209"
+    "version": "3.1.211"
   },
   "legacyPackages.x86_64-linux.python314Packages.tendo": {
     "description": "Adds basic functionality that is not provided by Python",
@@ -405118,11 +405133,6 @@
     "description": "Python reference implementation of The Update Framework (TUF)",
     "pname": "python3.14-tuf",
     "version": "7.0.0"
-  },
-  "legacyPackages.x86_64-linux.python314Packages.tunigo": {
-    "description": "Python API for the browse feature of Spotify",
-    "pname": "python3.14-tunigo",
-    "version": "1.0.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.tunit": {
     "description": "Module for time unit types",
@@ -413407,7 +413417,7 @@
   "legacyPackages.x86_64-linux.raffi": {
     "description": "Fuzzel launcher based on yaml configuration",
     "pname": "raffi",
-    "version": "0.26.0"
+    "version": "0.28.0"
   },
   "legacyPackages.x86_64-linux.raft-cowsql": {
     "description": "Asynchronous C implementation of the Raft consensus protocol",
@@ -417642,7 +417652,7 @@
   "legacyPackages.x86_64-linux.rofi": {
     "description": "Window switcher, run dialog and dmenu replacement",
     "pname": "rofi",
-    "version": "2.1.0"
+    "version": "2.1.1"
   },
   "legacyPackages.x86_64-linux.rofi-blezz": {
     "description": "Plugin for rofi that emulates blezz behaviour",
@@ -417742,7 +417752,7 @@
   "legacyPackages.x86_64-linux.rofi-unwrapped": {
     "description": "Window switcher, run dialog and dmenu replacement",
     "pname": "rofi-unwrapped",
-    "version": "2.1.0"
+    "version": "2.1.1"
   },
   "legacyPackages.x86_64-linux.rofi-vpn": {
     "description": "Rofi-based interface to enable VPN connections with NetworkManager",
@@ -450537,7 +450547,7 @@
   "legacyPackages.x86_64-linux.scip-go": {
     "description": "SCIP (SCIP Code Intelligence Protocol) indexer for Golang",
     "pname": "scip-go",
-    "version": "0.2.9"
+    "version": "0.2.10"
   },
   "legacyPackages.x86_64-linux.scipopt-gcg": {
     "description": "Branch-and-Price & Column Generation for Everyone",
@@ -457702,7 +457712,7 @@
   "legacyPackages.x86_64-linux.steam-art-manager": {
     "description": "A tool to manage and change Steam library artwork",
     "pname": "steam-art-manager",
-    "version": "3.23.2"
+    "version": "3.31.0"
   },
   "legacyPackages.x86_64-linux.steam-devices-udev-rules": {
     "description": "Udev rules list for gaming devices",
@@ -462767,7 +462777,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.auth0_auth0": {
     "description": "",
     "pname": "terraform-provider-auth0",
-    "version": "1.60.0"
+    "version": "1.63.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.aviatrixsystems_aviatrix": {
     "description": "",
@@ -462982,7 +462992,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.grafana_grafana": {
     "description": "",
     "pname": "terraform-provider-grafana",
-    "version": "4.53.0"
+    "version": "4.55.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.gridscale_gridscale": {
     "description": "",
@@ -463297,7 +463307,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.opentelekomcloud_opentelekomcloud": {
     "description": "",
     "pname": "terraform-provider-opentelekomcloud",
-    "version": "1.37.12"
+    "version": "1.37.14"
   },
   "legacyPackages.x86_64-linux.terraform-providers.opsgenie_opsgenie": {
     "description": "",
@@ -468152,6 +468162,11 @@
   "legacyPackages.x86_64-linux.tests.home-assistant-components.flic": {
     "description": "Open source home automation that puts local control and privacy first",
     "pname": "homeassistant-test-flic",
+    "version": "2026.11.2"
+  },
+  "legacyPackages.x86_64-linux.tests.home-assistant-components.flic_button": {
+    "description": "Open source home automation that puts local control and privacy first",
+    "pname": "homeassistant-test-flic_button",
     "version": "2026.11.2"
   },
   "legacyPackages.x86_64-linux.tests.home-assistant-components.flipr": {
@@ -501077,7 +501092,7 @@
   "legacyPackages.x86_64-linux.tlsx": {
     "description": "TLS grabber focused on TLS based data collection",
     "pname": "tlsx",
-    "version": "1.4.5"
+    "version": "1.5.0"
   },
   "legacyPackages.x86_64-linux.tlwg": {
     "description": "Collection of Thai scalable fonts available under free licenses",
@@ -501652,7 +501667,7 @@
   "legacyPackages.x86_64-linux.tokscale": {
     "description": "CLI tool for tracking token usage from various agentic coding tools like Claude Code and OpenCode etc.",
     "pname": "tokscale",
-    "version": "4.0.4"
+    "version": "4.22.1"
   },
   "legacyPackages.x86_64-linux.tokstat": {
     "description": "CLI application to monitor token quotas across multiple AI providers",
@@ -504697,7 +504712,7 @@
   "legacyPackages.x86_64-linux.trufflehog": {
     "description": "Find credentials all over the place",
     "pname": "trufflehog",
-    "version": "3.99.9"
+    "version": "3.100.0"
   },
   "legacyPackages.x86_64-linux.trunk": {
     "description": "Build, bundle & ship your Rust WASM application to the web",
@@ -538932,7 +538947,7 @@
   "legacyPackages.x86_64-linux.ucx": {
     "description": "Unified Communication X library",
     "pname": "ucx",
-    "version": "1.22.0"
+    "version": "1.23.2"
   },
   "legacyPackages.x86_64-linux.uddup": {
     "description": "Tool for de-duplication URLs",
@@ -539672,7 +539687,7 @@
   "legacyPackages.x86_64-linux.ungoogled-chromium": {
     "description": "Open source web browser from Google, with dependencies on Google web services removed",
     "pname": "ungoogled-chromium",
-    "version": "157.0.8103.78"
+    "version": "158.0.8127.36"
   },
   "legacyPackages.x86_64-linux.unhide": {
     "description": "Forensic tool to find hidden processes and TCP/UDP ports by rootkits/LKMs",
@@ -555592,7 +555607,7 @@
   "legacyPackages.x86_64-linux.vscode": {
     "description": "Code editor developed by Microsoft",
     "pname": "vscode",
-    "version": "1.146"
+    "version": "1.147.0"
   },
   "legacyPackages.x86_64-linux.vscode-css-languageserver": {
     "description": "CSS language server",
@@ -555732,7 +555747,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.anthropic.claude-code": {
     "description": "Harness the power of Claude Code without leaving your IDE",
     "pname": "vscode-extension-anthropic-claude-code",
-    "version": "2.1.328"
+    "version": "2.1.329"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.antyos.openscad": {
     "description": "OpenSCAD highlighting, snippets, and more for VSCode",
@@ -556874,6 +556889,11 @@
     "pname": "vscode-extension-mesonbuild-mesonbuild",
     "version": "1.28.2"
   },
+  "legacyPackages.x86_64-linux.vscode-extensions.meta.pyrefly": {
+    "description": "A fast type checker and language server for Python",
+    "pname": "vscode-extension-meta-pyrefly",
+    "version": "1.5.0"
+  },
   "legacyPackages.x86_64-linux.vscode-extensions.mhutchie.git-graph": {
     "description": "",
     "pname": "vscode-extension-mhutchie-git-graph",
@@ -557394,6 +557414,11 @@
     "pname": "vscode-extension-posit-air-vscode",
     "version": "0.32.0"
   },
+  "legacyPackages.x86_64-linux.vscode-extensions.posit.shiny": {
+    "description": "VSCode extension to help launch Shiny applications",
+    "pname": "vscode-extension-Posit-shiny",
+    "version": "1.5.1"
+  },
   "legacyPackages.x86_64-linux.vscode-extensions.pranaygp.vscode-css-peek": {
     "description": "Allow peeking to css ID and class strings as definitions from html files to respective CSS",
     "pname": "vscode-extension-pranaygp-vscode-css-peek",
@@ -557443,6 +557468,11 @@
     "description": "Lightweight Rest API Client for VS Code",
     "pname": "vscode-extension-rangav-vscode-thunder-client",
     "version": "3.2.4"
+  },
+  "legacyPackages.x86_64-linux.vscode-extensions.rdebugger.r-debugger": {
+    "description": "R Debugger Extension for Visual Studio Code",
+    "pname": "vscode-extension-RDebugger-r-debugger",
+    "version": "0.5.6"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.rebornix.ruby": {
     "description": "",
@@ -558147,7 +558177,7 @@
   "legacyPackages.x86_64-linux.vscode-fhs": {
     "description": "Wrapped variant of vscode which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications",
     "pname": "code",
-    "version": "1.146"
+    "version": "1.147.0"
   },
   "legacyPackages.x86_64-linux.vscode-html-languageserver": {
     "description": "HTML language server",
@@ -558182,7 +558212,7 @@
   "legacyPackages.x86_64-linux.vscode-with-extensions": {
     "description": "Code editor developed by Microsoft",
     "pname": "vscode-with-extensions",
-    "version": "1.146"
+    "version": "1.147.0"
   },
   "legacyPackages.x86_64-linux.vscodium": {
     "description": "Open source source code editor developed by Microsoft for Windows, Linux and macOS (VS Code without MS branding/telemetry/licensing) ",
@@ -558962,7 +558992,7 @@
   "legacyPackages.x86_64-linux.wasmi": {
     "description": "Efficient and versatile WebAssembly interpreter for embedded systems",
     "pname": "wasmi",
-    "version": "2.0.0"
+    "version": "2.0.2"
   },
   "legacyPackages.x86_64-linux.wasmserve": {
     "description": "HTTP server for testing Wasm",
@@ -559083,11 +559113,6 @@
     "description": "C Implementation of Discrete Wavelet Transform (DWT,SWT and MODWT)",
     "pname": "wavelib",
     "version": "0-unstable-2025-12-12"
-  },
-  "legacyPackages.x86_64-linux.wavelog": {
-    "description": "Webbased Amateur Radio Logging Software",
-    "pname": "wavelog",
-    "version": "3.2.5"
   },
   "legacyPackages.x86_64-linux.wavemon": {
     "description": "Ncurses-based monitoring application for wireless network devices",
@@ -559887,7 +559912,7 @@
   "legacyPackages.x86_64-linux.wepwolf": {
     "description": "Tool for offline, passive WEP key recovery from 802.11 captures",
     "pname": "wepwolf",
-    "version": "1.2.0"
+    "version": "1.3.0"
   },
   "legacyPackages.x86_64-linux.werf": {
     "description": "GitOps delivery tool",
@@ -561757,7 +561782,7 @@
   "legacyPackages.x86_64-linux.worker-build": {
     "description": "Tool to be used as a custom build command for a Cloudflare Workers `workers-rs` project",
     "pname": "worker-build",
-    "version": "0.8.7"
+    "version": "0.9.0"
   },
   "legacyPackages.x86_64-linux.workout-tracker": {
     "description": "Workout tracking web application for personal use",
@@ -561842,7 +561867,7 @@
   "legacyPackages.x86_64-linux.woxi": {
     "description": "Interpreter for a subset of the Wolfram Language",
     "pname": "woxi",
-    "version": "0.3.0"
+    "version": "0.4.0"
   },
   "legacyPackages.x86_64-linux.wp-cli": {
     "description": "Command line interface for WordPress",
@@ -562967,7 +562992,7 @@
   "legacyPackages.x86_64-linux.xdg-desktop-portal-generic": {
     "description": "Generic XDG Desktop Portal backend for Wayland compositors",
     "pname": "xdg-desktop-portal-generic",
-    "version": "1.2.0"
+    "version": "1.3.0"
   },
   "legacyPackages.x86_64-linux.xdg-desktop-portal-gnome": {
     "description": "Backend implementation for xdg-desktop-portal for the GNOME desktop environment",
@@ -567402,7 +567427,7 @@
   "legacyPackages.x86_64-linux.zapfast": {
     "description": "Fast native WhatsApp client",
     "pname": "zapfast",
-    "version": "0.21.1"
+    "version": "0.21.3"
   },
   "legacyPackages.x86_64-linux.zapp": {
     "description": "Flash ZSA keyboards from your terminal",
@@ -567602,7 +567627,7 @@
   "legacyPackages.x86_64-linux.zed-editor": {
     "description": "High-performance, multiplayer code editor from the creators of Atom and Tree-sitter",
     "pname": "zed-editor",
-    "version": "1.29.1"
+    "version": "1.29.3"
   },
   "legacyPackages.x86_64-linux.zed-editor-fhs": {
     "description": "Wrapped variant of zed-editor which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. ",
@@ -568252,7 +568277,7 @@
   "legacyPackages.x86_64-linux.zlcompressor": {
     "description": "Versatile compressor plugin for VST3, LV2 and standalone",
     "pname": "zlcompressor",
-    "version": "0.5.0"
+    "version": "0.6.1"
   },
   "legacyPackages.x86_64-linux.zld": {
     "description": "Faster version of Apple's linker",
@@ -568317,7 +568342,7 @@
   "legacyPackages.x86_64-linux.zlsplitter": {
     "description": "Versatile splitter plugin for VST3, LV2 and standalone",
     "pname": "zlsplitter",
-    "version": "0.3.0"
+    "version": "0.4.0"
   },
   "legacyPackages.x86_64-linux.zluda": {
     "description": "CUDA on non-Nvidia GPUs",
