@@ -8567,7 +8567,7 @@
   "legacyPackages.x86_64-linux.anomaly-hex": {
     "description": "Local-first voice dictation",
     "pname": "anomaly-hex",
-    "version": "3.3.0"
+    "version": "3.4.0"
   },
   "legacyPackages.x86_64-linux.anonymous-pro-fonts": {
     "description": "TrueType font set intended for source code",
@@ -10462,7 +10462,7 @@
   "legacyPackages.x86_64-linux.art": {
     "description": "Raw converter based on RawTherapee",
     "pname": "art",
-    "version": "1.26.9"
+    "version": "1.26.11"
   },
   "legacyPackages.x86_64-linux.art-standalone": {
     "description": "Art and dependencies with modifications to make it work on Linux",
@@ -17037,7 +17037,7 @@
   "legacyPackages.x86_64-linux.bitwarden-cli": {
     "description": "Secure and free password manager for all of your devices",
     "pname": "bitwarden-cli",
-    "version": "2026.10.1"
+    "version": "2026.11.0"
   },
   "legacyPackages.x86_64-linux.bitwarden-desktop": {
     "description": "Secure and free password manager for all of your devices",
@@ -18577,7 +18577,7 @@
   "legacyPackages.x86_64-linux.broadcast-box": {
     "description": "WebRTC broadcast server",
     "pname": "broadcast-box",
-    "version": "0-unstable-2025-06-04"
+    "version": "2.1.1"
   },
   "legacyPackages.x86_64-linux.broadcom-bt-firmware": {
     "description": "Firmware for Broadcom WIDCOMM® Bluetooth devices",
@@ -21034,6 +21034,11 @@
     "pname": "cargo-pgrx",
     "version": "0.19.0"
   },
+  "legacyPackages.x86_64-linux.cargo-pgrx_0_19_1": {
+    "description": "Build Postgres Extensions with Rust",
+    "pname": "cargo-pgrx",
+    "version": "0.19.1"
+  },
   "legacyPackages.x86_64-linux.cargo-pio": {
     "description": "Build Rust embedded projects with PlatformIO",
     "pname": "cargo-pio",
@@ -22762,7 +22767,7 @@
   "legacyPackages.x86_64-linux.chatgpt": {
     "description": "Desktop application for ChatGPT",
     "pname": "chatgpt",
-    "version": "26.1111.21308"
+    "version": "26.1117.41037"
   },
   "legacyPackages.x86_64-linux.chatgpt-classic": {
     "description": "Desktop application for ChatGPT Classic",
@@ -35712,7 +35717,7 @@
   "legacyPackages.x86_64-linux.dashy-ui": {
     "description": "Open source, highly customizable, easy-to-use, privacy-respecting dashboard app",
     "pname": "dashy-ui",
-    "version": "4.9.16"
+    "version": "4.9.19"
   },
   "legacyPackages.x86_64-linux.dasm": {
     "description": "Assembler for 6502 and other 8-bit microprocessors",
@@ -35757,7 +35762,7 @@
   "legacyPackages.x86_64-linux.dataform": {
     "description": "Dataform CLI",
     "pname": "dataform",
-    "version": "3.1.3"
+    "version": "3.1.5"
   },
   "legacyPackages.x86_64-linux.datafusion-cli": {
     "description": "CLI for Apache Arrow DataFusion",
@@ -42817,7 +42822,7 @@
   "legacyPackages.x86_64-linux.eigenwallet": {
     "description": "Protocol and desktop application for swapping Monero and Bitcoin",
     "pname": "eigenwallet",
-    "version": "4.16.1"
+    "version": "5.0.2"
   },
   "legacyPackages.x86_64-linux.eilmeldung": {
     "description": "Feature-rich TUI RSS reader based on the news-flash library",
@@ -69627,12 +69632,12 @@
   "legacyPackages.x86_64-linux.gridcoin-research": {
     "description": "POS-based cryptocurrency that rewards users for participating on the BOINC network",
     "pname": "gridcoin-research",
-    "version": "5.5.2.0"
+    "version": "5.5.3.0"
   },
   "legacyPackages.x86_64-linux.gridcoin-researchd": {
     "description": "POS-based cryptocurrency that rewards users for participating on the BOINC network",
     "pname": "gridcoin-researchd",
-    "version": "5.5.2.0"
+    "version": "5.5.3.0"
   },
   "legacyPackages.x86_64-linux.gridcraft": {
     "description": "Spreadsheet app with XLSX, CSV and TSV support",
@@ -71313,6 +71318,16 @@
     "description": "Minimal speedrun timer",
     "pname": "hail",
     "version": "0.5.0"
+  },
+  "legacyPackages.x86_64-linux.hailo1x-firmware": {
+    "description": "Hailo 8 AI Accelerator firmware",
+    "pname": "hailo1x-firmware",
+    "version": "5.5.0"
+  },
+  "legacyPackages.x86_64-linux.hailo8-firmware": {
+    "description": "Hailo 8 AI Accelerator firmware",
+    "pname": "hailo8-firmware",
+    "version": "4.24.0"
   },
   "legacyPackages.x86_64-linux.haiti": {
     "description": "CLI tool to identify hash types",
@@ -174647,7 +174662,7 @@
   "legacyPackages.x86_64-linux.ibm-plex": {
     "description": "IBM Plex Typeface",
     "pname": "ibm-plex",
-    "version": "0-unstable-2026-07-30"
+    "version": "0-unstable-2026-11-18"
   },
   "legacyPackages.x86_64-linux.ibmcloud-cli": {
     "description": "Command line client for IBM Cloud",
@@ -179872,7 +179887,7 @@
   "legacyPackages.x86_64-linux.joplin-desktop": {
     "description": "Open source note taking and to-do application with synchronisation capabilities",
     "pname": "joplin-desktop",
-    "version": "3.7.22"
+    "version": "3.7.24"
   },
   "legacyPackages.x86_64-linux.jose": {
     "description": "C-language implementation of Javascript Object Signing and Encryption",
@@ -185162,12 +185177,12 @@
   "legacyPackages.x86_64-linux.kiro-cli": {
     "description": "Command-line interface for Kiro, an agentic IDE",
     "pname": "kiro-cli",
-    "version": "3.3.0"
+    "version": "3.5.0"
   },
   "legacyPackages.x86_64-linux.kiro-cli-unwrapped": {
     "description": "Command-line interface for Kiro, an agentic IDE",
     "pname": "kiro-cli-unwrapped",
-    "version": "3.3.0"
+    "version": "3.5.0"
   },
   "legacyPackages.x86_64-linux.kiro-fhs": {
     "description": "Wrapped variant of kiro which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications",
@@ -185447,7 +185462,7 @@
   "legacyPackages.x86_64-linux.kmscon": {
     "description": "KMS/DRM based System Console",
     "pname": "kmscon",
-    "version": "10.1.1"
+    "version": "10.1.2"
   },
   "legacyPackages.x86_64-linux.kmscube": {
     "description": "Example OpenGL app using KMS/GBM",
@@ -196157,12 +196172,12 @@
   "legacyPackages.x86_64-linux.lilypond-unstable": {
     "description": "Music typesetting system",
     "pname": "lilypond",
-    "version": "2.27.4"
+    "version": "2.27.5"
   },
   "legacyPackages.x86_64-linux.lilypond-unstable-with-fonts": {
     "description": "Music typesetting system",
     "pname": "lilypond-with-fonts",
-    "version": "2.27.4"
+    "version": "2.27.5"
   },
   "legacyPackages.x86_64-linux.lilypond-with-fonts": {
     "description": "Music typesetting system",
@@ -196823,6 +196838,16 @@
     "description": "GTP-U Linux Kernel Module",
     "pname": "gtp5g",
     "version": "0.10.2"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.hailo1x": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo1x",
+    "version": "5.5.0"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.hailo8": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo8",
+    "version": "4.24.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.hid-fanatecff": {
     "description": "Linux module driver for Fanatec driving wheels",
@@ -197663,6 +197688,16 @@
     "description": "GTP-U Linux Kernel Module",
     "pname": "gtp5g",
     "version": "0.10.2"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.hailo1x": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo1x",
+    "version": "5.5.0"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.hailo8": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo8",
+    "version": "4.24.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.hid-fanatecff": {
     "description": "Linux module driver for Fanatec driving wheels",
@@ -198509,6 +198544,16 @@
     "pname": "gtp5g",
     "version": "0.10.2"
   },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.hailo1x": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo1x",
+    "version": "5.5.0"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.hailo8": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo8",
+    "version": "4.24.0"
+  },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.hid-fanatecff": {
     "description": "Linux module driver for Fanatec driving wheels",
     "pname": "hid-fanatecff",
@@ -199354,6 +199399,16 @@
     "pname": "gtp5g",
     "version": "0.10.2"
   },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.hailo1x": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo1x",
+    "version": "5.5.0"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.hailo8": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo8",
+    "version": "4.24.0"
+  },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.hid-fanatecff": {
     "description": "Linux module driver for Fanatec driving wheels",
     "pname": "hid-fanatecff",
@@ -200193,6 +200248,16 @@
     "description": "GTP-U Linux Kernel Module",
     "pname": "gtp5g",
     "version": "0.10.2"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_7_3.hailo1x": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo1x",
+    "version": "5.5.0"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_7_3.hailo8": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo8",
+    "version": "4.24.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_7_3.hid-fanatecff": {
     "description": "Linux module driver for Fanatec driving wheels",
@@ -201039,6 +201104,16 @@
     "pname": "gtp5g",
     "version": "0.10.2"
   },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.hailo1x": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo1x",
+    "version": "5.5.0"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.hailo8": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo8",
+    "version": "4.24.0"
+  },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.hid-fanatecff": {
     "description": "Linux module driver for Fanatec driving wheels",
     "pname": "hid-fanatecff",
@@ -201883,6 +201958,16 @@
     "description": "GTP-U Linux Kernel Module",
     "pname": "gtp5g",
     "version": "0.10.2"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.hailo1x": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo1x",
+    "version": "5.5.0"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.hailo8": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo8",
+    "version": "4.24.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.hid-fanatecff": {
     "description": "Linux module driver for Fanatec driving wheels",
@@ -202729,6 +202814,16 @@
     "pname": "gtp5g",
     "version": "0.10.2"
   },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.hailo1x": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo1x",
+    "version": "5.5.0"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.hailo8": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo8",
+    "version": "4.24.0"
+  },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.hid-fanatecff": {
     "description": "Linux module driver for Fanatec driving wheels",
     "pname": "hid-fanatecff",
@@ -203574,6 +203669,16 @@
     "pname": "gtp5g",
     "version": "0.10.2"
   },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.hailo1x": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo1x",
+    "version": "5.5.0"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.hailo8": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo8",
+    "version": "4.24.0"
+  },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.hid-fanatecff": {
     "description": "Linux module driver for Fanatec driving wheels",
     "pname": "hid-fanatecff",
@@ -204418,6 +204523,16 @@
     "description": "GTP-U Linux Kernel Module",
     "pname": "gtp5g",
     "version": "0.10.2"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages.hailo1x": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo1x",
+    "version": "5.5.0"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages.hailo8": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo8",
+    "version": "4.24.0"
   },
   "legacyPackages.x86_64-linux.linuxPackages.hid-fanatecff": {
     "description": "Linux module driver for Fanatec driving wheels",
@@ -205269,6 +205384,16 @@
     "pname": "gtp5g",
     "version": "0.10.2"
   },
+  "legacyPackages.x86_64-linux.linuxPackages_latest.hailo1x": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo1x",
+    "version": "5.5.0"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_latest.hailo8": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo8",
+    "version": "4.24.0"
+  },
   "legacyPackages.x86_64-linux.linuxPackages_latest.hid-fanatecff": {
     "description": "Linux module driver for Fanatec driving wheels",
     "pname": "hid-fanatecff",
@@ -206113,6 +206238,16 @@
     "description": "GTP-U Linux Kernel Module",
     "pname": "gtp5g",
     "version": "0.10.2"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_xanmod.hailo1x": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo1x",
+    "version": "5.5.0"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_xanmod.hailo8": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo8",
+    "version": "4.24.0"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.hid-fanatecff": {
     "description": "Linux module driver for Fanatec driving wheels",
@@ -206959,6 +207094,16 @@
     "pname": "gtp5g",
     "version": "0.10.2"
   },
+  "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.hailo1x": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo1x",
+    "version": "5.5.0"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.hailo8": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo8",
+    "version": "4.24.0"
+  },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.hid-fanatecff": {
     "description": "Linux module driver for Fanatec driving wheels",
     "pname": "hid-fanatecff",
@@ -207804,6 +207949,16 @@
     "pname": "gtp5g",
     "version": "0.10.2"
   },
+  "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.hailo1x": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo1x",
+    "version": "5.5.0"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.hailo8": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo8",
+    "version": "4.24.0"
+  },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.hid-fanatecff": {
     "description": "Linux module driver for Fanatec driving wheels",
     "pname": "hid-fanatecff",
@@ -208648,6 +208803,16 @@
     "description": "GTP-U Linux Kernel Module",
     "pname": "gtp5g",
     "version": "0.10.2"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_zen.hailo1x": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo1x",
+    "version": "5.5.0"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_zen.hailo8": {
+    "description": "Hailo 10/15 PCIe driver",
+    "pname": "hailo8",
+    "version": "4.24.0"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.hid-fanatecff": {
     "description": "Linux module driver for Fanatec driving wheels",
@@ -209607,7 +209772,7 @@
   "legacyPackages.x86_64-linux.little_boxes": {
     "description": "Add boxes are input text",
     "pname": "little_boxes",
-    "version": "1.12.1"
+    "version": "1.14.0"
   },
   "legacyPackages.x86_64-linux.littlegptracker": {
     "description": "Music tracker optimised to run on portable game consoles",
@@ -252067,7 +252232,7 @@
   "legacyPackages.x86_64-linux.octoprint": {
     "description": "Snappy web interface for your 3D printer",
     "pname": "OctoPrint",
-    "version": "1.11.8"
+    "version": "2.0.1"
   },
   "legacyPackages.x86_64-linux.octopus": {
     "description": "Real-space time dependent density-functional theory code",
@@ -254477,7 +254642,7 @@
   "legacyPackages.x86_64-linux.openlist": {
     "description": "AList Fork to Anti Trust Crisis",
     "pname": "openlist",
-    "version": "4.2.9"
+    "version": "4.2.10"
   },
   "legacyPackages.x86_64-linux.openllm": {
     "description": "Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud",
@@ -256687,7 +256852,7 @@
   "legacyPackages.x86_64-linux.owntracks-recorder": {
     "description": "Store and access data published by OwnTracks apps",
     "pname": "owntracks-recorder",
-    "version": "1.0.1"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.owocr": {
     "description": "Optical character recognition for Japanese text",
@@ -283322,7 +283487,7 @@
   "legacyPackages.x86_64-linux.piliplus": {
     "description": "Third-party Bilibili client developed in Flutter",
     "pname": "piliplus",
-    "version": "2.2.0.2"
+    "version": "2.2.1"
   },
   "legacyPackages.x86_64-linux.pilot-link": {
     "description": "Suite of tools for connecting to PalmOS handheld devices",
@@ -285494,6 +285659,11 @@
     "pname": "postgresql-lantern",
     "version": "0.5.0"
   },
+  "legacyPackages.x86_64-linux.postgresql15Packages.lead": {
+    "description": "Non-production Postgres text-search extension for using PlanetScale TIN in development",
+    "pname": "lead",
+    "version": "1.0.6-unstable-2026-10-08"
+  },
   "legacyPackages.x86_64-linux.postgresql15Packages.ogr_fdw": {
     "description": "PostgreSQL foreign data wrapper for OGR",
     "pname": "ogr_fdw",
@@ -285873,6 +286043,11 @@
     "description": "PostgreSQL vector database extension for building AI applications",
     "pname": "postgresql-lantern",
     "version": "0.5.0"
+  },
+  "legacyPackages.x86_64-linux.postgresql16Packages.lead": {
+    "description": "Non-production Postgres text-search extension for using PlanetScale TIN in development",
+    "pname": "lead",
+    "version": "1.0.6-unstable-2026-10-08"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.ogr_fdw": {
     "description": "PostgreSQL foreign data wrapper for OGR",
@@ -286254,6 +286429,11 @@
     "pname": "postgresql-lantern",
     "version": "0.5.0"
   },
+  "legacyPackages.x86_64-linux.postgresql17Packages.lead": {
+    "description": "Non-production Postgres text-search extension for using PlanetScale TIN in development",
+    "pname": "lead",
+    "version": "1.0.6-unstable-2026-10-08"
+  },
   "legacyPackages.x86_64-linux.postgresql17Packages.ogr_fdw": {
     "description": "PostgreSQL foreign data wrapper for OGR",
     "pname": "ogr_fdw",
@@ -286633,6 +286813,11 @@
     "description": "PostgreSQL vector database extension for building AI applications",
     "pname": "postgresql-lantern",
     "version": "0.5.0"
+  },
+  "legacyPackages.x86_64-linux.postgresql18Packages.lead": {
+    "description": "Non-production Postgres text-search extension for using PlanetScale TIN in development",
+    "pname": "lead",
+    "version": "1.0.6-unstable-2026-10-08"
   },
   "legacyPackages.x86_64-linux.postgresql18Packages.ogr_fdw": {
     "description": "PostgreSQL foreign data wrapper for OGR",
@@ -287014,6 +287199,11 @@
     "pname": "postgresql-lantern",
     "version": "0.5.0"
   },
+  "legacyPackages.x86_64-linux.postgresql19Packages.lead": {
+    "description": "Non-production Postgres text-search extension for using PlanetScale TIN in development",
+    "pname": "lead",
+    "version": "1.0.6-unstable-2026-10-08"
+  },
   "legacyPackages.x86_64-linux.postgresql19Packages.ogr_fdw": {
     "description": "PostgreSQL foreign data wrapper for OGR",
     "pname": "ogr_fdw",
@@ -287393,6 +287583,11 @@
     "description": "PostgreSQL vector database extension for building AI applications",
     "pname": "postgresql-lantern",
     "version": "0.5.0"
+  },
+  "legacyPackages.x86_64-linux.postgresqlPackages.lead": {
+    "description": "Non-production Postgres text-search extension for using PlanetScale TIN in development",
+    "pname": "lead",
+    "version": "1.0.6-unstable-2026-10-08"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.ogr_fdw": {
     "description": "PostgreSQL foreign data wrapper for OGR",
@@ -291722,7 +291917,7 @@
   "legacyPackages.x86_64-linux.python313Packages.aiogram": {
     "description": "Modern and fully asynchronous framework for Telegram Bot API",
     "pname": "python3.13-aiogram",
-    "version": "3.31.0"
+    "version": "3.33.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.aioguardian": {
     "description": "Python library to interact with Elexa Guardian devices",
@@ -298317,7 +298512,7 @@
   "legacyPackages.x86_64-linux.python313Packages.camel-converter": {
     "description": "Module to convert strings from snake case to camel case or camel case to snake case",
     "pname": "python3.13-camel-converter",
-    "version": "6.0.1"
+    "version": "6.0.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.camelot": {
     "description": "Python library to extract tabular data from PDFs",
@@ -299068,11 +299263,6 @@
     "description": "Clarifai Python Runner Protocol",
     "pname": "python3.13-clarifai-protocol",
     "version": "0.0.14"
-  },
-  "legacyPackages.x86_64-linux.python313Packages.class-doc": {
-    "description": "Extract attributes docstrings defined in various ways",
-    "pname": "python3.13-class-doc",
-    "version": "0.2.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.classify-imports": {
     "description": "Utilities for refactoring imports in python-like syntax",
@@ -302004,6 +302194,11 @@
     "pname": "python3.13-devtools",
     "version": "0.13.0"
   },
+  "legacyPackages.x86_64-linux.python313Packages.dextrace": {
+    "description": "Module for Android APK/DEX parsing and call-tracing",
+    "pname": "python3.13-dextrace",
+    "version": "26.9.1"
+  },
   "legacyPackages.x86_64-linux.python313Packages.dfdiskcache": {
     "description": "Python library for caching pandas.DataFrame objects to local disk",
     "pname": "python3.13-df-diskcache",
@@ -302193,6 +302388,11 @@
     "description": "Disk and file backed persistent cache",
     "pname": "python3.13-diskcache",
     "version": "5.6.3"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.diskcache-community": {
+    "description": "Disk and file backed persistent cache",
+    "pname": "python3.13-diskcache-community",
+    "version": "5.8.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.diskcache-stubs": {
     "description": "Diskcache stubs",
@@ -310117,7 +310317,7 @@
   "legacyPackages.x86_64-linux.python313Packages.holidays": {
     "description": "Generate and work with holidays in Python",
     "pname": "python3.13-holidays",
-    "version": "0.108"
+    "version": "0.109"
   },
   "legacyPackages.x86_64-linux.python313Packages.holoviews": {
     "description": "Python data analysis and visualization seamless and simple",
@@ -331452,7 +331652,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pysigma": {
     "description": "Library to parse and convert Sigma rules into queries",
     "pname": "python3.13-pysigma",
-    "version": "1.5.0"
+    "version": "2.1.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pysigma-backend-crowdstrike": {
     "description": "Library to support CrowdStrike pipeline for pySigma",
@@ -331487,12 +331687,12 @@
   "legacyPackages.x86_64-linux.python313Packages.pysigma-backend-splunk": {
     "description": "Library to support Splunk for pySigma",
     "pname": "python3.13-pysigma-backend-splunk",
-    "version": "2.1.0"
+    "version": "3.0.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.pysigma-backend-sqlite": {
     "description": "Library to support sqlite for pySigma",
     "pname": "python3.13-pysigma-backend-sqlite",
-    "version": "1.2.4"
+    "version": "2.1.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.pysigma-pipeline-crowdstrike": {
     "description": "Library to support CrowdStrike pipeline for pySigma",
@@ -331502,12 +331702,12 @@
   "legacyPackages.x86_64-linux.python313Packages.pysigma-pipeline-sysmon": {
     "description": "Library to support Sysmon pipeline for pySigma",
     "pname": "python3.13-pysigma-pipeline-sysmon",
-    "version": "2.0.0"
+    "version": "3.0.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pysigma-pipeline-windows": {
     "description": "Library to support Windows service pipeline for pySigma",
     "pname": "python3.13-pysigma-pipeline-windows",
-    "version": "2.0.1"
+    "version": "3.0.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pysignalclirestapi": {
     "description": "Small python library for the Signal Cli REST API",
@@ -347419,6 +347619,11 @@
     "pname": "python3.13-types-psycopg2",
     "version": "2.9.21.20260724"
   },
+  "legacyPackages.x86_64-linux.python313Packages.types-pyasn1": {
+    "description": "Typing stubs for pyasn1",
+    "pname": "python3.13-types-pyasn1",
+    "version": "0.6.0.20261113"
+  },
   "legacyPackages.x86_64-linux.python313Packages.types-pyopenssl": {
     "description": "Typing stubs for pyopenssl",
     "pname": "python3.13-types-pyopenssl",
@@ -348392,7 +348597,7 @@
   "legacyPackages.x86_64-linux.python313Packages.validate-pyproject-schema-store": {
     "description": "Daily automatic mirror of SchemaStore for validate-pyproject",
     "pname": "python3.13-validate-pyproject-schema-store",
-    "version": "2026.11.14"
+    "version": "2026.11.20"
   },
   "legacyPackages.x86_64-linux.python313Packages.validator-collection": {
     "description": "Python library of 60+ commonly-used validator functions",
@@ -351632,7 +351837,7 @@
   "legacyPackages.x86_64-linux.python314Packages.aiogram": {
     "description": "Modern and fully asynchronous framework for Telegram Bot API",
     "pname": "python3.14-aiogram",
-    "version": "3.31.0"
+    "version": "3.33.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.aioguardian": {
     "description": "Python library to interact with Elexa Guardian devices",
@@ -358222,7 +358427,7 @@
   "legacyPackages.x86_64-linux.python314Packages.camel-converter": {
     "description": "Module to convert strings from snake case to camel case or camel case to snake case",
     "pname": "python3.14-camel-converter",
-    "version": "6.0.1"
+    "version": "6.0.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.camelot": {
     "description": "Python library to extract tabular data from PDFs",
@@ -358973,11 +359178,6 @@
     "description": "Clarifai Python Runner Protocol",
     "pname": "python3.14-clarifai-protocol",
     "version": "0.0.14"
-  },
-  "legacyPackages.x86_64-linux.python314Packages.class-doc": {
-    "description": "Extract attributes docstrings defined in various ways",
-    "pname": "python3.14-class-doc",
-    "version": "0.2.6"
   },
   "legacyPackages.x86_64-linux.python314Packages.classify-imports": {
     "description": "Utilities for refactoring imports in python-like syntax",
@@ -361909,6 +362109,11 @@
     "pname": "python3.14-devtools",
     "version": "0.13.0"
   },
+  "legacyPackages.x86_64-linux.python314Packages.dextrace": {
+    "description": "Module for Android APK/DEX parsing and call-tracing",
+    "pname": "python3.14-dextrace",
+    "version": "26.9.1"
+  },
   "legacyPackages.x86_64-linux.python314Packages.dfdiskcache": {
     "description": "Python library for caching pandas.DataFrame objects to local disk",
     "pname": "python3.14-df-diskcache",
@@ -362098,6 +362303,11 @@
     "description": "Disk and file backed persistent cache",
     "pname": "python3.14-diskcache",
     "version": "5.6.3"
+  },
+  "legacyPackages.x86_64-linux.python314Packages.diskcache-community": {
+    "description": "Disk and file backed persistent cache",
+    "pname": "python3.14-diskcache-community",
+    "version": "5.8.5"
   },
   "legacyPackages.x86_64-linux.python314Packages.diskcache-stubs": {
     "description": "Diskcache stubs",
@@ -370022,7 +370232,7 @@
   "legacyPackages.x86_64-linux.python314Packages.holidays": {
     "description": "Generate and work with holidays in Python",
     "pname": "python3.14-holidays",
-    "version": "0.108"
+    "version": "0.109"
   },
   "legacyPackages.x86_64-linux.python314Packages.holoviews": {
     "description": "Python data analysis and visualization seamless and simple",
@@ -391357,7 +391567,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pysigma": {
     "description": "Library to parse and convert Sigma rules into queries",
     "pname": "python3.14-pysigma",
-    "version": "1.5.0"
+    "version": "2.1.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.pysigma-backend-crowdstrike": {
     "description": "Library to support CrowdStrike pipeline for pySigma",
@@ -391392,12 +391602,12 @@
   "legacyPackages.x86_64-linux.python314Packages.pysigma-backend-splunk": {
     "description": "Library to support Splunk for pySigma",
     "pname": "python3.14-pysigma-backend-splunk",
-    "version": "2.1.0"
+    "version": "3.0.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.pysigma-backend-sqlite": {
     "description": "Library to support sqlite for pySigma",
     "pname": "python3.14-pysigma-backend-sqlite",
-    "version": "1.2.4"
+    "version": "2.1.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.pysigma-pipeline-crowdstrike": {
     "description": "Library to support CrowdStrike pipeline for pySigma",
@@ -391407,12 +391617,12 @@
   "legacyPackages.x86_64-linux.python314Packages.pysigma-pipeline-sysmon": {
     "description": "Library to support Sysmon pipeline for pySigma",
     "pname": "python3.14-pysigma-pipeline-sysmon",
-    "version": "2.0.0"
+    "version": "3.0.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.pysigma-pipeline-windows": {
     "description": "Library to support Windows service pipeline for pySigma",
     "pname": "python3.14-pysigma-pipeline-windows",
-    "version": "2.0.1"
+    "version": "3.0.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.pysignalclirestapi": {
     "description": "Small python library for the Signal Cli REST API",
@@ -407324,6 +407534,11 @@
     "pname": "python3.14-types-psycopg2",
     "version": "2.9.21.20260724"
   },
+  "legacyPackages.x86_64-linux.python314Packages.types-pyasn1": {
+    "description": "Typing stubs for pyasn1",
+    "pname": "python3.14-types-pyasn1",
+    "version": "0.6.0.20261113"
+  },
   "legacyPackages.x86_64-linux.python314Packages.types-pyopenssl": {
     "description": "Typing stubs for pyopenssl",
     "pname": "python3.14-types-pyopenssl",
@@ -408297,7 +408512,7 @@
   "legacyPackages.x86_64-linux.python314Packages.validate-pyproject-schema-store": {
     "description": "Daily automatic mirror of SchemaStore for validate-pyproject",
     "pname": "python3.14-validate-pyproject-schema-store",
-    "version": "2026.11.14"
+    "version": "2026.11.20"
   },
   "legacyPackages.x86_64-linux.python314Packages.validator-collection": {
     "description": "Python library of 60+ commonly-used validator functions",
@@ -412822,7 +413037,7 @@
   "legacyPackages.x86_64-linux.quark-engine": {
     "description": "Android malware (analysis and scoring) system",
     "pname": "quark-engine",
-    "version": "25.6.1"
+    "version": "26.11.1"
   },
   "legacyPackages.x86_64-linux.quark-goldleaf": {
     "description": "GUI tool for transfering files between a computer and a Nintendo Switch running Goldleaf",
@@ -415558,6 +415773,11 @@
     "description": "Go implementation of Revanity, a Reticulum/LXMF vanity address generator",
     "pname": "revanity-go",
     "version": "0-unstable-2026-03-30"
+  },
+  "legacyPackages.x86_64-linux.revdiff": {
+    "description": "Terminal interface for reviewing diffs, files, and documents with inline annotations",
+    "pname": "revdiff",
+    "version": "1.15.0"
   },
   "legacyPackages.x86_64-linux.reveal-md": {
     "description": "Get beautiful reveal.js presentations from your Markdown files",
@@ -452807,7 +453027,7 @@
   "legacyPackages.x86_64-linux.sigma-cli": {
     "description": "Sigma command line interface",
     "pname": "sigma-cli",
-    "version": "3.1.0"
+    "version": "4.0.1"
   },
   "legacyPackages.x86_64-linux.signal-backup-deduplicator": {
     "description": "Generate chunked backups for Signal messages",
@@ -456737,12 +456957,12 @@
   "legacyPackages.x86_64-linux.squeezelite": {
     "description": "Lightweight headless squeezebox client emulator",
     "pname": "squeezelite",
-    "version": "2.0.0.1612"
+    "version": "2.0.0.1613"
   },
   "legacyPackages.x86_64-linux.squeezelite-pulse": {
     "description": "Lightweight headless squeezebox client emulator",
     "pname": "squeezelite-pulse",
-    "version": "2.0.0.1612"
+    "version": "2.0.0.1613"
   },
   "legacyPackages.x86_64-linux.squid": {
     "description": "Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more",
@@ -456827,7 +457047,7 @@
   "legacyPackages.x86_64-linux.srgn": {
     "description": "Code surgeon for precise text and code transplantation",
     "pname": "srgn",
-    "version": "0.14.3"
+    "version": "0.14.4"
   },
   "legacyPackages.x86_64-linux.srht-gen-oauth-tok": {
     "description": "Script to register a new Sourcehut OAuth token for a given user",
@@ -462922,7 +463142,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.dopplerhq_doppler": {
     "description": "",
     "pname": "terraform-provider-doppler",
-    "version": "1.23.0"
+    "version": "1.23.2"
   },
   "legacyPackages.x86_64-linux.terraform-providers.drfaust92_bitbucket": {
     "description": "",
@@ -463272,7 +463492,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.newrelic_newrelic": {
     "description": "",
     "pname": "terraform-provider-newrelic",
-    "version": "3.101.12"
+    "version": "3.102.1"
   },
   "legacyPackages.x86_64-linux.terraform-providers.ns1-terraform_ns1": {
     "description": "",
@@ -540302,7 +540522,7 @@
   "legacyPackages.x86_64-linux.unsloth-desktop": {
     "description": "Desktop application for running and training AI models locally",
     "pname": "unsloth-desktop",
-    "version": "0.1.916-beta"
+    "version": "0.1.920-beta"
   },
   "legacyPackages.x86_64-linux.unstick": {
     "description": "Silently eats chmod commands forbidden by Nix",
@@ -555067,7 +555287,7 @@
   "legacyPackages.x86_64-linux.vivaldi": {
     "description": "Browser for our Friends, powerful and personal",
     "pname": "vivaldi",
-    "version": "8.3.4191.44"
+    "version": "8.3.4191.47"
   },
   "legacyPackages.x86_64-linux.vivaldi-ffmpeg-codecs": {
     "description": "Additional support for proprietary codecs for Vivaldi and other chromium based tools",
@@ -559647,12 +559867,12 @@
   "legacyPackages.x86_64-linux.webkitgtk_4_1": {
     "description": "Web content rendering engine, GTK port",
     "pname": "webkitgtk",
-    "version": "2.54.2+abi=4.1"
+    "version": "2.54.3+abi=4.1"
   },
   "legacyPackages.x86_64-linux.webkitgtk_6_0": {
     "description": "Web content rendering engine, GTK port",
     "pname": "webkitgtk",
-    "version": "2.54.2+abi=6.0"
+    "version": "2.54.3+abi=6.0"
   },
   "legacyPackages.x86_64-linux.weblate": {
     "description": "Web based translation tool with tight version control integration",
@@ -559962,7 +560182,7 @@
   "legacyPackages.x86_64-linux.wezterm": {
     "description": "GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
     "pname": "wezterm",
-    "version": "0-unstable-2026-11-08"
+    "version": "0-unstable-2026-11-20"
   },
   "legacyPackages.x86_64-linux.wf-config": {
     "description": "Library for managing configuration files, written for Wayfire",
@@ -560352,7 +560572,7 @@
   "legacyPackages.x86_64-linux.wiki-go": {
     "description": "A modern, feature-rich, databaseless flat-file wiki platform built with Go",
     "pname": "wiki-go",
-    "version": "1.9.3"
+    "version": "1.9.6"
   },
   "legacyPackages.x86_64-linux.wiki-js": {
     "description": "Modern and powerful wiki app built on Node.js",
@@ -562302,7 +562522,7 @@
   "legacyPackages.x86_64-linux.wyoming-faster-whisper": {
     "description": "Wyoming Server for Faster Whisper",
     "pname": "wyoming-faster-whisper",
-    "version": "3.8.1"
+    "version": "3.9.1"
   },
   "legacyPackages.x86_64-linux.wyoming-openwakeword": {
     "description": "Open source voice assistant toolkit for many human languages",
@@ -562312,7 +562532,7 @@
   "legacyPackages.x86_64-linux.wyoming-piper": {
     "description": "Wyoming Server for Piper",
     "pname": "wyoming-piper",
-    "version": "2.5.2"
+    "version": "2.5.4"
   },
   "legacyPackages.x86_64-linux.wyoming-satellite": {
     "description": "Remote voice satellite using Wyoming protocol",
@@ -565762,7 +565982,7 @@
   "legacyPackages.x86_64-linux.xwin": {
     "description": "Utility for downloading the Microsoft CRT & Windows SDK libraries",
     "pname": "xwin",
-    "version": "0.9.0"
+    "version": "0.10.0"
   },
   "legacyPackages.x86_64-linux.xwininfo": {
     "description": "Utility to print information about windows on an X server",
@@ -567867,7 +568087,7 @@
   "legacyPackages.x86_64-linux.zeroclaw": {
     "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything",
     "pname": "zeroclaw",
-    "version": "0.8.4"
+    "version": "0.8.7"
   },
   "legacyPackages.x86_64-linux.zerofree": {
     "description": "Zero free blocks from ext2, ext3 and ext4 file-systems",
